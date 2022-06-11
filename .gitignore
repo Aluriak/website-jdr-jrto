@@ -1,3 +1,7 @@
-output/*
-__pycache__/
 Session.vim
+__pycache__/
+output/*
+secrets.py
+
+# pages generated from scripts (thus shouldn't be pushed in the repo)
+content/pages/dates.mkd

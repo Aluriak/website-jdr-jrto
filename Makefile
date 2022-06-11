@@ -7,6 +7,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 
 html:
+	source venv/bin/activate ; python create_pages.py
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)"
 
 clean:
