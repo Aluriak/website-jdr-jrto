@@ -38,7 +38,7 @@ TAG_SAVE_AS = '/tag/{name}.html'
 
 # Blogroll
 LINKS = (
-    ('Framadate', 'https://framadate.org/7YyZuwjkESfrPanJ'),
+    ('Inscriptions', 'https://framadate.org/7YyZuwjkESfrPanJ'),
     ('Discord', 'https://discord.com/invite/WkrKQGxZvQ'),
 )
 OUTLINKS = (
