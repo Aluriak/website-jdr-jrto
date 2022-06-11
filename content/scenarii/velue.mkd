@@ -4,6 +4,8 @@ tags: historique, réaliste
 author: lucas
 slug: velue
 summary: Un jeu de rôle historique prenant place en Sarthe !
+picture: images/velue.png
+picturecopyrights: https://commons.wikimedia.org/w/index.php?curid=95617337
 
 
 Suite à des échanges avec ma grand-mère Sarthoise, j'ai eu très envie de compulser

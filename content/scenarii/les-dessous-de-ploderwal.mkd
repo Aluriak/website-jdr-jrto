@@ -4,5 +4,7 @@ tags: hérythrée, survie
 author: lucas
 slug: les-dessous-de-ploderwal
 summary: La cité de Ploderwal n'est pas sûre, même pour les honnêtes agent de la Couronne qui nettoient les chaussées…
+picture: /images/catacombs-of-the-tormented-souls.png
+picturecopyrights: https://www.deviantart.com/autlyxai/art/Catacombs-Of-The-Tormented-Souls-903310647
 
 

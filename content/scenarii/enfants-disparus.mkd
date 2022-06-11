@@ -4,6 +4,8 @@ tags: hérythrée, enquête
 author: lucas
 slug: les-enfants-disparus
 summary: Les enfants du village ont disparus !
+picture: /images/bourg.png
+picturecopyrights: https://battlesystems.co.uk/product/fantasy-village/
 
 
 Dans le petit village tranquille d'EntreRive, les enfants disparaissent plus vite que les loups ne peuvent les manger.
