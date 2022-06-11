@@ -1,0 +1,18 @@
+title: Questions relatives à l'univers de jeu
+date: 2022-06-09
+slug: univers
+summary: C'est quoi le monde d'Hérythrée ?
+
+
+## C'est quoi le monde d'Hérythrée ?
+C'est un monde de ma conception, qui me permet de mettre tous les concepts que j'ai envie/besoin de manipuler en tant que maître du jeu.
+
+Le JdR se passera dans la région des 7 cités, dont une carte est [disponible ici](https://lucas.bourneuf.net/files/hérythrée.png).
+
+![Carte Hérythrée](https://lucas.bourneuf.net/files/hérythrée.png)
+
+
+
+## Où est-ce que je peux pécho plus d'infos sur ce monde ?
+Sur le discord !
+En tant que joueur, je déconseillerais de trop fureter au risque d'en apprendre trop ; ce qu'il y aura à savoir sera présenté en jeu.

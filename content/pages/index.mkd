@@ -1,0 +1,21 @@
+Title: Index
+save_as: index.html
+status: hidden
+
+
+# Jeu de Rôle en Table Ouverte sur Brest
+
+
+Bienvenue sur le site de JRTO, où l'on centralisera un maximum d'information
+pour l'organisation et le partage.
+
+N'hésitez pas à aller voir les pages indiquées en haut, notamment les FAQ, et bien sûr les scénarii.
+
+Pour vous inscrire à une session, c'est très simple :
+il faut suivre le lien *Dates* en haut à droite !
+
+(ou cliquer [ici](https://framadate.org/7YyZuwjkESfrPanJ))
+
+
+Vous voulez causer ou proposer une date pour votre table, ou trouver d'autres personnes ?
+Venez sur le [discord](https://discord.com/invite/WkrKQGxZvQ) !

@@ -1,0 +1,80 @@
+title: C'est quoi une table ouverte ?
+date: 2022-06-09
+slug: to
+summary: Comment on s'organise ? On fait ça où ?
+
+
+## C'est quoi une table ouverte ?
+Je reprend le vocabulaire de [ce billet](https://ptgptb.fr/jouez-en-table-ouverte), qui dit tout simplement : quand vous avez pas le temps de faire de JdR, regardez comment vous faisiez quand vous n'aviez pas la maîtrise de votre emploi du temps.
+
+L'idée est simple : on organise des dates, vient qui peut, et si on est assez, on confirme le rdv et on joue.
+(Et si on est trop ? On joue à la marrelle, ou alors on fait des choix sur qui vient (je prendrais probablement les premiers inscrits, ou alors je jouerais au dé))
+
+Régulièrement, à mon initiative (ou à la votre d'ailleurs !), on lance un [framadate](https://framadate.org), pour voir qui peut venir quand, on prend quelques dates et voilà : ya plus qu'à être là le jour dit et on s'amuse.
+
+## C’est où ?
+Pour le moment, toutes les tables que j'organise sont sur Brest, et peuvent prendre place, selon les envies/possibilités/accessibilités de chacun et chacune :
+
+- chez moi, rue de concarneau (à 10mn au nord de la place de strasbourg).
+- chez un joueur ou une joueuse qui veut et peut acceuillir 4 autres énergumènes pendant des heures.
+- chez [Sortilège](https://sortileges.fr/brest/), dans le quartier de Recouvrance, qui est prêt à nous acceuillir pourvu qu'on prévienne et que ce jour là ne soit pas un jour «réservé» à d'autres activités (par exemple, le vendredi aprèm', ya beaucoup de magic, donc c'est pas idéal).
+
+
+## Et en visio ?
+C'est aussi possible ! C'est différent, un autre style de jeu, mais c'est faisable si vraiment c'est pas possible de faire autrement.
+
+Le cas échéant, il vous faut une caméra et un (bon) micro, avec la connection internet suffisante pour ne pas être déconeccté-e toutes les 20mn, sinon c'est vite relou.
+
+
+
+## J'ai peur de jouer !
+C'est toujours le cas quand on a jamais essayé ; on se fait un monde du JdR, et il suffit généralement d'une séance pour se rendre compte qu'il n'y a rien à y craindre.
+
+En attendant cette petite séance de théâtre d'improvisation, tu peux [lire des trucs](https://ptgptb.fr/11-manieres-d-etre-un-meilleur-joueur-de-jdr), sans les prendre trop au sérieux non plus, t'es pas là pour être expert(e) dés maintenant.
+
+
+## Il faut que j'amène quoi comme matériel ?
+Dans l'idéal, tu te ramène avec : un crayon de bois, une gomme, un taille-crayon, des dés (voir question suivante), ta bonne humeur, et selon l'horaire et les envies, du manger et du boire :)
+Je peux prêter tout ce matériel, mais j'en ai pas des caisses de réserve.
+
+Sauf pour les dés, c'est différent — les nouveaux joueurs et joueuses  n'en auront probablement pas — faites avec ce que vous avez, j'ai de bonnes réserves à prêter.
+
+
+## On utilise quoi comme dé ?
+Le système de jeu que j'utilise est… variable. En général, on utilise les 7 dés du set standard: d4, d6, d8, d10, d12, d20 et dé dizaine.
+Si vous avez d'autres dés rigolos, n'hésitez pas à les ramener, on pourra trouver une idée pour les intégrer au jeu !
+
+
+## Je peux annuler ?
+Bien sûr, si t'as un empêchement, tu peux annuler. Mais, et c'est là où il faut se rappeler que «Table Ouverte» ne veut pas dire «anomie» ni «malpolitesse», ce serait bien de prévenir, histoire qu'on puisse trouver quelqu'un au pied levé, ou annuler la partie le plus tôt possible si on est plus assez.
+
+
+## Comment je me créé mon personnage ?
+Il est probablement préférable de venir jouer une première fois, et de prendre un personnage pré-tiré (c'est-à-dire, conçu par le MJ).
+Mais une fois cela fait, tu pourrais vouloir créer un personnage. Discutes-en avec le MJ, c'est la seule véritable contrainte.
+
+Parmis les choses à faire éventuellement en amont :
+
+- Identifier l'histoire du personnage, sa place dans l'univers, sa classe sociale, ses motivations, ses aspirations, ses relations avec d'autres personnes et d'autres groupes.
+- Identifier des compétences dans lesquelles le personnage excelle, se débrouille, et celles où il est très mauvais.
+- Fait-il de la magie ? Laquelle ? Se bat-il ? Avec quoi ? Comment ?
+
+Hésite pas à [lire](https://ptgptb.fr/une-bonne-description-de-personnage) [des](http://rolistesnantais.blogspot.com/2014/03/creer-le-background-de-son-personnage.html) [trucs](https://ptgptb.fr/creation-de-perso) pour t'aider.
+
+Une fois ces points décidés, en parler au MJ, voir avec lui ce qu'il est possible de faire.
+
+
+### T'as des exemples de persos qui ont déjà été joués ?
+Bien sûr :
+
+- un *cycliste*, i.e. un marchand qui cycle autour de la Mer Sanctuaire, à travers les 30 cités ou villages qui l'entourent.
+- une noble versée dans la politique, qui connaît la magie de convocation.
+- une paria qui s'est découvert un don pour la magie élémentaire.
+- une roturière qui sait manipuler les émotions des autres.
+- une intouchable qui a appris l'alchimie.
+- un homme qui s'est échappé d'un laboratoire magique. Il est couvert de tattouages qui renferment des démons.
+- un homme-lige déchu qui a juré la mort du magicien qui l'a forcé à tuer ses maîtres
+- un diplomate d'une cité grandiose qui cherche la gloire
+- une Arpenteuse, anciennement noble, qui cherche ses parents dans une anomalie climatique
+- une magicienne des mots à la recherche de connaissances
+- un professeur d'université spécialisé dans la lecture de hiéroglyphes anciens aux pouvoirs encore inconnus
