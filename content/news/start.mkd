@@ -4,6 +4,8 @@ tags: meta
 author: lucas
 slug: start
 summary: Ça commence !
+picture: images/ready-for-adventure.png
+picturecopyrights: https://www.deviantart.com/sandara/art/Ready-for-Adventure-850676183
 
 
 Je lance officiellement ce site pour m'aider à centraliser les informations sur

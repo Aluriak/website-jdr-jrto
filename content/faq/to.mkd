@@ -2,6 +2,8 @@ title: C'est quoi une table ouverte ?
 date: 2022-06-09
 slug: to
 summary: Comment on s'organise ? On fait ça où ?
+picture: images/long-open-table.png
+picturecopyrights: https://www.biglifemag.com/at-the-long-table/
 
 
 ## C'est quoi une table ouverte ?

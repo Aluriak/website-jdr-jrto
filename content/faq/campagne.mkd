@@ -2,6 +2,8 @@ title: Questions relatives aux campagnes
 date: 2022-06-09
 slug: campagnes
 summary: J'adore la campagne
+picture: images/ready-for-adventure.png
+picturecopyrights: https://www.deviantart.com/sandara/art/Ready-for-Adventure-850676183
 
 
 ## C'est quoi une campagne ?

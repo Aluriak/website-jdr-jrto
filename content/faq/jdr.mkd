@@ -2,6 +2,8 @@ title: C'est quoi un jeu de rôle ?
 date: 2022-06-09
 slug: jdr
 summary: On est où ici ? Pourquoi le monsieur il veut pas meujeuter du space-horror ?
+picture: images/dices-and-pen.png
+picturecopyrights: https://pixabay.com/photos/role-playing-game-rpg-dice-to-play-2536016/
 
 
 ## Salut ! Je suis où ?
