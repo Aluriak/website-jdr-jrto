@@ -9,13 +9,13 @@ status: hidden
 Bienvenue sur le site de JRTO, où l'on centralisera un maximum d'information
 pour l'organisation et le partage.
 
-N'hésitez pas à aller voir les pages indiquées en haut, notamment les FAQ, et bien sûr les scénarii.
+N'hésitez pas à aller voir les pages indiquées en haut, notamment les FAQ et les scénarii.
 
 Pour vous inscrire à une session, c'est très simple :
-il faut suivre le lien *Dates* en haut à droite !
+il faut suivre [le lien *Dates* en haut à gauche](/pages/dates.html) !
 
-(ou cliquer [ici](https://framadate.org/7YyZuwjkESfrPanJ))
+(ou aller direct sur [le framadate](https://framadate.org/7YyZuwjkESfrPanJ))
 
 
-Vous voulez causer ou proposer une date pour votre table, ou trouver d'autres personnes ?
+Vous voulez causer, ou proposer une date, ou trouver d'autres personnes ?
 Venez sur le [discord](https://discord.com/invite/WkrKQGxZvQ) !

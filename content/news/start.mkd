@@ -1,0 +1,17 @@
+title: C'est le début de l'aventure !
+date: 2022-06-09
+tags: meta
+author: lucas
+slug: start
+summary: Ça commence !
+
+
+Je lance officiellement ce site pour m'aider à centraliser les informations sur
+la table ouverte de jeu de rôle que j'ai envie de faire naître sur Brest.
+
+Ça inclu des [foires aux questions]({category}faq), qui permettent de centraliser les réponses aux principales questions concernant le jeu de rôle et les tables ouvertes,
+ainsi qu'une [liste de scénarios]({category}scenarii) avec quelques infos sur leur genre et leurs ambiances.
+
+Quant au site lui-même, il est recompilé tous les jours pour pouvoir maintenir la [page des dates](/page/dates.html) à jour,
+et les sources [sont sur github](https://github.com/aluriak/website-jdr-jrto).
+

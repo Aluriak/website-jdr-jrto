@@ -27,17 +27,18 @@ AUTHOR_FEED_RSS = None
 PATH = 'content'
 ARTICLE_PATHS = ['news', 'scenarii', 'faq']
 
-ARTICLE_URL = ('{category}/{slug}.html')
-ARTICLE_SAVE_AS = ('{category}/{slug}.html')
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
 # PAGE_URL = ('{slug}.html')
 # PAGE_SAVE_AS = ('{slug}.html')
 # AUTHOR_URL = ('author/{name}.html')
-# TAG_URL = ('tag/{name}.html')
+TAG_URL = '/tag/{name}.html'
+TAG_SAVE_AS = '/tag/{name}.html'
 
 
 # Blogroll
 LINKS = (
-    ('Dates', 'https://framadate.org/7YyZuwjkESfrPanJ'),
+    ('Framadate', 'https://framadate.org/7YyZuwjkESfrPanJ'),
     ('Discord', 'https://discord.com/invite/WkrKQGxZvQ'),
 )
 OUTLINKS = (

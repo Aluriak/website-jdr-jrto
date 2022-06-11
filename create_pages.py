@@ -17,6 +17,7 @@ def create_page_date(poll_private_url: str, poll_public_url: str, ignore_past_se
     sessions = poll_data.comments_from_sessions(url=poll_private_url, ignore_past_sessions=ignore_past_sessions)
     lines = [
         f"{sessions['total']} sessions sont disponibles." if sessions['total'] else "Aucune session prévues… C'est curieux !",
+        '',
     ]
 
     if sessions['empty']:
@@ -31,7 +32,8 @@ def create_page_date(poll_private_url: str, poll_public_url: str, ignore_past_se
     for session_date, values in sessions['stats'].items():
         lines.append(values['comment'])
 
-    button_poll_link = f'\n<a target="_blank" href="{poll_public_url}">Cliquer ici pour s\'inscrire à une table</a>'
+    button_poll_link = f'<center><b><a target="_blank" href="{poll_public_url}" style="background-color: #04AA6D; border-radius: 5px; font-size: 17px; font-family: \'Source Sans Pro\', sans-serif; padding: 6px 18px; color: white;">Cliquer ici pour s\'inscrire à une table</a></b></center>'
+      
     return DATE_PAGE_TEMPLATE.format(content='\n'.join(lines) + '\n\n\n' + button_poll_link)
 
 
