@@ -10,6 +10,10 @@ html:
 	source venv/bin/activate ; python create_pages.py
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)"
 
+html-publish:
+	source venv/bin/activate ; python create_pages.py
+	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)"
+
 clean:
 	[ ! -d "$(OUTPUTDIR)" ] || rm -rf "$(OUTPUTDIR)"
 
@@ -21,7 +25,7 @@ rsync_upload: publish
 
 
 u: upload
-upload: clean html rsync_upload
+upload: clean html-publish rsync_upload
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload u upload
