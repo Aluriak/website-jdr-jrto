@@ -1,6 +1,6 @@
 AUTHOR = 'lucas'
 SITENAME = 'JRTO'
-SITEURL = 'https://jdr.bourneuf.net'
+SITEURL = 'https://blog.jdr.bourneuf.net'
 
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
