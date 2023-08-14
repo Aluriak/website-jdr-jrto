@@ -1,0 +1,33 @@
+2023-08-14 18:35:27	/var/www/jdr-wiki/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr-wi...', 280)
+  #1 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('dokuwiki.getVer...', Array)
+  #5 /var/www/jdr-wiki/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('dokuwiki.getVer...', Array)
+  #6 /var/www/jdr-wiki/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('dokuwiki.getVer...', NULL)
+  #7 /var/www/jdr-wiki/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version=1...')
+  #8 /var/www/jdr-wiki/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-14 18:39:15	/var/www/jdr-wiki/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr-wi...', 280)
+  #1 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('dokuwiki.getVer...', Array)
+  #5 /var/www/jdr-wiki/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('dokuwiki.getVer...', Array)
+  #6 /var/www/jdr-wiki/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('dokuwiki.getVer...', NULL)
+  #7 /var/www/jdr-wiki/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version=1...')
+  #8 /var/www/jdr-wiki/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-14 18:48:06	/var/www/jdr-wiki/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr-wi...', 280)
+  #1 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr-wiki/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('dokuwiki.getVer...', Array)
+  #5 /var/www/jdr-wiki/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('dokuwiki.getVer...', Array)
+  #6 /var/www/jdr-wiki/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('dokuwiki.getVer...', NULL)
+  #7 /var/www/jdr-wiki/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version=1...')
+  #8 /var/www/jdr-wiki/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}

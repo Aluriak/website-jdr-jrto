@@ -1,0 +1,3 @@
+# Wiki
+
+A dokuwiki instance can be backupped from here
