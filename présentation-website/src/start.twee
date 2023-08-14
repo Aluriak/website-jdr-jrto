@@ -1,0 +1,129 @@
+:: Start
+<center>Vous êtes enfin arrivée.</center>
+
+(after: 2s)[Devant vous, l'//Auberge du Début du Monde//
+    l'un des rare bâtiments encore debout de ce village.
+]
+
+(click: "Auberge du Début du Monde")[(show:?accèsAuberge)]
+(click: "village")[On ne vous a pas parlé du village, juste de l'auberge, un point de rendez-vous pour les (link: "aventuriers")[têtes brûlées] comme vous.]
+(click: "continent d'origine")[Vous avez quitté Taïrha appelé par quelque chose sur ces terres inconnues.]
+(click: "enfin")[le voyage a été long, et l'océan qui vous sépare de votre continent d'origine est tumultueux. Et puis, le bateau était petit et inconfortable.]
+(click: "bateau")[Un petit sloop. Son capitaine n'avait posé aucune question, et vous avait laissé avec vos affaires sur la plage, et aussi un petit tonneau.]
+(click: "tonneau")[«//À destination de Lydie//», avait-il dit, laconique, en désignant le village de la tête.]
+(click: "aucune question")[Habitué des solitaires rejoignant le Continent Oublié ? Ou simplement indifférent ? Quoiqu'il en soit, vous voilà arrivé.]
+
+
+|accèsAuberge)[ [[Pousser la porte de l'auberge->Arrivée auberge]] ]
+
+
+
+
+:: Arrivée auberge
+L'auberge est grande, mais vide et sombre. La porte lourde en bois râpe bruyamment le sol.
+
+Sur le comptoir, au fond, une lumière faiblarde éclaire une silhouette, affairée à réparer une espèce de coffre.
+
+Elle jette un coup d'œil dans votre direction, et vous fait signe de vous approcher.
+
+
+— Bienvenue sur L'Oublié, comme on dit. J'espère que tu trouvera ce que tu cherche.
+
+(link-append: "— Le capitaine du bateau qui m'a amené ici m'a donné ce tonneau, pour une certaine Lydie")[
+«C'est moi !» La femme saisi le tonneau par dessus le comptoir, le ramène à ses pieds, et l'ouvre d'un geste expert. «Ah, super, la cire et les mèches… Quel bon capitaine, ce Dronn !» Elle fouille un peu en marmonnant, puis revient à vous. (after: 1s)[«Merci voyageuse, j'attendais ce colis impatiemment.» (show:?etvous)]
+]
+
+(link-append: "— Comment sais-tu ce que je cherche ?")[
+    — Je ne sais pas pour toi, dit-elle en haussant les épaules, mais ceux qui viennent là ne passent pas par hasard. J'imagine que tu as décidé de venir depuis Équibbis après avoir entendu parler de l'ouverture de l'Oublié ?
+    |answers>[\
+        (link: "Effectivement")[(replace: ?answers)[Tu verra, d'autres sont de cette ville. Ou du royaume Équati, en tout cas.]]
+        (link: "Je ne viens pas d'Équibbis")[(replace: ?answers)[Des gens d'ailleurs commencent à arriver alors. Tant mieux ! Peut-être que mon auberge sera pleine, dans les prochains jours]]
+        (link: "En fait, j'ai appris cela autrement")[(replace: ?answers)[]]
+    ]
+
+    (link-append: "— Nous sommes nombreux à être venus ici ?")[
+    — Plus que ces 80 dernières années en tout cas. L'Oublié n'intéressait plus les royaumes du Nord depuis l'expédition, et maintenant qu'il ne leur appartient plus, n'importe qui peut venir.
+    (link-append: "— L'expédition ?")[
+        — L'expédition du roi Sauker IV, partie il y a 80 ans pour péreniser et protéger les colonies qui s'installaient sur l'Oublié, alors appelé le Nouveau Continent. Vu qu'on ne sait pas trop ce qu'elle est devenue, et que plus aucune colonie ne donne de nouvelle depuis, il est largement admis que plus personne n'habite ce continent.]
+    (link-append: "— N'importe qui ?")[
+        — Pas //n'importe qui//, non. Jusqu'ici, on a pas eu de noble dame en toilettes de court ou de colon idéaliste avec de l'espoir de paix et de calme dans les yeux. Plutôt des gens bourrus, ayant déjà cotoyé la mort, et qui s'attendent à marcher des jours et se confronter à l'inconnu pour peut-être aucun trésor. Je ne sais pas ce qui se dit sur Thaïra, mais ce sont les bonnes personnes qui viennent.
+        (click: "trésor")[
+        — Oui, la majeur partie des derniers arrivés viennent pour ça, d'ailleurs. Ou la gloire. Ou d'autres raisons. Mais j'imagine que si l'expédition n'est jamais revenue, il y a au moins les richesses que le roi a amenée, et la gloire de trouver l'explication de sa disparition.]
+        ]
+    ]
+]
+
+|etvous)[[[— Et vous ?->Questions à Lydie]]]
+
+
+
+:: Questions à Lydie
+«Et moi ?» demande-t-elle faussement.
+
+(set: $étapes to (a: "prenant deux choppes sous le comptoir", "rejoignant des tonneaux montés sur le mur derrière elle", "remplissant les choppes d'une bière noire et épaisse", "revenant avec les deux choppes ")) (set: $_i to 1) \
+
+(link-append: "— Vous êtes Lydie, c'est ça ?")[
+— Effectivement, dit-elle en (print: $_i of $étapes).
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lafin)]]
+(link-append: "— Vous êtes là depuis longtemps ?")[
+— Une quarantaine d'années, se remémore-t-elle, (print: $_i of $étapes). Depuis ma naissance en fait. C'est l'auberge de mes grands-parents et de mes parents.
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lafin)]]
+(link-append: "— Vous êtes nées ici ?")[
+— Oui, mes parents aussi. Mes grand-parents venaient de Friver, raconte-t-elle en (print: $_i of $étapes). Avec d'autres colons, et ont décidé de rester ici, pour accueillir les prochains. C'était une époque où le Nouveau Continent était une promesse de futur radieux.
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lafin)]]
+(link-append: "— T'es toute seule dans ce village en ruine ?")[
+— Mis à part les aventuriers comme toi ? Non, ya aussi Taber et Alain. Taber chasse, et Alain s'occupe du potager. Moi je répare et je gère les stocks.
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lafin)]]
+
+|lafin)[
+    Lydie s'installe en face de vous, et vous donne une pinte tout en entamant la sienne.
+
+    (click: "donne une pinte")[La bière est forte, odorante, extrèmement tourbée. «c'est la seule qu'on sait faire ici, dit Lydie, faudra t'habituer.»]
+
+    [[— Je suis là pour participer à l'exploration du Continent Oublié->Questions exploratoires]]
+]
+
+
+:: Questions exploratoires
+— Je me doute, rit-elle, d'un sourire large et un peu édenté. Les autres sont partis il y a quelques heures, sûrement pour faire du repérage alentours, en attendant de se lancer véritablement dans une expédition vers l'ouest.
+(set: $_i to 1)
+
+(link-append: "— Vers l'ouest ?")[
+— Ici, c'est une manière de dire «vers l'inconnu». Nous sommes à l'Est de l'Oublié, il n'y a pas grand chose d'autre à faire qu'aller à l'ouest quand on veut explorer.
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
+(link-append: "— Qu'y a-t-il alentours ?")[
+— Le village est abandonné depuis des décennies. Taber et Alain dorment ici, mais ont leur appentis de travail plus au nord.
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
+(link-append: "— Qu'y a-t-il d'autre au nord ?")[
+— Un cours d'eau, et juste derrière une forêt. C'est là qu'on va pêcher, à l'occasion.
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
+(link-append: "— Et au sud ?")[
+— Une forêt d'Arbres-Mondes. C'est assez beau, et c'est là que Taber chasse. Il m'a enmenée une fois. On a vu beaucoup de gibier.
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
+
+
+|lacarte)[
+    (link-append: "— Il existe une carte des environs ?")[
+    — «Pas à ma connaissance», dit-elle, comme surprise par l'idée.
+        (link-append: "— Du continent oublié alors ?")[
+        Elle sourit, les yeux dans le vague.
+        — «Quand j'étais toute petite, je me souviens d'une table sur laquelle était gravée des choses. Mon père m'avait expliqué que, quand lui-même était petit, les colons qui se retrouvaient à l'auberge échangeaient des informations au-dessus de cette table, et y gravaient une carte avec les couteaux à viande. Avec le temps, presque toute la table avait été remplie je crois. En tout cas, petite, je me souviens que ça m'a fait de l'effet de la découvrir.»
+        (link-append: "— Qu'est devenue cette table ?")[
+            Lydie pris un air peiné.
+            — «Elle était vieille, abîmée, et déjà quand je suis née mon père n'avait plus vu personne la consulter depuis longtemps.»
+            Pause.
+            «Je ne sais plus si elle a été débitée en bois de chauffe, ou si un on ne l'a pas désossée pour les clous. En tout cas, elle n'est plus, et toutes mes tables ici ne sont usées que par le temps.
+
+            Désolée.»(show:?lafin)]]]
+]
+|lafin)[
+
+    (link-append: "— Je peux m'installer ici aussi ? J'ai peu d'affaires, et je te paierais avec les richesses que je trouverais lors des expéditions.")[
+    Elle rit.
+    — Si tous ceux qui me disaient ça tenaient parole, je pourrais devenir la reine de ce continent. Installe-toi, prend un saucisson et… Sincèrement, je te souhaite de repartir vivant de l'Oublié.
+    (link-append: "— Merci, j'imagine.")[
+    — Les autres aventuriers sont généralement dans la pièce principale l'après-midi et le soir, et à moins qu'ils ne se lancent dans une expédition le lendemain, il restent tard à discuter.»
+    (click: "discuter")[«Et à vider nos réserves, aussi», souffla-t-elle avec un clin d'œil.]
+
+    [[Merci Lydie, je vais aller visiter le village->Postface]]
+]]]
