@@ -20,8 +20,12 @@ clean:
 devserver:
 	"$(PELICAN)" -lr "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)"
 
-rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --include tags --cvs-exclude --delete "$(OUTPUTDIR)"/ "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)"
+compile-lco-intro:
+	cd lco-intro-twinery ; $(MAKE) compile
+
+rsync_upload: html-publish compile-lco-intro
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --include tags --cvs-exclude --delete "$(OUTPUTDIR)"/ "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)/blog"
+	scp -P 9834 lco-intro-twinery/output.html "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)/intro/index.html"
 
 
 u: upload
