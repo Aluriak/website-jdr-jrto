@@ -40,8 +40,12 @@ def get(url=URL, *, ignore_past_sessions=False) -> dict:
             sessions[dttime][human] = vote
     return datetimes, sessions
 
+
 def comments_from_sessions(url=URL, *, ignore_past_sessions=False) -> dict:
-    datetimes, sessions = get(url, ignore_past_sessions=ignore_past_sessions)
+    try:
+        datetimes, sessions = get(url, ignore_past_sessions=ignore_past_sessions)
+    except KeyError:
+        datetimes, sessions = [], {}
     out = {
         'populated': len(sessions),
         'full': sum(1 for datetime, humans in sessions.items() if len(humans) == 4),
