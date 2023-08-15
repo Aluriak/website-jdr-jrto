@@ -1,1 +1,59 @@
 1692036408	86.253.105.15	C	bienvenue	lucas	créée		404
+1692041119	86.253.105.15	C	règles:sommaire	rlucas	undocumented remote modification		31
+1692041144	86.253.105.15	E	règles:sommaire	rlucas	undocumented remote modification		-1
+1692041162	86.253.105.15	E	règles:sommaire	rlucas	undocumented remote modification		0
+1692041204	86.253.105.15	C	univers:sommaire	rlucas	undocumented remote modification		30
+1692041448	86.253.105.15	C	univers:intels:gobelins	rlucas	undocumented remote modification		119
+1692041487	86.253.105.15	C	règles:classes:sommaire	rlucas	undocumented remote modification		38
+1692041711	86.253.105.15	C	règles:compétences	rlucas	undocumented remote modification		387
+1692042516	86.253.105.15	E	règles:compétences	rlucas	undocumented remote modification		554
+1692042721	86.253.105.15	C	compétence:manuel:organisation	rlucas	undocumented remote modification		274
+1692042722	86.253.105.15	C	règles:compétence:éthologie	rlucas	undocumented remote modification		83
+1692042722	86.253.105.15	C	règles:compétence:social:mentir-convaincre	rlucas	undocumented remote modification		295
+1692043790	86.253.105.15	C	règles:compétence:intellectuelle:éthnologie	rlucas	copied from règles:compétence:éthologie		83
+1692043805	86.253.105.15	D	règles:compétence:éthologie	lucas	supprimée		-83
+1692043851	86.253.105.15	D	compétence:manuel:organisation	rlucas	page deleted		-274
+1692043851	86.253.105.15	C	règles:compétence:manuelle:organisation	rlucas	undocumented remote modification		274
+1692045163	86.253.105.15	D	règles:compétence:intellectuelle:éthnologie	rlucas	copied from règles:compétence:éthologie		-83
+1692061426	86.253.105.15	C	jdr:faq:table_ouverte	rlucas	undocumented remote modification		5741
+1692061504	86.253.105.15	C	jdf:faq:table_close	rlucas	undocumented remote modification		1033
+1692061549	86.253.105.15	C	jdr:faq:table_close	rlucas	moved from jdf:faq:table_close		1033
+1692061549	86.253.105.15	D	jdf:faq:table_close	rlucas	moved to jdr:faq:table_close		-1033
+1692061608	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		0
+1692061623	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		0
+1692061672	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		-36
+1692061830	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		80
+1692062184	86.253.105.15	E	bienvenue	rlucas	undocumented remote modification		292
+1692062241	86.253.105.15	C	lco:sommaire	rlucas	undocumented remote modification		26
+1692063615	86.253.105.15	E	jdr:faq:table_ouverte	rlucas	undocumented remote modification		-122
+1692064286	86.253.105.15	E	jdr:faq:table_ouverte	rlucas	undocumented remote modification		-588
+1692064287	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		1062
+1692066387	86.253.105.15	D	règles:classes:sommaire	lucas	supprimée		-38
+1692066402	86.253.105.15	C	règles:classes	lucas	créée		37
+1692066481	86.253.105.15	C	règles:classe:artificier	lucas	créée		85
+1692066796	86.253.105.15	E	règles:compétences	lucas			371
+1692066850	86.253.105.15	E	bienvenue	rlucas	undocumented remote modification		-70
+1692066850	86.253.105.15	C	auberge	rlucas	undocumented remote modification		500
+1692066850	86.253.105.15	C	règles:guide:création_de_perso	rlucas	undocumented remote modification		3113
+1692066873	86.253.105.15	E	bienvenue	lucas			-2
+1692067244	86.253.105.15	C	jdr:faq:jdr	rlucas	undocumented remote modification		6041
+1692068422	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[C’est où ?] 		6
+1692068510	86.253.105.15	E	auberge	lucas			-14
+1692068543	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[Comment je me créé mon personnage ?] 		0
+1692068569	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[C’est où ?] 		-8
+1692068587	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[On utilise quoi comme dé ?] 		-6
+1692068604	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[Comment je me créé mon personnage ?] 		8
+1692068645	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[Il faut que j'amène quoi comme matériel ?] 		-7
+1692093083	86.253.105.15	C	jdr:biblio	lucas	créée		3447
+1692093159	86.253.105.15	E	jdr:biblio	lucas	[Sources] 		211
+1692093267	86.253.105.15	E	jdr:biblio	lucas	[Aides de jeu] 		82
+1692093348	86.253.105.15	C	jdr:faq:sommaire	lucas	créée		28
+1684170792	127.0.0.1	C	wiki:welcome		créée - modification externe		1705
+1692093447	86.253.105.15	D	wiki:welcome	lucas	supprimée		-1705
+1684170792	127.0.0.1	C	wiki:dokuwiki		créée - modification externe		2729
+1692093463	86.253.105.15	D	wiki:dokuwiki	lucas	supprimée		-2729
+1684170792	127.0.0.1	C	wiki:syntax		créée - modification externe		21393
+1692093502	86.253.105.15	E	wiki:syntax	lucas	[Formatting Syntax] 		-6
+1684170792	127.0.0.1	C	playground:playground		créée - modification externe		25
+1692093528	86.253.105.15	D	playground:playground	lucas	supprimée		-25
+1692093539	86.253.105.15	C	wiki:playground	lucas	créée		25

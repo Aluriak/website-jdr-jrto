@@ -1,0 +1,45 @@
+===== Les compétences =====
+
+
+==== Compétences générales ====
+
+
+Compétences manuelles :
+  * [[règles:compétence:organisation]]
+  * [[règles:compétence:survie]]
+
+Compétences intellectuelles :
+  * [[règles:compétence:histoire]]
+  * [[règles:compétence:navigation]]
+  * [[règles:compétence:éthnologie]]
+  * [[règles:compétence:botanique]]
+  * [[règles:compétence:pistage]]
+
+Compétences globales :
+  * [[règles:compétence:force]]
+  * [[règles:compétence:coordination]]
+  * [[règles:compétence:volonté]]
+  * [[règles:compétence:]]
+
+Compétences physiques :
+  * [[règles:compétence:résistance physique]]
+
+Compétences sociales :
+  * [[règles:compétence:commander-intimider]]
+  * [[règles:compétence:mentir-convaincre]]
+
+
+==== Compétences martiales ====
+  * [[règles:compétence:martial:lames courtes]]
+  * [[règles:compétence:martial:lames longues]]
+  * [[règles:compétence:martial:lames cachées]]
+  * [[règles:compétence:martial:port d'armures]]
+  * [[règles:compétence:martial:port de boucliers]]
+
+
+==== Compétences spécialisées ====
+  * [[règles:compétence:spé:artifices]]
+  * [[règles:compétence:spé:mécanique orbitale]]
+  * [[règles:compétence:spé:détection de la magie]]
+  * [[règles:compétence:spé:magie]]
+  * [[règles:compétence:spé:magie]]

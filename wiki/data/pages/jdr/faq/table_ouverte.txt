@@ -1,0 +1,74 @@
+===== C'est quoi une table ouverte ? =====
+//Comment on s'organise ? On fait ça où ?//
+
+
+==== C'est quoi une table ouverte ? ====
+Je reprend le vocabulaire de [[https://ptgptb.fr/jouez-en-table-ouverte|ce billet]], qui dit tout simplement :
+quand vous avez pas le temps de faire de JdR, regardez comment vous faisiez quand vous n'aviez pas la maîtrise de votre emploi du temps.
+
+L'idée est simple : on organise des dates, vient qui peut, et si on est assez, on confirme le rdv et on joue.
+(Et si on est trop ? On joue à la marrelle, ou alors on fait des choix sur qui vient (je prendrais probablement les premiers inscrits, ou alors je jouerais au dé))
+
+Régulièrement, à l'initiative de qui veut bien, on lance un [[https://framadate.org|framadate]],
+pour voir qui peut venir quand, on prend quelques dates et voilà : ya plus qu'à être là le jour dit et on s'amuse.
+
+
+==== C’est où ? ====
+Pour le moment, toutes les tables que j'organise sont sur Brest, et peuvent prendre place, selon les envies/possibilités/accessibilités de chacun et chacune :
+
+  * chez moi, à 10mn de la place de Strasbourg.
+  * chez un joueur ou une joueuse qui veut et peut acceuillir 4 autres énergumènes pendant des heures.
+  * chez [[https://sortileges.fr/brest/|Sortilège]], dans le quartier de Recouvrance, qui est prêt à nous accueillir pourvu qu'on prévienne et que ce jour là ne soit pas un jour «réservé» à d'autres activités (par exemple, le vendredi aprèm', ya beaucoup de magic, donc c'est pas idéal).
+
+
+
+==== Et en visio ? ====
+C'est aussi possible ! C'est différent, un autre style de jeu, mais c'est faisable si vraiment c'est pas possible de faire autrement.
+
+Le cas échéant, il vous faut une caméra et un (bon) micro, avec la connection internet suffisante pour ne pas être déconnecté-e toutes les 20mn, sinon c'est vite relou.
+
+
+
+==== J'ai peur de jouer ! ====
+C'est toujours le cas quand on a jamais essayé ; on se fait un monde du JdR, et il suffit généralement d'une séance pour se rendre compte qu'il n'y a rien à y craindre.
+
+En attendant cette petite séance de théâtre d'improvisation, tu peux [[https://ptgptb.fr/11-manieres-d-etre-un-meilleur-joueur-de-jdr|lire des trucs]], sans les prendre trop au sérieux non plus, t'es pas là pour être expert(e) dés maintenant.
+
+
+==== Il faut que j'amène quoi comme matériel ? ====
+Dans l'idéal, tu te ramène avec : un crayon de bois, une gomme, un taille-crayon, des dés (voir question suivante), ta bonne humeur, et selon l'horaire et les envies, du manger et du boire :)
+Je peux prêter tout ce matériel, mais j'en ai pas des caisses de réserve.
+
+Sauf pour les dés, c'est différent — les nouveaux joueurs et joueuses  n'en ont probablement pas — fais avec ce que t'as, j'ai de bonnes réserves à prêter.
+
+
+==== On utilise quoi comme dé ? ====
+Le système de jeu que j'utilise est… variable. En général, on utilise les 7 dés du set standard: d4, d6, d8, d10, d12, d20 et dé dizaine.
+Si t'as d'autres dés rigolos, n'hésite pas à les ramener, on pourra trouver une idée pour les intégrer au jeu !
+
+
+==== Je peux annuler ? ====
+Bien sûr, si t'as un empêchement, tu peux annuler. Mais, et c'est là où il faut se rappeler que «Table Ouverte» ne veut pas dire «anomie» ni «malpolitesse», ce serait bien de prévenir, histoire qu'on puisse trouver quelqu'un au pied levé, ou annuler la partie le plus tôt possible si on est plus assez.
+
+
+==== Comment je me créé mon personnage ? ====
+En écrivant son nom sur une feuille, et d'autres trucs.
+
+Les [[règles:sommaire|règles]] sont là pour ça, notamment le [[règles:guide:création_de_perso|guide de la création de personnage]].
+
+Il peut être préférable de venir jouer une première fois pour tester, et de prendre un personnage pré-tiré, c'est-à-dire conçu par le MJ (il en a quelques uns sous le coude)
+ou de s'en créer un avec lui au début (ou un peu avant) de la séance.
+
+Note importante : concernant les [[jdr:faq:table_close|autres formats]], les personnages seront sans doute pré-tirés (scénarios),
+ou alors leur création constituera sans doute la première séance de jeu (campagne).
+
+
+Parmi les choses à faire éventuellement en amont :
+
+  * Identifier l'histoire du personnage, sa place dans l'univers, sa classe sociale, ses motivations, ses aspirations, ses relations avec d'autres personnes et d'autres groupes.
+  * Il ou elle a décidé de venir sur le Continent Oublié. Pourquoi ?
+  * Identifier des compétences dans lesquelles le personnage excelle, se débrouille, et celles où il est très mauvais.
+  * Fait-il de la magie ? Laquelle ? Se bat-il ? Avec quoi ? Comment ?
+
+Hésite pas à [[https://ptgptb.fr/une-bonne-description-de-personnage|lire]] [[http://rolistesnantais.blogspot.com/2014/03/creer-le-background-de-son-personnage.html|des]] [[https://ptgptb.fr/creation-de-perso|trucs]] pour t'aider, et aussi : parle-en au MJ, et même aux [[:auberge|autres joueurs]], ils auront peut être des idées !
+

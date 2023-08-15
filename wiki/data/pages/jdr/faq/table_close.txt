@@ -1,0 +1,39 @@
+===== C'est quoi une table close ? =====
+//Rien à voir avec la chambre, rassurez-vous//
+
+Par opposition à la [[jdr:faq:table_ouverte|table ouverte]],
+la table close est une table sur un scénario précis, s'étalant sur plusieurs séances,
+avec des joueurs et joueuses qui ne changent pas d'une séance à l'autre, et des personnages généralement pré-tirés.
+
+
+=== Mais attend, avec cette définition, un scénario en one-shot, c'est en table ouverte ou en table close ? ===
+
+Effectivement, il faut rajouter la notion de one-shot, un scénario sur une seule séance,
+qui permet (et même encourage) le changement de joueurs et joueuses, qui de fait pourrait s'appeler une //table ouverte éphémère//,
+ou encore //une table à réouverture//, ce qui est vachement classe.
+
+Plus généralement, on peut modéliser tout ça selon deux dimensions :
+
+^ Joueureuses ^      Séances                 ^^
+^ :::         ^ Unique   ^ Multiples          ^
+^ Stables     | One-shot | Campagne/Scénario  |
+^ Mouvantes   | :::      | Table Ouverte      |
+
+Voilà, tout est plus clair.
+
+
+==== T'as des exemples de persos qui ont déjà été joués ? ====
+
+J'ai quelques exemples dans les formats scénario et one-shot.
+
+  * un *cycliste*, i.e. un marchand qui cycle autour de la Mer Sanctuaire, à travers les 30 cités ou villages qui l'entourent.
+  * une noble versée dans la politique, qui connaît la magie de convocation.
+  * une paria qui s'est découvert un don pour la magie élémentaire.
+  * une roturière qui sait manipuler les émotions des autres.
+  * une intouchable qui a appris l'alchimie.
+  * un homme qui s'est échappé d'un laboratoire magique. Il est couvert de tattouages qui renferment des démons.
+  * un homme-lige déchu qui a juré la mort du magicien qui l'a forcé à tuer ses maîtres
+  * un diplomate d'une cité grandiose qui cherche la gloire
+  * une Arpenteuse, anciennement noble, qui cherche ses parents dans une anomalie climatique
+  * une magicienne des mots à la recherche de connaissances
+  * un professeur d'université spécialisé dans la lecture de hiéroglyphes anciens aux pouvoirs encore inconnus

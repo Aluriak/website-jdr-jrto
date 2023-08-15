@@ -1,10 +1,10 @@
-===== Jeu de Rôle en Table Ouverte =====
+===== Bienvenue ! =====
 
+Bienvenue sur le wiki où je centralise un maximum d'informations sur mes [[jdr:faq:jdr|JdR]], notamment à propos du monde d'Hérythrée,
+et son format [[jdr:faq:table_ouverte|table ouverte]], nommé [[lco:sommaire|//Le Continent Oublié//]].
 
-Bienvenue sur le wiki du JdR Le Continent Oublié, où l'on centralisera un maximum d'informations.
+N'hésitez pas à aller voir les pages les plus importantes, notamment [[jdr:faq:sommaire|les FAQ]], la [[règles:sommaire|présentation des règles]],
+ou celle de [[univers:sommaire|l'univers de jeu]].
 
-N'hésitez pas à aller voir les pages les plus importantes, notamment [[les FAQ|]], la [[présentation des règles]].
-
-
-Vous voulez causer, ou proposer une date, ou trouver d'autres personnes ?
-Venez sur le [[discord|https://discord.com/invite/WkrKQGxZvQ]] !
+Vous voulez causer, ou proposer une date pour faire une partie, ou trouver d'autres personnes ?
+Venez dans [[auberge|l'Auberge du Début du Monde]] !

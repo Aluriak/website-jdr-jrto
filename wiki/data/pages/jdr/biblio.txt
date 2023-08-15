@@ -1,0 +1,54 @@
+===== Bibliographie =====
+Une tentative de listing de textes/vidéos qui parlent de JdR.
+
+==== Sources ====
+
+  * [[https://ptgptb.fr|Places to go, peoples to be]], probablement mon site préféré
+  * [[https://www.cestpasdujdr.fr|C'est pas du jdr]], au moins aussi excellent
+  * [[https://www.zotero.org/groups/446523/academicttrpg/items/JXVX4U2W/item-list|Une biblio zotero]] qui recense des milliers d'articles sur le jeu de rôle, incluant des thèses et articles scientifiques, en éthnologie notamment.
+  * [[https://https://nadg.itch.io|Nadg]] créé de nombreuses [[https://nadg.itch.io/methodes-d-ecriture|ressources bien léchées pour introduire des concepts d'inclusivité]] dans le jeu de rôle. C'est également l'auteur du JdR solarpunk solo [[https://nadg.itch.io/scraps-fr|Débris]] et du [[https://nadg.itch.io/le-sanctuaire-des-mandragores|Sanctuaire des Mandragores]].
+  * [[http://troplongpaslu.fr/|TL;PL]], des jeu de rôle hyper courts
+  * [[https://|Lapin marteau]], plein de ressources, et éditeur de l'excellente série de recueils de théorie du jeu de rôle.
+
+
+===== Par thématique =====
+
+==== Table Ouverte ====
+
+  * [[https://ptgptb.fr/jouez-en-table-ouverte|Une histoire de la table ouverte]], depuis Jacquay et ses //Caverns of Thracia//.
+  * [[https://www.cestpasdujdr.fr/les-marches-de-louest/|Les marches de l'ouest]], une expérience de table ouverte à grande échelle
+
+==== Théorie du Jeu de Rôle ====
+Il existe plusieurs écoles de pensées qui cherchent à rendre compte de ce qu'est, en essence, le JdR et sa pratique.
+
+  * [[https://ptgptb.fr/la-theorie-roliste-pour-les-nuls|La théorie LNS]]
+  * [[https://ptgptb.fr/introduction-a-la-theorie-de-the-forge-1|La théorie The Forge]]
+  * [[https://ptgptb.fr/le-modele-mde|Le modèle MDE]]
+  * [[https://ptgptb.fr/le-modele-de-meilahti|Le modèle de Meilahti]]
+  * [[https://ptgptb.fr/enquete-en-cinq-noeuds|L'enquête en 5 nœuds]]
+  * [[https://ptgptb.fr/jouez-pour-encourager|Play to loose]]
+  * [[https://ptgptb.fr/l-art-d-arbitrer-1|L'art d'arbitrer]]
+  * [[https://ptgptb.fr/jouabilite-realisme|Équilibre en jouabilité et réalisme]] 
+  * [[https://ptgptb.fr/manifeste-pour-le-10e-art|Manifeste pour le 10ème art]]
+
+==== Féminisme ====
+La question de la représentativité, de l'intégration des femmes dans le jeu de rôle, et plus généralement de l'inclusivité, est un sujet central pour bien des auteurices.
+
+  * [[https://ptgptb.fr/les-roles-feminins-dans-les-textes-de-jdr|Un inventaire des rôle féminins]]
+  * [[https://ptgptb.fr/l-historicisme-n-excuse-pas-les-prejuges|L'historicisme n'excuse pas les préjugés]]
+  * [[https://ptgptb.fr/cinq-representations-courantes-et-nuisibles-du-handicap|Représentations du handicap]]
+  * [[https://ptgptb.fr/offrir-plus-de-diversite|Offrir plus de diversité]]
+
+==== Exploration des limites du média ====
+L'idée même de jeu de rôle impose des limites, qui sont régulièrement repoussées, triturées, questionnées.
+
+  * [[https://www.cestpasdujdr.fr/interview-alex-roberts/|le jeu Pour la Reine]]
+  * [[https://www.cestpasdujdr.fr/qu-est-ce-que-le-jeu-de-role-sans-meneur/|Le jeu de rôle sans meneur]]
+  * [[https://www.cestpasdujdr.fr/des-jeux-de-role-non-violents/|Des JdR non-violents]]
+  * [[https://www.cestpasdujdr.fr/les-jeux-de-role-solo/|Des JdR solo]]
+  * [[https://ptgptb.fr/scenes-de-paysages|Les scènes de paysages, l'absence d'action]]
+
+==== Aides de jeu ====
+  * [[https://ptgptb.fr/iarr-format-pour-la-preparation-de-parties|IAAR]], un format d'encodage des informations stratégiques
+  * [[https://ptgptb.fr/rendre-les-combats-plus-intenses|Rendre les combats plus intenses]]
+  * [[https://github.com/Aluriak/dndlists|Des listes, des listes, et des listes]]
