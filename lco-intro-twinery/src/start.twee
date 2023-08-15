@@ -99,31 +99,33 @@ Elle jette un coup d'œil dans votre direction, et vous fait signe de vous appro
 (set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
 (link-append: "— Et au sud ?")[
 — Une forêt d'Arbres-Mondes. C'est assez beau, et c'est là que Taber chasse. Il m'a enmenée une fois. On a vu beaucoup de gibier.
-(set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
+(set: $_i to it + 1)(if: $_i > 4)[(goto:?lacarte)]]
+
+|lacarte)[[[— Il existe une carte des environs ?->Questions Carte]]]
 
 
-|lacarte)[
-    (link-append: "— Il existe une carte des environs ?")[
-    — «Pas à ma connaissance», dit-elle, comme surprise par l'idée.
-        (link-append: "— Du continent oublié alors ?")[
-        Elle sourit, les yeux dans le vague.
-        — «Quand j'étais toute petite, je me souviens d'une table sur laquelle était gravée des choses. Mon père m'avait expliqué que, quand lui-même était petit, les colons qui se retrouvaient à l'auberge échangeaient des informations au-dessus de cette table, et y gravaient une carte avec les couteaux à viande. Avec le temps, presque toute la table avait été remplie je crois. En tout cas, petite, je me souviens que ça m'a fait de l'effet de la découvrir.»
-        (link-append: "— Qu'est devenue cette table ?")[
-            Lydie pris un air peiné.
-            — «Elle était vieille, abîmée, et déjà quand je suis née mon père n'avait plus vu personne la consulter depuis longtemps.»
-            Pause.
-            «Je ne sais plus si elle a été débitée en bois de chauffe, ou si un on ne l'a pas désossée pour les clous. En tout cas, elle n'est plus, et toutes mes tables ici ne sont usées que par le temps.
+:: Questions Carte
+— «Pas à ma connaissance», dit-elle, comme surprise par l'idée.
+(link-append: "— Du continent oublié alors ?")[
+Elle sourit, les yeux dans le vague.
+— «Quand j'étais toute petite, je me souviens d'une table sur laquelle était gravée des choses. Mon père m'avait expliqué que, quand lui-même était petit, les colons qui se retrouvaient à l'auberge échangeaient des informations au-dessus de cette table, et y gravaient une carte avec les couteaux à viande. Avec le temps, presque toute la table avait été remplie je crois. En tout cas, petite, je me souviens que ça m'a fait de l'effet de la découvrir.»
+(link-append: "— Qu'est devenue cette table ?")[
+    Lydie pris un air peiné.
+    — «Elle était vieille, abîmée, et déjà quand je suis née mon père n'avait plus vu personne la consulter depuis longtemps.»
+    Pause.
+    «Je ne sais plus si elle a été débitée en bois de chauffe, ou si un on ne l'a pas désossée pour les clous. En tout cas, elle n'est plus, et toutes mes tables ici ne sont usées que par le temps.»
 
-            Désolée.»(show:?lafin)]]]
-]
-|lafin)[
+    (after: time+4s)[«Désolée.»]
+    (after: time+6s)[(show:?lafin)]
+]]
+|lafin)[ (link: "— Je peux m'installer ici aussi ? J'ai peu d'affaires, et je te paierais avec les richesses que je trouverais lors des expéditions.")[(goto: "Fin de discussion")] ]
 
-    (link-append: "— Je peux m'installer ici aussi ? J'ai peu d'affaires, et je te paierais avec les richesses que je trouverais lors des expéditions.")[
+:: Fin de discussion
     Elle rit.
     — Si tous ceux qui me disaient ça tenaient parole, je pourrais devenir la reine de ce continent. Installe-toi, prend un saucisson et… Sincèrement, je te souhaite de repartir vivant de l'Oublié.
     (link-append: "— Merci, j'imagine.")[
-    — Les autres aventuriers sont généralement dans la pièce principale l'après-midi et le soir, et à moins qu'ils ne se lancent dans une expédition le lendemain, il restent tard à discuter.»
-    (click: "discuter")[«Et à vider nos réserves, aussi», souffla-t-elle avec un clin d'œil.]
+        — Les autres aventuriers sont généralement dans la pièce principale l'après-midi et le soir, et à moins qu'ils ne se lancent dans une expédition le lendemain, il restent tard à discuter.»
+        (click: "discuter")[«Et à vider nos réserves, aussi», souffla-t-elle avec un clin d'œil.]
 
-    [[Merci Lydie, je vais aller visiter le village->Postface]]
-]]]
+        [[Merci Lydie, je vais aller visiter le village->Postface]]
+    ]
