@@ -1,14 +1,15 @@
 
 :: Postface
 
-(font:'Courier New')[Vous venez de lire une petite introduction au Jeu de Rôle sur table nommé «Le Continent Oublié».
+(font:'Courier New')[Vous venez de lire une petite introduction au Jeu de Rôle en table ouverte nommé «Le Continent Oublié».
+
+(click: "table ouverte")[Le principe de <a href="https://wiki.jdr.bourneuf.net/jdr:faq:table_ouverte">la table ouverte</a> est assez simple : le scénario n'a pas à être suivis par tout le monde, tout le temps. En fait, c'est l'inverse : que vous jouiez une fois par semaine ou une fois tous les 6 mois, vous avez votre place ! Quand vous êtes dispo, faites le savoir, trouvez une date avec le MJ et trois autres personnes, et c'est bon, vous pouvez faire une expédition avec votre personnage préféré, ou un nouveau, et faire avancer l'intrigue à votre manière, ou pas, et découvrir des choses nouvelles !]
 
 (after: 3s)[
-    Si l'idée de jouer un aventurier menant des expéditions en terra incognita vous branche,
-    contactez-moi.
+    Si l'idée de jouer un aventurier menant des expéditions en terra incognita vous branche, contactez-moi :)
 
     (click: "contactez-moi")[Pour le moment, le principal canal de discussion, où tous les joueurs et joueuses discutent et organisent leurs prochaines expéditions, tant en matière d'objectifs géographique dans le jeu qu'en date de jeu dans la réalité, est sur signal. Peut-être que <a href="https://discord.com/invite/WkrKQGxZvQ">discord</a> sera utilisé plus tard, et en attendant, je suis joignable par <a href="mailto:jdr@bourneuf.net">mail</a> ou téléphone.]
 
-    (click: "aventurier")[Quel aventurier ou aventurière jouerez-vous ? J'essaye de mettre au clair les règles sur <a href="https://jdr.bourneuf.net/wiki">le wiki du jeu de rôle</a>, et peut-être même de faire une page interactive (comme celle-ci ?) pour accompagner la création de nouveaux personnages. Sinon, cette création peut être faite au début de la partie.]
+    (click: "aventurier")[Quel aventurier ou aventurière jouerez-vous ? J'essaye de mettre au clair les règles sur <a href="https://wiki.jdr.bourneuf.net">le wiki du jeu de rôle</a>, et peut-être même de faire une page interactive (comme celle-ci ?) pour accompagner la création de nouveaux personnages. Sinon, cette création peut être faite au début de la séance.]
 ]]
 
