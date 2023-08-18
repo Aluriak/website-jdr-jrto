@@ -1,5 +1,0 @@
-=== Organisation ===
-//Capacité générale de gestion du bordel et d'optimisation des poches de pantalon//
-
-Utilisée par plusieurs effets, calculs, incluant notamment la quantité de [[règles:type:réactif]]
-qu'un [[règles:classe:artificier]] peut transporter avec lui.

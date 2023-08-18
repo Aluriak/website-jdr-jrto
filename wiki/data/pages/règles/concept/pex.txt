@@ -1,0 +1,11 @@
+===== Les Points d'EXpérience =====
+//Méthode surrannée mais efficace pour représenter l'évolution d'un personnage//
+
+
+Les PEX sont gagnés — par et pour un personnage-joueur — au retour d'une expédition, et peut-être d'autres manières, le MJ l'a pas dit.
+
+Avec ses PEX, un personnage peut, au choix :
+
+  * pour 1 PEX, augmenter de +1 toutes [[:règles:guide:faire un test|les compétences qui ont été cochées]] depuis la dernière fois que le personnage a choisi cette option.
+  * pour 1 PEX, obtenir une aptitude déjà ouverte, ouvrant ainsi les aptitudes enfants de cette nouvelle aptitude et lui offrant, on lui souhaite, un nouveau pouvoir trop ouf.
+  * pour N PEX, se choisir [[:règles:classe:|une nouvelle classe]], avec 1 PEX offert, à investir pour avoir une aptitude spécifique à cette nouvelle classe.

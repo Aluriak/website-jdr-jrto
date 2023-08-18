@@ -1,0 +1,27 @@
+===== La notation N×K =====
+
+ * N = lignes/hauteur
+ * K = colonnes/largeur
+
+
+3×1:
+
+| |
+| |
+| |
+
+
+1×3:
+
+| | | |
+
+
+
+==== Arithmétique ====
+
+2×2 - 1×1 donne un carré de 2x2 séparé d'une case, par exemple :
+
+|X|X|
+|X| |
+
+

@@ -48,12 +48,66 @@
 1692093159	86.253.105.15	E	jdr:biblio	lucas	[Sources] 		211
 1692093267	86.253.105.15	E	jdr:biblio	lucas	[Aides de jeu] 		82
 1692093348	86.253.105.15	C	jdr:faq:sommaire	lucas	créée		28
-1684170792	127.0.0.1	C	wiki:welcome		créée - modification externe		1705
 1692093447	86.253.105.15	D	wiki:welcome	lucas	supprimée		-1705
-1684170792	127.0.0.1	C	wiki:dokuwiki		créée - modification externe		2729
 1692093463	86.253.105.15	D	wiki:dokuwiki	lucas	supprimée		-2729
-1684170792	127.0.0.1	C	wiki:syntax		créée - modification externe		21393
 1692093502	86.253.105.15	E	wiki:syntax	lucas	[Formatting Syntax] 		-6
-1684170792	127.0.0.1	C	playground:playground		créée - modification externe		25
 1692093528	86.253.105.15	D	playground:playground	lucas	supprimée		-25
 1692093539	86.253.105.15	C	wiki:playground	lucas	créée		25
+1692094063	86.253.105.15	C	wiki:syntaxe	rlucas	moved from wiki:syntax		21387
+1692094063	86.253.105.15	D	wiki:syntax	rlucas	moved to wiki:syntaxe		-21387
+1692094434	86.253.105.15	C	secret:sommaire	lucas	créée		28
+1692094609	86.253.105.15	C	secret:univers:intells:gobelins	lucas	créée		62
+1692094702	86.253.105.15	C	secret:univers:intells:trikeens	lucas	créée		24
+1692094711	86.253.105.15	D	secret:univers:intells:trikeens	lucas	supprimée		-24
+1692094732	86.253.105.15	C	secret:univers:intells:thrikreens	lucas	créée		27
+1692109561	86.253.105.15	E	règles:compétences	rlucas	undocumented remote modification		656
+1692109648	86.253.105.15	C	sommaire	lucas	créée		624
+1692109651	86.253.105.15	D	bienvenue	lucas	supprimée		-624
+1692109727	86.253.105.15	E	sommaire	lucas			96
+1692110255	86.253.105.15	C	c:sommaire	rlucas	undocumented remote modification		61
+1692110284	86.253.105.15	D	c:sommaire	lucas	supprimée		-61
+1692110410	86.253.105.15	C	règles:classe:sommaire	lucas	créée		60
+1692110451	86.253.105.15	E	règles:classe:sommaire	lucas			44
+1692110462	86.253.105.15	D	règles:classes	lucas	supprimée		-37
+1692110622	86.253.105.15	C	règles:classe:magicien	lucas	créée		206
+1692112754	86.253.105.15	E	règles:sommaire	lucas			24
+1692112783	86.253.105.15	D	règles:compétence:manuelle:organisation	lucas	supprimée		-274
+1692112798	86.253.105.15	C	règles:compétence:organisation	lucas	créée		275
+1692112821	86.253.105.15	D	règles:compétence:social:mentir-convaincre	lucas	supprimée		-295
+1692112836	86.253.105.15	C	règles:compétence:mentir-convaincre	lucas	créée		295
+1692112897	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Classe] 		0
+1692121307	86.253.105.15	E	règles:compétences	rlucas	undocumented remote modification		234
+1692121307	86.253.105.15	E	règles:guide:création_de_perso	rlucas	undocumented remote modification		5569
+1692124051	86.253.105.15	C	règles:guide:faire_une_attaque	rlucas	undocumented remote modification		1035
+1692124330	86.253.105.15	C	règles:concept:pex	rlucas	undocumented remote modification		37
+1692124372	86.253.105.15	E	règles:concept:pex	lucas			5
+1692125171	86.253.105.15	D	règles:concept:pex	lucas	supprimée		-42
+1692125930	86.253.105.15	C	règles:concept:pex	rlucas	undocumented remote modification		16
+1692126063	86.253.105.15	E	règles:concept:pex	rlucas	undocumented remote modification		5
+1692126087	86.253.105.15	D	règles:concept:pex	lucas	supprimée		-21
+1692126645	86.253.105.15	C	règles:concept:pex	rlucas	undocumented remote modification		833
+1692126645	86.253.105.15	C	règles:concept:pv_armure_et_blessure	rlucas	undocumented remote modification		576
+1692126646	86.253.105.15	C	règles:exemple:personnage:sommaire	rlucas	undocumented remote modification		74
+1692126646	86.253.105.15	C	règles:guide:faire_un_test	rlucas	undocumented remote modification		2974
+1692126647	86.253.105.15	C	règles:guide:lancer_un_sort	rlucas	undocumented remote modification		51
+1692126907	86.253.105.15	E	sommaire	rlucas	undocumented remote modification		-1
+1692128014	86.253.105.15	C	règles:concept:pattern	rlucas	undocumented remote modification		238
+1692128060	86.253.105.15	E	règles:concept:pattern	rlucas	undocumented remote modification		10
+1692136707	86.253.105.15	E	règles:classe:magicien	lucas			533
+1692136746	86.253.105.15	C	règles:guide:pattern	rlucas	undocumented remote modification		8712
+1692137603	86.253.105.15	C	règles:compétence:résistance_physique	lucas	créée		559
+1692141613	86.253.105.15	E	règles:classe:magicien	rlucas	undocumented remote modification		3925
+1692141620	86.253.105.15	C	règles:concept:notation_k	rlucas	undocumented remote modification		227
+1692142184	86.253.105.15	E	sommaire	lucas			0
+1692142216	86.253.105.15	E	sommaire	lucas			32
+1692142256	86.253.105.15	C	règles:guide:sommaire	lucas	créée		60
+1692142275	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Créer un personnage-joueur : un guide] 		-11
+1692142291	86.253.105.15	E	règles:guide:faire_une_attaque	lucas			-8
+1692142297	86.253.105.15	E	règles:guide:faire_un_test	lucas	[Guide : Faire un test] 		-8
+1692142308	86.253.105.15	E	règles:guide:lancer_un_sort	lucas			-8
+1692142319	86.253.105.15	E	règles:guide:pattern	lucas	[Guide : les patterns] 		-8
+1692142367	86.253.105.15	E	règles:guide:sommaire	lucas			113
+1692142412	86.253.105.15	E	règles:guide:faire_une_attaque	lucas	[Attaquer un vil malandrin] 		-7
+1692142426	86.253.105.15	E	règles:guide:faire_une_attaque	lucas	[Attaquer un vil malandrin] 		7
+1692142604	86.253.105.15	E	règles:classe:magicien	rlucas	undocumented remote modification		0
+1692142668	86.253.105.15	E	règles:classe:magicien	rlucas	undocumented remote modification		-28

@@ -1,0 +1,6 @@
+a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:35:"Points de Vie, Armures et Blessures";i:1;i:2;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:2;}i:2;i:1;}i:3;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1;}i:4;a:3:{i:0;s:13:"emphasis_open";i:1;a:0:{}i:2;i:49;}i:5;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:525:"L'armure se disloque, les blessures s'accumulent et les PV se font rares : faut dire que c'est dangereux d'intercepter des flèches avec la tête/
+
+==== Principes ====
+Inévitablement, il va y avoir des confrontations violentes et mortelles. Parce qu'on joue un JdR de deuxième génération au fond, et pis bon, fallait bien mettre du combat parce que m'entendre décrire les nuances de bleu qui teintent les remous de l'eau d'une mare, ça va bien 5 minutes mais après deux heures j'ai épuisé tous mes synonymes.
+
+Donc, ";}i:2;i:51;}i:6;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:51;}i:7;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:51;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:51;}}

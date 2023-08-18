@@ -4,42 +4,65 @@
 ==== Compétences générales ====
 
 
+Compétences globales :
+  * [[:règles:compétence:coordination]]
+  * [[:règles:compétence:force]]
+  * [[:règles:compétence:logique]]
+  * [[:règles:compétence:perception]]
+  * [[:règles:compétence:présence]]
+  * [[:règles:compétence:résistance physique]]
+  * [[:règles:compétence:résistance psychique]]
+  * [[:règles:compétence:volonté]]
+
 Compétences manuelles :
-  * [[règles:compétence:organisation]]
-  * [[règles:compétence:survie]]
+  * [[:règles:compétence:bricolage]]
+  * [[:règles:compétence:crochetage]]
+  * [[:règles:compétence:dissimulation]]
+  * [[:règles:compétence:lancer]]
+  * [[:règles:compétence:organisation]]
+  * [[:règles:compétence:pièges_et_mécanismes]]
+  * [[:règles:compétence:survie]]
 
 Compétences intellectuelles :
-  * [[règles:compétence:histoire]]
-  * [[règles:compétence:navigation]]
-  * [[règles:compétence:éthnologie]]
-  * [[règles:compétence:botanique]]
-  * [[règles:compétence:pistage]]
-
-Compétences globales :
-  * [[règles:compétence:force]]
-  * [[règles:compétence:coordination]]
-  * [[règles:compétence:volonté]]
-  * [[règles:compétence:]]
-
-Compétences physiques :
-  * [[règles:compétence:résistance physique]]
+  * [[:règles:compétence:botanique]]
+  * [[:règles:compétence:culture]]
+  * [[:règles:compétence:estimation]]
+  * [[:règles:compétence:histoire]]
+  * [[:règles:compétence:mémoire]]
+  * [[:règles:compétence:navigation]]
+  * [[:règles:compétence:pistage]]
+  * [[:règles:compétence:éthnologie]]
 
 Compétences sociales :
-  * [[règles:compétence:commander-intimider]]
-  * [[règles:compétence:mentir-convaincre]]
-
-
-==== Compétences martiales ====
-  * [[règles:compétence:martial:lames courtes]]
-  * [[règles:compétence:martial:lames longues]]
-  * [[règles:compétence:martial:lames cachées]]
-  * [[règles:compétence:martial:port d'armures]]
-  * [[règles:compétence:martial:port de boucliers]]
+  * [[:règles:compétence:commander-intimider]]
+  * [[:règles:compétence:étiquette-séduction]]
+  * [[:règles:compétence:mentir-convaincre]]
 
 
 ==== Compétences spécialisées ====
-  * [[règles:compétence:spé:artifices]]
-  * [[règles:compétence:spé:mécanique orbitale]]
-  * [[règles:compétence:spé:détection de la magie]]
-  * [[règles:compétence:spé:magie]]
-  * [[règles:compétence:spé:magie]]
+  * [[:règles:compétence:artifices]]
+  * [[:règles:compétence:théorie magique]]
+  * [[:règles:compétence:détection de la magie]]
+  * [[:règles:compétence:magie]]
+  * [[:règles:compétence:mécanique orbitale]]
+  * [[:règles:compétence:savatte]]
+
+
+==== Compétences martiales ====
+  * [[:règles:compétence:arbalètes]]
+  * [[:règles:compétence:arcs de chasse]]
+  * [[:règles:compétence:lames courtes]]
+  * [[:règles:compétence:haches de chasse]]
+  * [[:règles:compétence:lutte]]
+  * [[:règles:compétence:masses simples]]
+  * [[:règles:compétence:port d'armures]]
+
+
+==== Compétences martiales spécialisées ====
+
+  * [[:règles:compétence:arcs de guerre]]
+  * [[:règles:compétence:lames cachées]]
+  * [[:règles:compétence:lames longues]]
+  * [[:règles:compétence:masses de guerre]]
+  * [[:règles:compétence:haches de guerre]]
+  * [[:règles:compétence:port de boucliers]]

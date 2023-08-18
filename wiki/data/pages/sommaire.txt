@@ -1,0 +1,15 @@
+===== Bienvenue ! =====
+
+Bienvenue sur le wiki où je centralise un maximum d'informations sur mes [[jdr:faq:jdr|JdR]], notamment à propos du monde d'Hérythrée,
+et son format [[jdr:faq:table_ouverte|table ouverte]], nommé //[[lco:sommaire|Le Continent Oublié]]//.
+
+N'hésitez pas à aller voir les pages les plus importantes, notamment [[jdr:faq:sommaire|les FAQ]], les [[:règles:guide:|guides]], la [[règles:sommaire|présentation des règles]],
+ou celle de [[univers:sommaire|l'univers de jeu]].
+
+Vous voulez causer, ou proposer une date pour faire une partie, ou trouver d'autres personnes ?
+Venez dans [[auberge|l'Auberge du Début du Monde]] !
+
+----
+
+ Tu ne sais pas par où commencer ?
+[[https://jdr.bourneuf.net/intro|Commence par là]]

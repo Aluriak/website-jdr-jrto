@@ -1,0 +1,19 @@
+===== Patterns =====
+
+Les patterns sont des trucs comme ça :
+
+| X | X | |
+| X | | X |
+| X | | |
+
+Une arme, typiquement, possède un pattern. Par exemple :
+
+^ tranchant 3 |||
+|X| | |
+|X| | |
+|X| | |
+
+^ perçant 4 ||||
+| | | | |
+|X|X|X|X|
+| | | | |

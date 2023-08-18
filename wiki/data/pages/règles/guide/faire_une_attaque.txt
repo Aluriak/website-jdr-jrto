@@ -1,0 +1,8 @@
+===== Attaquer un vil malandrin =====
+//Pour les dégâts, c'est simple : je lance 30d6, je compte les 4 et les 1, la somme me donne le potentiel de dégâts maximal, et la différence la pénétration d'armure basal. J'ajoute les modificateurs de compétences idoines, les modifications de contextes, le malus de fatigue, et là j'ai une approximation à 10% des dégâts réels, dont l'instanciation exacte sera calculée au prochain tour — et annoncée si le test d'estimation des blessures est réussit — après évidemment application des disponibilité d'armure de la cible et du résultat de ses tests d'esquive, de concentration et de résistance au dégâts contondants.  Et bien, tu sais quoi ? Grâce à mon épée vorpale, si ya j'ai plus de 3 que de 2, je peux ajouter ma compétence en maniement des armes de guerre au facteur de pénétration d'armure ! Ouf nan ?//
+
+---- 
+
+Bon, nous, on va lancer 1d10 et après on dessinera des formes avec des carrés, ce sera très bien quand même.
+
+==== Principes ====

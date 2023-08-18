@@ -1,0 +1,267 @@
+===== Les patterns =====
+
+Un pattern, c'est un motif de cases cochées dans un tableau à deux dimensions. Par exemple :
+
+|N|N| |
+|N| |N|
+|N| | |
+
+Une arme, typiquement, possède un //pattern// de dégât. Par exemple, une épée infligeant //tranchant 3// dégâts aurait ce pattern :
+
+|N| | |
+|N| | |
+|N| | |
+
+Une arme de dégâts //perçant 4// aurait ce pattern :
+
+| | | | |
+|N|N|N|N|
+| | | | |
+
+
+Le principe des PV est simple : c'est un tableau à deux dimensions, et quand on subit des dégâts, on noircis des cases de notre tableau de PV selon le pattern de l'arme qui nous a touché.
+
+
+==== Avec le tableau de PV ====
+Voici mon tableau de PV, avec à gauche la colonne qui indique les dix valeurs possibles d'un d10.
+
+|1| | | |
+|2| | | |
+|3| | | |
+|4| | | |
+|5| | | |
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+
+Pour le moment, il est vierge, et on devine que j'ai une [[:règles:compétence:résistance physique|résistance physique]] de 3 (car il y a trois colonnes, quatre avec les indications de valeurs de dé).
+
+Mettons que je subisse une attaque, et que l'attaquant, utilisant une lame courte de dégâts //tranchant 3//, lance le d10 et obtient 3.
+
+Il a 6 à la compétence //lames courtes//, son attaque est donc réussie.
+Son d10 indiquant 3, je dois placer le pattern de manière à ce qu'il touche la ligne 3. Par exemple :
+
+
+|1| | | |
+|2| |N| |
+|3| |N| |
+|4| |N| |
+|5| | | |
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Mais j'aurais aussi pu le mettre ainsi :
+
+|1| | | |
+|2| | | |
+|3| | |N|
+|4| | |N|
+|5| | |N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Restons sur cette dernière éventualité. Mettons que je reçoive ensuite une flèche, dont le pattern de dégât est //flèche 3// :
+
+| | | | | |
+|N| |N| |N|
+| | | | | |
+
+Si le score d'attaque (la valeur du dé de l'attaquant) est de 4, je dois noircir les cases indiquées ligne 4 selon le pattern //flèche 3//.
+Deux problèmes se posent à moi :
+
+|1| | | |
+|2| | | |
+|3| | |N|
+|4|là c'est bon| |Je suis déjà blessé ici| |Et là, je peux pas noircir, ça déborde du tableau ! |
+|5| | |N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Le premier problème, c'est de recevoir une blessure sur un lieu déjà blessé, cela créé une //faiblesse//. Ça se gère ainsi : **une case qui doit être noircie une deuxième fois devient une //faiblesse//. Elle est effacée du tableau, elle n'existe plus et ne peux donc plus être utilisée pour subir des dégâts**. Ici, on marquera ça avec un ''X'', comme si on avait rayé la case.
+
+|1| | | |
+|2| | | |
+|3| | |N|
+|4|N| |X| |Et là, je peux pas noircir, ça déborde du tableau ! |
+|5| | |N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Une faiblesse est grave pour un personnage : il y a très peu de chance qu'il en guérisse un jour.
+
+Le second problème, c'est de subir des dégâts en dehors du tableau, c'est-à-dire un //débordement//. Ça se gère ainsi : **chaque dégât débordant du tableau de PV doit être rattrapé en noircicant une case au choix //au-dessus// de la case théoriquement touchée.**
+
+Donc, ici, je vais gérer le débordement en noircissant une case en ligne 2 :
+
+|1| | | |
+|2| | | |
+|3|N| |N|
+|4|N| |X|
+|5| | |N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Notons que je n'ai pas été très malin : si je devais subir une deuxième flèche en ligne 3, je prendrais immédiatement deux faiblesses !
+
+|1| | | |
+|2|N| | |
+|3|X| |X|
+|4|N| |X|
+|5| | |N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+==== Les conséquences des blessures et faiblesses ====
+Si notre personnage continue comme ça, il va lui arriver des bricoles. Et pas des petites !
+
+Lorsqu'une ligne est entièrement blessée (c'est-à-dire que toutes les cases de la ligne sont noircies), le personnage rate systématiquement toute action si son dé à la valeur de la ligne.
+
+Par exemple, mettons que je subisse une attaque de lame courte à nouveau, ligne 3, et que, pour une raison ou une autre, je décide de mettre les dégâts ainsi :
+
+|1| | | |
+|2|N| | |
+|3|X|N|X|
+|4|N|N|X|
+|5| |N|N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+On observe bien que les lignes 3 et 4 sont désormais noircies complètement. La ligne 3 n'a qu'une seule case (rappelez vous, les X sont des cases détruites définitivement), et la ligne 4 n'en a plus que 2.
+Et ces trois cases au total sont toutes noircies.
+Cela veut dire que si je voulais répliquer, et attaquer à mon tour, tout jet de d10 de score 3 ou 4 serait **transformé en échec**. Avec une exception tout de même : un coup critique devient une réussite simple, pas un échec. Par exemple, si ma compétence utilisée est de score 4, et que je fais 4 au dé, donc un coup critique, cela veut dire que je ne fais en réalité qu'un coup réussit standard.
+
+Ok, pas glop. Mais les choses pourraient être pires. Imaginons que je subisse maintenant une deuxième //tranchant 3// en 3, et que je mitige les dégâts en noircissant plutôt au dessus :
+
+|1| |N| |
+|2|N|N| |
+|3|X|X|X|
+|4|N|N|X|
+|5| |N|N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Mon personnage a maintenant une ligne complètement vide, la ligne 3 n'a plus aucune case.
+
+Et c'est là que ça va se compliquer pour moi : si au dé je fait un 3, mon personnage tombe dans les pommes, et si c'est déjà fait, il prend une blessure.
+A partir de maintenant, à chaque tour de combat, je vais lancer un dé, et si je tombe à nouveau sur une ligne vide, je reprend une blessure. Assurant, lentement mais sûrement, la mort du personnage si personne ne vient l'aider.
+
+==== Les soins et les pertes de lignes ====
+Mon personnage aura quand même bien morflé. Mais tout n'est pas perdu.
+Mettons qu'il soit sauvé à ce moment par un autre personnage doué en [[:règles:compétence:médecine]], qui réussit son test pour me stabiliser.
+
+Je reviendrais à moi dans quelques heures (10 - [[:règles:compétence:résistance physique]], si vous voulez tout savoir), et que se passera-t-il alors ?
+Mon personnage est-il bon pour la poubelle ?
+Et bien non !
+
+Je vais pouvoir rayer toute la ligne 3 de mon personnage, ainsi :
+
+|1| |N| |
+|2|N|N| |
+|———————||||
+|4|N|N|X|
+|5| |N|N|
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+À partir de maintenant, quand mon dé indiquera 3, je devrait considérer qu'il fait… 4 !
+Aussi, lorsque je subirais une attaque sur 3, en fait ce sera sur 4. Et d'ailleurs, maintenant, les lignes 2 et 4 sont considérées adjacentes. Donc, si je prenais à nouveau (décidément, c'est ma journée) des dégâts tranchant 3, en ligne 2 cette fois-ci, je devrais mettre une coche ligne 2, une ligne 1 et une ligne 4 (ou ligne 2, 4 et 5).
+
+Toutes ces misères ont un avantage : toutes mes compétences de valeur 4 ont maintenant 2 fois plus de chances de faire des coup critique !
+(pourquoi ? Eh bien… C'est une conséquence inattendue du système de jeu. À chacun de le justifier avec son personnage)
+
+
+==== Les armures ====
+Bon, mettons maintenant que je me sois guéris :
+
+|1| | | |
+|2| | | |
+|———————||||
+|4| | |X|
+|5| | | |
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+J'ai pris cher, mais en vrai, pour quelqu'un qui a frôlé la mort, c'est pas mal.
+Je compte retourner en expédition, bien sûr, mais cette fois-ci, je n'y vais pas à poil, je vais mettre //une armure// !
+
+Bon, je suis malin : je vais prendre une armure légère, c'est à dire un vêtement épais et résistant. Ça fera pas des miracles, mais c'est déjà ça.
+
+J'ai 1 en [[:règles:compétence:port d'armure]], et je peux porter le double de pièces d'armure, soit 2 pièces.
+Je n'ai pas de formation particulière, donc je prend [[:règles:concept:armure|une armure légère]], qui protège de 1, et je les place en ligne 2 et 4 (et de par les règles, le plus à gauche possible) :
+
+|1| | | |
+|2|A| | |
+|———————||||
+|4|A| |X|
+|5| | | |
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+
+Mettons que me voilà à nouveau embêté par des gens avec des épées, et que je subit //tranchant 3// en ligne 3.
+
+Donc, on le sait, ma ligne 3 est reportée ligne 4, donc je subit en fait les dégâts ligne 4.
+Mais, surprise ! J'ai mon armure ! Je vais donc positionner les dégâts là où l'armure est déjà :
+
+|1| | | |
+|2|A (ici)| | |
+|———————||||
+|4|A (ici)| |X|
+|5|(ici)| | |
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Sauf que, et c'est à ça que sert l'armure : les cases protégées par l'armure ne sont pas noircies. C'est merveilleux !
+
+|1| | | |
+|2|A| | |
+|———————||||
+|4|A| |X|
+|5|N| | |
+|6| | | |
+|7| | | |
+|8| | | |
+|9| | | |
+|0| | | |
+
+Ainsi, malgré ce coup d'épée, je ne prend qu'un seul dégât !
+

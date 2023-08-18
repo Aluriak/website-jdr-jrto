@@ -1,0 +1,8 @@
+===== Résistance physique =====
+//Résister à des maladies, à un coup de grisou ou à un coup de sabot dans le bide//
+
+La résistance physique est notamment utilisée pour déterminer la quantité de point de vie du personnage.
+
+Un personnage, à sa création, voit son tableau de PV créé comme un rectangle de 10 lignes (une pour chaque valeur du d10, de 1 à 10) et d'autant de colonnes que son score de résistance physique.
+
+Pour un déroulé du fonctionnement des points de vie et des blessures, voir [[:règles:guide:pattern|le guide des patterns]]

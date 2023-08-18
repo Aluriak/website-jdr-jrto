@@ -1,0 +1,1 @@
+<catlist :règles:exemple:personnage: -columns:4 -excludeOnName:sommaire>

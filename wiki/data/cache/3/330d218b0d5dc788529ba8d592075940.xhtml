@@ -1,0 +1,675 @@
+
+<h2 class="sectionedit1" id="les_patterns">Les patterns</h2>
+<div class="level2">
+
+<p>
+Un pattern, c&#039;est un motif de cases cochées dans un tableau à deux dimensions. Par exemple :
+</p>
+<div class="table sectionedit2"><table class="inline">
+	<tr class="row0">
+		<td class="col0">N</td><td class="col1">N</td><td class="col2"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">N</td><td class="col1"> </td><td class="col2">N</td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">N</td><td class="col1"> </td><td class="col2"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;123-146&quot;} -->
+<p>
+Une arme, typiquement, possède un <em>pattern</em> de dégât. Par exemple, une épée infligeant <em>tranchant 3</em> dégâts aurait ce pattern :
+</p>
+<div class="table sectionedit3"><table class="inline">
+	<tr class="row0">
+		<td class="col0">N</td><td class="col1"> </td><td class="col2"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">N</td><td class="col1"> </td><td class="col2"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">N</td><td class="col1"> </td><td class="col2"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;288-311&quot;} -->
+<p>
+Une arme de dégâts <em>perçant 4</em> aurait ce pattern :
+</p>
+<div class="table sectionedit4"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> </td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">N</td><td class="col1">N</td><td class="col2">N</td><td class="col3">N</td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> </td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;370-399&quot;} -->
+<p>
+Le principe des PV est simple : c&#039;est un tableau à deux dimensions, et quand on subit des dégâts, on noircis des cases de notre tableau de PV selon le pattern de l&#039;arme qui nous a touché.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Les patterns&quot;,&quot;hid&quot;:&quot;les_patterns&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-595&quot;} -->
+<h3 class="sectionedit5" id="avec_le_tableau_de_pv">Avec le tableau de PV</h3>
+<div class="level3">
+
+<p>
+Voici mon tableau de PV, avec à gauche la colonne qui indique les dix valeurs possibles d&#039;un d10.
+</p>
+<div class="table sectionedit6"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table3&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;728-827&quot;} -->
+<p>
+Pour le moment, il est vierge, et on devine que j&#039;ai une <a href="/doku.php?id=r%C3%A8gles:comp%C3%A9tence:r%C3%A9sistance_physique" class="wikilink1" title="règles:compétence:résistance_physique" data-wiki-id="règles:compétence:résistance_physique">résistance physique</a> de 3 (car il y a trois colonnes, quatre avec les indications de valeurs de dé).
+</p>
+
+<p>
+Mettons que je subisse une attaque, et que l&#039;attaquant, utilisant une lame courte de dégâts <em>tranchant 3</em>, lance le d10 et obtient 3.
+</p>
+
+<p>
+Il a 6 à la compétence <em>lames courtes</em>, son attaque est donc réussie.
+Son d10 indiquant 3, je dois placer le pattern de manière à ce qu&#039;il touche la ligne 3. Par exemple :
+</p>
+<div class="table sectionedit7"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1"> </td><td class="col2">N</td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1"> </td><td class="col2">N</td><td class="col3"> </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1"> </td><td class="col2">N</td><td class="col3"> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table4&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;1356-1455&quot;} -->
+<p>
+Mais j&#039;aurais aussi pu le mettre ainsi :
+</p>
+<div class="table sectionedit8"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;1499-1598&quot;} -->
+<p>
+Restons sur cette dernière éventualité. Mettons que je reçoive ensuite une flèche, dont le pattern de dégât est <em>flèche 3</em> :
+</p>
+<div class="table sectionedit9"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> </td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">N</td><td class="col1"> </td><td class="col2">N</td><td class="col3"> </td><td class="col4">N</td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> </td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table6&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;1736-1771&quot;} -->
+<p>
+Si le score d&#039;attaque (la valeur du dé de l&#039;attaquant) est de 4, je dois noircir les cases indiquées ligne 4 selon le pattern <em>flèche 3</em>.
+Deux problèmes se posent à moi :
+</p>
+<div class="table sectionedit10"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">là c&#039;est bon</td><td class="col2"> </td><td class="col3">Je suis déjà blessé ici</td><td class="col4"> </td><td class="col5">Et là, je peux pas noircir, ça déborde du tableau ! </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table7&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;1952-2146&quot;} -->
+<p>
+Le premier problème, c&#039;est de recevoir une blessure sur un lieu déjà blessé, cela créé une <em>faiblesse</em>. Ça se gère ainsi : <strong>une case qui doit être noircie une deuxième fois devient une <em>faiblesse</em>. Elle est effacée du tableau, elle n&#039;existe plus et ne peux donc plus être utilisée pour subir des dégâts</strong>. Ici, on marquera ça avec un <code>X</code>, comme si on avait rayé la case.
+</p>
+<div class="table sectionedit11"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">N</td><td class="col2"> </td><td class="col3">X</td><td class="col4"> </td><td class="col5">Et là, je peux pas noircir, ça déborde du tableau ! </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td><td class="col4"></td><td class="col5"></td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table8&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;2544-2701&quot;} -->
+<p>
+Une faiblesse est grave pour un personnage : il y a très peu de chance qu&#039;il en guérisse un jour.
+</p>
+
+<p>
+Le second problème, c&#039;est de subir des dégâts en dehors du tableau, c&#039;est-à-dire un <em>débordement</em>. Ça se gère ainsi : <strong>chaque dégât débordant du tableau de PV doit être rattrapé en noircicant une case au choix <em>au-dessus</em> de la case théoriquement touchée.</strong>
+</p>
+
+<p>
+Donc, ici, je vais gérer le débordement en noircissant une case en ligne 2 :
+</p>
+<div class="table sectionedit12"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1">N</td><td class="col2"> </td><td class="col3">N</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">N</td><td class="col2"> </td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table9&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;3162-3261&quot;} -->
+<p>
+Notons que je n&#039;ai pas été très malin : si je devais subir une deuxième flèche en ligne 3, je prendrais immédiatement deux faiblesses !
+</p>
+<div class="table sectionedit13"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1">N</td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1">X</td><td class="col2"> </td><td class="col3">X</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">N</td><td class="col2"> </td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3">N</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table10&quot;,&quot;secid&quot;:13,&quot;range&quot;:&quot;3406-3505&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Avec le tableau de PV&quot;,&quot;hid&quot;:&quot;avec_le_tableau_de_pv&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;596-3506&quot;} -->
+<h3 class="sectionedit14" id="les_conséquences_des_blessures_et_faiblesses">Les conséquences des blessures et faiblesses</h3>
+<div class="level3">
+
+<p>
+Si notre personnage continue comme ça, il va lui arriver des bricoles. Et pas des petites !
+</p>
+
+<p>
+Lorsqu&#039;une ligne est entièrement blessée (c&#039;est-à-dire que toutes les cases de la ligne sont noircies), le personnage rate systématiquement toute action si son dé à la valeur de la ligne.
+</p>
+
+<p>
+Par exemple, mettons que je subisse une attaque de lame courte à nouveau, ligne 3, et que, pour une raison ou une autre, je décide de mettre les dégâts ainsi :
+</p>
+<div class="table sectionedit15"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1">N</td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1">X</td><td class="col2">N</td><td class="col3">X</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">N</td><td class="col2">N</td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2">N</td><td class="col3">N</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table11&quot;,&quot;secid&quot;:15,&quot;range&quot;:&quot;4017-4116&quot;} -->
+<p>
+On observe bien que les lignes 3 et 4 sont désormais noircies complètement. La ligne 3 n&#039;a qu&#039;une seule case (rappelez vous, les X sont des cases détruites définitivement), et la ligne 4 n&#039;en a plus que 2.
+Et ces trois cases au total sont toutes noircies.
+Cela veut dire que si je voulais répliquer, et attaquer à mon tour, tout jet de d10 de score 3 ou 4 serait <strong>transformé en échec</strong>. Avec une exception tout de même : un coup critique devient une réussite simple, pas un échec. Par exemple, si ma compétence utilisée est de score 4, et que je fais 4 au dé, donc un coup critique, cela veut dire que je ne fais en réalité qu&#039;un coup réussit standard.
+</p>
+
+<p>
+Ok, pas glop. Mais les choses pourraient être pires. Imaginons que je subisse maintenant une deuxième <em>tranchant 3</em> en 3, et que je mitige les dégâts en noircissant plutôt au dessus :
+</p>
+<div class="table sectionedit16"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2">N</td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1">N</td><td class="col2">N</td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">3</td><td class="col1">X</td><td class="col2">X</td><td class="col3">X</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">N</td><td class="col2">N</td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2">N</td><td class="col3">N</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table12&quot;,&quot;secid&quot;:16,&quot;range&quot;:&quot;4982-5081&quot;} -->
+<p>
+Mon personnage a maintenant une ligne complètement vide, la ligne 3 n&#039;a plus aucune case.
+</p>
+
+<p>
+Et c&#039;est là que ça va se compliquer pour moi : si au dé je fait un 3, mon personnage tombe dans les pommes, et si c&#039;est déjà fait, il prend une blessure.
+A partir de maintenant, à chaque tour de combat, je vais lancer un dé, et si je tombe à nouveau sur une ligne vide, je reprend une blessure. Assurant, lentement mais sûrement, la mort du personnage si personne ne vient l&#039;aider.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Les cons\u00e9quences des blessures et faiblesses&quot;,&quot;hid&quot;:&quot;les_cons\u00e9quences_des_blessures_et_faiblesses&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:14,&quot;range&quot;:&quot;3507-5566&quot;} -->
+<h3 class="sectionedit17" id="les_soins_et_les_pertes_de_lignes">Les soins et les pertes de lignes</h3>
+<div class="level3">
+
+<p>
+Mon personnage aura quand même bien morflé. Mais tout n&#039;est pas perdu.
+Mettons qu&#039;il soit sauvé à ce moment par un autre personnage doué en <a href="/doku.php?id=r%C3%A8gles:comp%C3%A9tence:m%C3%A9decine" class="wikilink2" title="règles:compétence:médecine" rel="nofollow" data-wiki-id="règles:compétence:médecine">médecine</a>, qui réussit son test pour me stabiliser.
+</p>
+
+<p>
+Je reviendrais à moi dans quelques heures (10 - <a href="/doku.php?id=r%C3%A8gles:comp%C3%A9tence:r%C3%A9sistance_physique" class="wikilink1" title="règles:compétence:résistance_physique" data-wiki-id="règles:compétence:résistance_physique">résistance physique</a>, si vous voulez tout savoir), et que se passera-t-il alors ?
+Mon personnage est-il bon pour la poubelle ?
+Et bien non !
+</p>
+
+<p>
+Je vais pouvoir rayer toute la ligne 3 de mon personnage, ainsi :
+</p>
+<div class="table sectionedit18"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2">N</td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1">N</td><td class="col2">N</td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0" colspan="4">———————</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">N</td><td class="col2">N</td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2">N</td><td class="col3">N</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table13&quot;,&quot;secid&quot;:18,&quot;range&quot;:&quot;6118-6234&quot;} -->
+<p>
+À partir de maintenant, quand mon dé indiquera 3, je devrait considérer qu&#039;il fait… 4 !
+Aussi, lorsque je subirais une attaque sur 3, en fait ce sera sur 4. Et d&#039;ailleurs, maintenant, les lignes 2 et 4 sont considérées adjacentes. Donc, si je prenais à nouveau (décidément, c&#039;est ma journée) des dégâts tranchant 3, en ligne 2 cette fois-ci, je devrais mettre une coche ligne 2, une ligne 1 et une ligne 4 (ou ligne 2, 4 et 5).
+</p>
+
+<p>
+Toutes ces misères ont un avantage : toutes mes compétences de valeur 4 ont maintenant 2 fois plus de chances de faire des coup critique !
+(pourquoi ? Eh bien… C&#039;est une conséquence inattendue du système de jeu. À chacun de le justifier avec son personnage)
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Les soins et les pertes de lignes&quot;,&quot;hid&quot;:&quot;les_soins_et_les_pertes_de_lignes&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:17,&quot;range&quot;:&quot;5567-6944&quot;} -->
+<h3 class="sectionedit19" id="les_armures">Les armures</h3>
+<div class="level3">
+
+<p>
+Bon, mettons maintenant que je me sois guéris :
+</p>
+<div class="table sectionedit20"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0" colspan="4">———————</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1"> </td><td class="col2"> </td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table14&quot;,&quot;secid&quot;:20,&quot;range&quot;:&quot;7017-7133&quot;} -->
+<p>
+J&#039;ai pris cher, mais en vrai, pour quelqu&#039;un qui a frôlé la mort, c&#039;est pas mal.
+Je compte retourner en expédition, bien sûr, mais cette fois-ci, je n&#039;y vais pas à poil, je vais mettre <em>une armure</em> !
+</p>
+
+<p>
+Bon, je suis malin : je vais prendre une armure légère, c&#039;est à dire un vêtement épais et résistant. Ça fera pas des miracles, mais c&#039;est déjà ça.
+</p>
+
+<p>
+J&#039;ai 1 en <a href="/doku.php?id=r%C3%A8gles:comp%C3%A9tence:port_d_armure" class="wikilink2" title="règles:compétence:port_d_armure" rel="nofollow" data-wiki-id="règles:compétence:port_d_armure">port d&#039;armure</a>, et je peux porter le double de pièces d&#039;armure, soit 2 pièces.
+Je n&#039;ai pas de formation particulière, donc je prend <a href="/doku.php?id=r%C3%A8gles:concept:armure" class="wikilink2" title="règles:concept:armure" rel="nofollow" data-wiki-id="règles:concept:armure">une armure légère</a>, qui protège de 1, et je les place en ligne 2 et 4 (et de par les règles, le plus à gauche possible) :
+</p>
+<div class="table sectionedit21"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1">A</td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0" colspan="4">———————</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">A</td><td class="col2"> </td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table15&quot;,&quot;secid&quot;:21,&quot;range&quot;:&quot;7825-7941&quot;} -->
+<p>
+Mettons que me voilà à nouveau embêté par des gens avec des épées, et que je subit <em>tranchant 3</em> en ligne 3.
+</p>
+
+<p>
+Donc, on le sait, ma ligne 3 est reportée ligne 4, donc je subit en fait les dégâts ligne 4.
+Mais, surprise ! J&#039;ai mon armure ! Je vais donc positionner les dégâts là où l&#039;armure est déjà :
+</p>
+<div class="table sectionedit22"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1">A (ici)</td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0" colspan="4">———————</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">A (ici)</td><td class="col2"> </td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1">(ici)</td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table16&quot;,&quot;secid&quot;:22,&quot;range&quot;:&quot;8262-8394&quot;} -->
+<p>
+Sauf que, et c&#039;est à ça que sert l&#039;armure : les cases protégées par l&#039;armure ne sont pas noircies. C&#039;est merveilleux !
+</p>
+<div class="table sectionedit23"><table class="inline">
+	<tr class="row0">
+		<td class="col0">1</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">2</td><td class="col1">A</td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0" colspan="4">———————</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">4</td><td class="col1">A</td><td class="col2"> </td><td class="col3">X</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">5</td><td class="col1">N</td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">6</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">7</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">8</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">9</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">0</td><td class="col1"> </td><td class="col2"> </td><td class="col3"> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table17&quot;,&quot;secid&quot;:23,&quot;range&quot;:&quot;8520-8636&quot;} -->
+<p>
+Ainsi, malgré ce coup d&#039;épée, je ne prend qu&#039;un seul dégât !
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Les armures&quot;,&quot;hid&quot;:&quot;les_armures&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:19,&quot;range&quot;:&quot;6945-&quot;} -->

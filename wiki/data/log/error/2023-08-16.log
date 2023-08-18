@@ -1,0 +1,115 @@
+2023-08-16 15:08:50	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 17:20:05	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('wiki.getPageHTM...', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('wiki.getPageHTM...', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('wiki.getPageHTM...', Array)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:20:08	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('wiki.getPage', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('wiki.getPage', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('wiki.getPage', Array)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:20:12	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('dokuwiki.getPag...', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('dokuwiki.getPag...', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('dokuwiki.getPag...', Array)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:20:13	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('wiki.getAttachm...', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('wiki.getAttachm...', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('wiki.getAttachm...', NULL)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:20:27	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('wiki.getPageHTM...', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('wiki.getPageHTM...', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('wiki.getPageHTM...', Array)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:20:31	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('wiki.getPageHTM...', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('wiki.getPageHTM...', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('wiki.getPageHTM...', Array)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:20:31	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('wiki.getPageInf...', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('wiki.getPageInf...', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('wiki.getPageInf...', Array)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:20:32	/var/www/jdr/wiki/inc/Remote/Api.php(280)	E_WARNING: Trying to access array offset on value of type null
+  #0 /var/www/jdr/wiki/inc/Remote/Api.php(280): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', '/var/www/jdr/wi...', 280)
+  #1 /var/www/jdr/wiki/inc/Remote/Api.php(291): dokuwiki\Remote\Api->hasAccess()
+  #2 /var/www/jdr/wiki/inc/Remote/Api.php(216): dokuwiki\Remote\Api->forceAccess()
+  #3 /var/www/jdr/wiki/inc/Remote/Api.php(192): dokuwiki\Remote\Api->checkAccess(Array)
+  #4 /var/www/jdr/wiki/inc/Remote/Api.php(101): dokuwiki\Remote\Api->callCoreMethod('wiki.getPage', Array)
+  #5 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(48): dokuwiki\Remote\Api->call('wiki.getPage', Array)
+  #6 /var/www/jdr/wiki/vendor/kissifrot/php-ixr/src/Server/Server.php(46): dokuwiki\Remote\XmlRpcServer->call('wiki.getPage', Array)
+  #7 /var/www/jdr/wiki/inc/Remote/XmlRpcServer.php(39): IXR\Server\Server->serve('<?xml version="...')
+  #8 /var/www/jdr/wiki/lib/exe/xmlrpc.php(15): dokuwiki\Remote\XmlRpcServer->serve()
+  #9 {main}
+2023-08-16 17:25:22	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 19:52:49	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 19:52:49	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 19:52:49	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 19:52:53	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 19:53:07	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 19:53:26	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-16 19:53:34	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
