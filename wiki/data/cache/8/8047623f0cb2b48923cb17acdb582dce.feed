@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://wiki.jdr.bourneuf.net/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.jdr.bourneuf.net/feed.php">
+        <title>Jeu de Rôle en Table Ouverte</title>
+        <description></description>
+        <link>https://wiki.jdr.bourneuf.net/</link>
+        <image rdf:resource="https://wiki.jdr.bourneuf.net/lib/tpl/ad-hominem/images/favicon.ico" />
+       <dc:date>2023-08-23T15:51:37+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:comp%C3%A9tence:sommaire&amp;do=revisions&amp;rev=1692738834"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=participer&amp;do=revisions&amp;rev=1692738676"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:berserk&amp;do=revisions&amp;rev=1692738633"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:combat&amp;do=revisions&amp;rev=1692738624"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:sommaire&amp;do=revisions&amp;rev=1692737006"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:guide:cr%C3%A9ation_de_perso&amp;do=revisions&amp;rev=1692736828"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:commune&amp;do=revisions&amp;rev=1692736312"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:magicien&amp;do=revisions&amp;rev=1692736162"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:mobilit%C3%A9&amp;do=revisions&amp;rev=1692735695"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:traits&amp;do=revisions&amp;rev=1692735635"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:pv_et_blessures&amp;do=revisions&amp;rev=1692735557"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:ao&amp;do=revisions&amp;rev=1692735519"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:pi%C3%A8ges&amp;do=revisions&amp;rev=1692735339"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:r%C3%A9actifs&amp;do=revisions&amp;rev=1692735319"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:ma%C3%AEtre_d_armes&amp;do=revisions&amp;rev=1692735135"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armes&amp;do=revisions&amp;rev=1692735068"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:magie&amp;do=revisions&amp;rev=1692734875"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:sac_%C3%A0_viande&amp;do=revisions&amp;rev=1692734480"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armure&amp;do=revisions&amp;rev=1692734431"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armure_et_pv&amp;do=revisions&amp;rev=1692734423"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.jdr.bourneuf.net/lib/tpl/ad-hominem/images/favicon.ico">
+        <title>Jeu de Rôle en Table Ouverte</title>
+        <link>https://wiki.jdr.bourneuf.net/</link>
+        <url>https://wiki.jdr.bourneuf.net/lib/tpl/ad-hominem/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:comp%C3%A9tence:sommaire&amp;do=revisions&amp;rev=1692738834">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T21:13:54+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:compétence:sommaire - [Compétences spécialisées] </title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:comp%C3%A9tence:sommaire&amp;do=revisions&amp;rev=1692738834</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=participer&amp;do=revisions&amp;rev=1692738676">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T21:11:16+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>participer</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=participer&amp;do=revisions&amp;rev=1692738676</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:berserk&amp;do=revisions&amp;rev=1692738633">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T21:10:33+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:classe:berserk - [Arbre d&#039;aptitudes] </title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:berserk&amp;do=revisions&amp;rev=1692738633</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:combat&amp;do=revisions&amp;rev=1692738624">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T21:10:24+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:combat - créée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:combat&amp;do=revisions&amp;rev=1692738624</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:sommaire&amp;do=revisions&amp;rev=1692737006">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:43:26+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:sommaire</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:sommaire&amp;do=revisions&amp;rev=1692737006</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:guide:cr%C3%A9ation_de_perso&amp;do=revisions&amp;rev=1692736828">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:40:28+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:guide:création_de_perso - [Truc(s)] </title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:guide:cr%C3%A9ation_de_perso&amp;do=revisions&amp;rev=1692736828</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:commune&amp;do=revisions&amp;rev=1692736312">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:31:52+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:classe:commune - supprimée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:commune&amp;do=revisions&amp;rev=1692736312</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:magicien&amp;do=revisions&amp;rev=1692736162">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:29:22+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:classe:magicien - [Aptitudes] </title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:magicien&amp;do=revisions&amp;rev=1692736162</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:mobilit%C3%A9&amp;do=revisions&amp;rev=1692735695">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:21:35+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:mobilité - créée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:mobilit%C3%A9&amp;do=revisions&amp;rev=1692735695</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:traits&amp;do=revisions&amp;rev=1692735635">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:20:35+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:traits - [Glissant] </title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:traits&amp;do=revisions&amp;rev=1692735635</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:pv_et_blessures&amp;do=revisions&amp;rev=1692735557">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:19:17+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:pv_et_blessures</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:pv_et_blessures&amp;do=revisions&amp;rev=1692735557</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:ao&amp;do=revisions&amp;rev=1692735519">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:18:39+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:ao - [Améliorations] </title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:ao&amp;do=revisions&amp;rev=1692735519</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:pi%C3%A8ges&amp;do=revisions&amp;rev=1692735339">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:15:39+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:pièges - créée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:pi%C3%A8ges&amp;do=revisions&amp;rev=1692735339</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:r%C3%A9actifs&amp;do=revisions&amp;rev=1692735319">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:15:19+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:réactifs - créée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:r%C3%A9actifs&amp;do=revisions&amp;rev=1692735319</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:ma%C3%AEtre_d_armes&amp;do=revisions&amp;rev=1692735135">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:12:15+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:classe:maître_d_armes - [Arbre d&#039;aptitudes] </title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:classe:ma%C3%AEtre_d_armes&amp;do=revisions&amp;rev=1692735135</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armes&amp;do=revisions&amp;rev=1692735068">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:11:08+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:armes - créée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armes&amp;do=revisions&amp;rev=1692735068</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:magie&amp;do=revisions&amp;rev=1692734875">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:07:55+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:magie - créée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:magie&amp;do=revisions&amp;rev=1692734875</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:sac_%C3%A0_viande&amp;do=revisions&amp;rev=1692734480">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:01:20+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:sac_à_viande - supprimée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:sac_%C3%A0_viande&amp;do=revisions&amp;rev=1692734480</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armure&amp;do=revisions&amp;rev=1692734431">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:00:31+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:armure - créée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armure&amp;do=revisions&amp;rev=1692734431</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armure_et_pv&amp;do=revisions&amp;rev=1692734423">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T20:00:23+00:00</dc:date>
+        <dc:creator>lucas (lucas@undisclosed.example.com)</dc:creator>
+        <title>règles:aptitude:armure_et_pv - supprimée</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=r%C3%A8gles:aptitude:armure_et_pv&amp;do=revisions&amp;rev=1692734423</link>
+        <description></description>
+    </item>
+</rdf:RDF>

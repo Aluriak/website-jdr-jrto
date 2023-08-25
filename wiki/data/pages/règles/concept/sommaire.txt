@@ -1,0 +1,3 @@
+====== Concepts ======
+
+<catlist :règles:concept: -columns:2 -excludeOnName:sommaire -noHead>

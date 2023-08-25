@@ -220,7 +220,7 @@ Je compte retourner en expédition, bien sûr, mais cette fois-ci, je n'y vais p
 Bon, je suis malin : je vais prendre une armure légère, c'est à dire un vêtement épais et résistant. Ça fera pas des miracles, mais c'est déjà ça.
 
 J'ai 1 en [[:règles:compétence:port d'armure]], et je peux porter le double de pièces d'armure, soit 2 pièces.
-Je n'ai pas de formation particulière, donc je prend [[:règles:concept:armure|une armure légère]], qui protège de 1, et je les place en ligne 2 et 4 (et de par les règles, le plus à gauche possible) :
+Je n'ai pas de formation particulière, donc je prend [[:règles:concept:armure|une armure légère]], qui protège de 1, et je les place en ligne 2 et 4 (et [[:règles:concept:armure|de par les règles]], le plus à gauche possible) :
 
 |1| | | |
 |2|A| | |

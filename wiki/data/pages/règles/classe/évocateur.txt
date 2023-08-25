@@ -1,0 +1,16 @@
+====== Invocateur ======
+
+
+Magus capable de faire intervenir brièvement les capacités d'êtres surnaturels.
+
+
+- téléportations
+- toiles d'araignées
+- feux
+- 
+
+==== Compétences ====
+Devenir Invocateur ouvre les compétences spécialisées suivantes : [[règles:compétence:]], [[règles:compétence:]] et [[règles:compétence:]].
+
+
+===== Arbre d'aptitudes =====

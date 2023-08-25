@@ -1,0 +1,70 @@
+2023-08-22 17:34:50	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 17:34:50	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 17:34:51	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 17:35:02	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 17:37:03	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 17:46:42	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 17:46:42	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 20:02:04	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(72)	E_WARNING: Undefined array key 2
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(72): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 72)
+  #1 {main}
+2023-08-22 20:02:04	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(73)	E_WARNING: Undefined array key 2
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(73): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 73)
+  #1 {main}
+2023-08-22 20:06:50	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36)	E_WARNING: Undefined array key "title"
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(36): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 36)
+  #1 {main}
+2023-08-22 20:20:50	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(72)	E_WARNING: Undefined array key 2
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(72): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 72)
+  #1 {main}
+2023-08-22 20:20:50	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(73)	E_WARNING: Undefined array key 2
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(73): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 73)
+  #1 {main}
+2023-08-22 20:28:52	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(72)	E_WARNING: Undefined array key 2
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(72): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 72)
+  #1 {main}
+2023-08-22 20:28:52	/var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(73)	E_WARNING: Undefined array key 2
+  #0 /var/www/jdr/wiki/lib/tpl/ad-hominem/rest/pageinfo.php(73): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 73)
+  #1 {main}
+2023-08-22 20:42:14	/var/www/jdr/wiki/inc/ChangeLog/RevisionInfo.php(39)	E_WARNING: Undefined array key "media"
+  #0 /var/www/jdr/wiki/inc/ChangeLog/RevisionInfo.php(39): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 39)
+  #1 /var/www/jdr/wiki/inc/Ui/PageDiff.php(69): dokuwiki\ChangeLog\RevisionInfo->__construct(Array)
+  #2 /var/www/jdr/wiki/inc/Ui/PageDraft.php(35): dokuwiki\Ui\PageDiff->compareWith('====== Aptitude...')
+  #3 /var/www/jdr/wiki/inc/Action/Draft.php(40): dokuwiki\Ui\PageDraft->show()
+  #4 /var/www/jdr/wiki/inc/template.php(100): dokuwiki\Action\Draft->tplContent()
+  #5 [internal function]: tpl_content_core('draft')
+  #6 /var/www/jdr/wiki/inc/Extension/Event.php(133): call_user_func_array('tpl_content_cor...', Array)
+  #7 /var/www/jdr/wiki/inc/Extension/Event.php(199): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #8 /var/www/jdr/wiki/inc/template.php(85): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'draft', 'tpl_content_cor...')
+  #9 /var/www/jdr/wiki/lib/tpl/ad-hominem/main.php(87): tpl_content(false)
+  #10 /var/www/jdr/wiki/inc/actions.php(27): include('/var/www/jdr/wi...')
+  #11 /var/www/jdr/wiki/doku.php(126): act_dispatch()
+  #12 {main}
+2023-08-22 20:42:18	/var/www/jdr/wiki/inc/ChangeLog/RevisionInfo.php(39)	E_WARNING: Undefined array key "media"
+  #0 /var/www/jdr/wiki/inc/ChangeLog/RevisionInfo.php(39): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', '/var/www/jdr/wi...', 39)
+  #1 /var/www/jdr/wiki/inc/Ui/PageDiff.php(69): dokuwiki\ChangeLog\RevisionInfo->__construct(Array)
+  #2 /var/www/jdr/wiki/inc/Ui/PageDraft.php(35): dokuwiki\Ui\PageDiff->compareWith('====== Aptitude...')
+  #3 /var/www/jdr/wiki/inc/Action/Draft.php(40): dokuwiki\Ui\PageDraft->show()
+  #4 /var/www/jdr/wiki/inc/template.php(100): dokuwiki\Action\Draft->tplContent()
+  #5 [internal function]: tpl_content_core('draft')
+  #6 /var/www/jdr/wiki/inc/Extension/Event.php(133): call_user_func_array('tpl_content_cor...', Array)
+  #7 /var/www/jdr/wiki/inc/Extension/Event.php(199): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #8 /var/www/jdr/wiki/inc/template.php(85): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'draft', 'tpl_content_cor...')
+  #9 /var/www/jdr/wiki/lib/tpl/ad-hominem/main.php(87): tpl_content(false)
+  #10 /var/www/jdr/wiki/inc/actions.php(27): include('/var/www/jdr/wi...')
+  #11 /var/www/jdr/wiki/doku.php(126): act_dispatch()
+  #12 {main}

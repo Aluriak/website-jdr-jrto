@@ -16,7 +16,7 @@ pour voir qui peut venir quand, on prend quelques dates et voilà : ya plus qu'�
 ==== C’est où ? ====
 Pour le moment, toutes les tables que j'organise sont sur Brest, et peuvent prendre place, selon les envies/possibilités/accessibilités de chacun et chacune :
 
-  * chez moi, à 10mn de la place de Strasbourg.
+  * chez moi, quartier Europe
   * chez un joueur ou une joueuse qui veut et peut acceuillir 4 autres énergumènes pendant des heures.
   * chez [[https://sortileges.fr/brest/|Sortilège]], dans le quartier de Recouvrance, qui est prêt à nous accueillir pourvu qu'on prévienne et que ce jour là ne soit pas un jour «réservé» à d'autres activités (par exemple, le vendredi aprèm', ya beaucoup de magic, donc c'est pas idéal).
 
@@ -70,5 +70,5 @@ Parmi les choses à faire éventuellement en amont :
   * Identifier des compétences dans lesquelles le personnage excelle, se débrouille, et celles où il est très mauvais.
   * Fait-il de la magie ? Laquelle ? Se bat-il ? Avec quoi ? Comment ?
 
-Hésite pas à [[https://ptgptb.fr/une-bonne-description-de-personnage|lire]] [[http://rolistesnantais.blogspot.com/2014/03/creer-le-background-de-son-personnage.html|des]] [[https://ptgptb.fr/creation-de-perso|trucs]] pour t'aider, et aussi : parle-en au MJ, et même aux [[:auberge|autres joueurs]], ils auront peut être des idées !
+Hésite pas à [[https://ptgptb.fr/une-bonne-description-de-personnage|lire]] [[http://rolistesnantais.blogspot.com/2014/03/creer-le-background-de-son-personnage.html|des]] [[https://ptgptb.fr/creation-de-perso|trucs]] pour t'aider, et aussi : parle-en au MJ, et même aux [[:auberge|autres joueurs]], ils auront sans doutes des idées !
 

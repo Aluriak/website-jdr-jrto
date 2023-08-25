@@ -1,0 +1,10 @@
+====== Aptitudes en rapport avec l'armure ======
+
+
+===== Port des armures =====
+Vous pouvez porter des pièces d'armure moyenne.
+
+==== Améliorations ====
+  * port des pièces d'armures lourdes
+
+

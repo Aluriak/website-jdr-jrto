@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://wiki.jdr.bourneuf.net/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.jdr.bourneuf.net/feed.php">
+        <title>Jeu de Rôle en Table Ouverte</title>
+        <description></description>
+        <link>https://wiki.jdr.bourneuf.net/</link>
+        <image rdf:resource="https://wiki.jdr.bourneuf.net/lib/tpl/ad-hominem/images/favicon.ico" />
+       <dc:date>2023-08-23T00:53:01+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=auberge&amp;do=revisions&amp;rev=1692068510"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=participer&amp;do=revisions&amp;rev=1692738676"/>
+                <rdf:li rdf:resource="https://wiki.jdr.bourneuf.net/doku.php?id=sommaire&amp;do=revisions&amp;rev=1692142216"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.jdr.bourneuf.net/lib/tpl/ad-hominem/images/favicon.ico">
+        <title>Jeu de Rôle en Table Ouverte</title>
+        <link>https://wiki.jdr.bourneuf.net/</link>
+        <url>https://wiki.jdr.bourneuf.net/lib/tpl/ad-hominem/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=auberge&amp;do=revisions&amp;rev=1692068510">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-15T03:01:50+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>auberge</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=auberge&amp;do=revisions&amp;rev=1692068510</link>
+        <description>Tu ne sais pas par où commencer ?
+Commence par là
+
+----------
+
+Il y a actuellement deux lieux de discussion : le discord,
+et un canal signal, JDRTO, plus historique qu&#039;autre chose.
+
+Pour me contacter, c&#039;est facile : soit on se connaît, soit c&#039;est étonnant mais ça me fait plaisir que ma table ouverte essaime si loin,
+et du coup tu peux venir sur le discord ou me joindre par</description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=participer&amp;do=revisions&amp;rev=1692738676">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-22T21:11:16+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>participer</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=participer&amp;do=revisions&amp;rev=1692738676</link>
+        <description>Participation
+
+Au-delà de la question de jouer un personnage-joueur, il vous est possible de participer :
+
+	*  en proposant des modifications aux règles
+	*  en proposant de nouvelles aptitudes (qui, comme par hasard, seraient vraiment trop cools pour votre perso)</description>
+    </item>
+    <item rdf:about="https://wiki.jdr.bourneuf.net/doku.php?id=sommaire&amp;do=revisions&amp;rev=1692142216">
+        <dc:format>text/html</dc:format>
+        <dc:date>2023-08-15T23:30:16+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>sommaire</title>
+        <link>https://wiki.jdr.bourneuf.net/doku.php?id=sommaire&amp;do=revisions&amp;rev=1692142216</link>
+        <description>Bienvenue !
+
+Bienvenue sur le wiki où je centralise un maximum d&#039;informations sur mes JdR, notamment à propos du monde d&#039;Hérythrée,
+et son format table ouverte, nommé Le Continent Oublié.
+
+N&#039;hésitez pas à aller voir les pages les plus importantes, notamment les FAQ, les guides, la présentation des règles,
+ou celle de</description>
+    </item>
+</rdf:RDF>

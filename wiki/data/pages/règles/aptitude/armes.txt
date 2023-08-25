@@ -1,0 +1,12 @@
+====== Aptitudes liées aux armes ======
+
+
+==== Arbalétrier professionnel ====
+Recharger l'arbalète prend moins de temps : le personnage gagne 1 recharge gratuite d'arbalète par combat.
+
+=== Amélioration ===
+  * par tour
+
+
+==== Archer professionnel ====
+???

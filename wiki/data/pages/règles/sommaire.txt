@@ -1,1 +1,1 @@
-<catlist règles: -columns:4 -excludeOnName:sommaire>
+<catlist règles: -columns:2 -excludeOnName:sommaire>

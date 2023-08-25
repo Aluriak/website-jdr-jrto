@@ -1,5 +1,5 @@
 ===== Points de Vie, Armures et Blessures =====
-//L'armure se disloque, les blessures s'accumulent et les PV se font rares : faut dire que c'est dangereux d'intercepter des flèches avec la tête/
+//L'armure se disloque, les blessures s'accumulent et les PV se font rares : c'est dangereux d'intercepter les flèches avec sa tête//
 
 ==== Principes ====
 Inévitablement, il va y avoir des confrontations violentes et mortelles. Parce qu'on joue un JdR de deuxième génération au fond, et pis bon, fallait bien mettre du combat parce que m'entendre décrire les nuances de bleu qui teintent les remous de l'eau d'une mare, ça va bien 5 minutes mais après deux heures j'ai épuisé tous mes synonymes.

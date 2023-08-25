@@ -1,1 +1,4 @@
-<catlist jdr:faq -columns:3>
+====== Foires aux Questions ======
+Vous vous posez des questions ? Ça tombe bien, voilà des FAQs qui essaieront d'y répondre !
+
+<catlist jdr:faq -columns:2 -excludeOnName:sommaire -noHead >

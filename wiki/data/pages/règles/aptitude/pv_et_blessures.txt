@@ -1,0 +1,14 @@
+====== Aptitudes en rapport avec les pv et les blessures ======
+
+===== Sac à viande =====
+Ajouter +2 à la [[:règles:compétence:résistance physique]] en ce qui concerne le calcul des PV.
+
+===== Résilience physique ======
+[Si 3 faiblesses ou plus:] si une attaque inflige 2 faiblesse ou plus, une faiblesse est annulée
+
+
+===== Encaissement =====
+Ajouter 1 cases de PV à droite du rectangle sur une ligne au choix
+==== Améliorations ====
+    * 2 cases en plus de la première
+      * 3 cases en plus des 3 premières

@@ -1,0 +1,27 @@
+====== Berserk ======
+//Quand j'étais petit garçon, je m'exerçais au bâton… En chantant//
+
+
+
+==== Compétences ====
+
+Devenir Berserk ouvre les compétences spécialisées suivantes : [[règles:compétence:lames longues]], [[règles:compétence:haches de guerre]] et [[règles:compétence:masses de guerre]].
+
+
+
+===== Arbre d'aptitudes =====
+
+
+==== Transe chantante ====
+Le personnage entre en transe, et chante. Tant qu'il est dans cet état et à chaque tour, le personnage se déplace dans une case adjacente, puis attaque une cible, alliée si aucune ennemi n'est disponible.
+Si l'un ou l'autre n'est pas fait, la transe prend fin, et le personnage perd connaissance.
+
+Bonus si chœurs de transes.
+
+=== Améliorations ===
+
+
+
+==== Transformation ====
+
+

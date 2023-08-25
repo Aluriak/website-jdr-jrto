@@ -1,0 +1,4 @@
+===== Réactif =====
+Un des [[:règles:type:|types]].
+
+Les Réactifs sont notamment utilisés par [[:règles:classe:artificier|l'artificier]].

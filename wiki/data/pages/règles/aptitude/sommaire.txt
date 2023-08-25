@@ -1,0 +1,10 @@
+====== Aptitudes ======
+
+Les aptitudes s'acquièrent avec des [[:règles:concept:PEX|PEX]]. 1 PEX donne droit à une aptitude, ou a une amélioration d'une aptitude déjà obtenue.
+
+Une aptitude possède un nom, un effet immédiat, possiblement une condition d'acquisition, et parfois des améliorations.
+
+Les aptitudes listées ici ne sont pas liées à une [[:règles:classe:|classe]] en particulier : n'importe quel personnage, s'il répond au pré-requis indiqués, peut les acquérir.
+
+
+<catlist :règles:aptitude: -excludeOnName:sommaire -columns:2 -noHead>

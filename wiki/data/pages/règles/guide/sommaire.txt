@@ -1,4 +1,4 @@
 ===== Guides =====
 Des guides qui se veulent didactiques pour apprendre les notions de jeu importantes.
 
-<catlist :règles:guide: -columns:4 -excludeOnName:sommaire -noHead>
+<catlist :règles:guide: -columns:2 -excludeOnName:sommaire -noHead>

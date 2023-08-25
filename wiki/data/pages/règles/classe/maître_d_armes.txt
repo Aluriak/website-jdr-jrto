@@ -1,0 +1,43 @@
+====== Maître d'armes ======
+// //
+
+
+Le Maître d'armes combine des Techniques et des Armes afin d'être toujours en supériorité technique sur le champ de bataille.
+
+
+==== Compétences ====
+Devenir Maître d'armes ouvre les compétences spécialisées suivantes : [[règles:compétence:art de la guerre]], ainsi que toutes les compétences martiales spécialisées, incluant [[règles:compétence:lames longues]], [[règles:compétence:haches de guerre]], [[règles:compétence:masses de guerre]], [[règles:compétence:arcs de guerre]], et [[règles:compétence:lames cachées]].
+
+
+===== Arbre d'aptitudes =====
+
+
+==== Lutte ====
+
+
+==== Armes ====
+    * Haches de guerre
+    * Masses de guerre
+      * Étoile du matin
+        * Dernier Cauchemar
+    * Lames cachées
+    * Lames longues
+    * Arcs de guerre
+
+==== Techniques ====
+    * Frappe lourde
+    * Frappe précise
+    * Frappe concentrée
+    * Feinte
+    * Viser les défaults de l'armure
+      * au moins 1 case de dégâts ne peut être absorbée par l'armure
+        * pas plus de la moitié ne peuvent être absorbées par l'armure
+
+    * Prise en tenaille: si au corps à corps avec un ennemi lui-même au càc avec un allié du maître d'arme, le maître d'arme et son allié ont +2 à leurs attaques ciblant spécifiquement cet ennemi.
+      * si l'ennemi attaque quelqu'un d'autre que le maître d'arme, ce dernier gagne une AO gratuite sur cet ennemi, avant résolution de sa propre attaque.
+
+
+==== Techniques passives ====
+    * Critiques majorés: lors d'un maniement d'arme réussit avec critique, les dégâts sont multipliés encore par deux
+      * 
+    * Yeux dans le dos: les tenailles

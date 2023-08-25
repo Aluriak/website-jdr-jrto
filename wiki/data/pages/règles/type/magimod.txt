@@ -1,0 +1,2 @@
+====== Magimod ======
+Utilisée notamment par les [[:règles:aptitude:métamagie|métamages]], c'est l'unité de modification des sorts.

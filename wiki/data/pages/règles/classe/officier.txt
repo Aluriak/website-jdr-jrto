@@ -1,0 +1,48 @@
+====== Officier ======
+//On devrait plutôt l'appeler assistant, mais il dit qu'il est pas d'accord//
+
+==== Compétences ====
+Devenir Officier n'ouvre pas de compétences spécialisées.
+
+
+===== Arbre d'aptitudes =====
+
+  * Horizontal: À chaque tour, l'officier peut choisir d'accompagner un allié selon une classe de celui-ci:
+    * chanter avec le [[:règles:classe:berserk]]: l'officier compte comme une entité chantant avec le berserk
+    * marquer pour le [[:règles:classe:tireur d'élite]]: ???
+    * prendre en tenaille avec le [[:règles:classe:maître d'armes]]: ???
+    * servir de canal pour l'[[:règles:classe:antimagus]]: ???
+    * [[:règles:classe:magicien]]: ???
+    * [[:règles:classe:artificier]]: ???
+    * [[:règles:classe:convocateur]]: ???
+    * protéger avec le [[:règles:classe:gardien]]: l'officier ajoute également son armure à l'entité protégée par le gardien [[:règles:concept:C|dans C]]
+
+  * Vertical: l'officier peut déléguer son [[:règles:concept:ao|AO]] à un allié dans C (l'officier ne la réalise pas, c'est l'allié qui la fait, sans que celui-ci ne dépense son AO)
+    * échanger de place.
+    * retraite: bouger sans AO avec une entité consentante
+    * déclencher une synergie entre deux alliés
+
+  * Exemplaire: après que l'officier ait effectué et réussit une [[:règles:concept:ao|AO]], un allié [[:règles:concept:C|dans C]] peut également en effectuer une, gratuitement, sur la même cible.
+    * tous les alliés de C
+    * un allié à portée de voix ou vue
+
+  * Asticoteur: l'officier effectue une attaque sur une cible, mais plutôt qu'infliger des dégâts, il donne un avantage au prochain allié qui attaquerait la cible d'ici le prochain tour de l'officier.
+    * à tous les alliés qui attaqueront la cible d'ici le prochain tour de l'officier.
+
+  * Poseur: l'officier passe pour le chef de la bande. Un ennemi qui attaquerait un allié dans C de l'officier plutôt que l'officier dans C lui-même, ne pourrait pas faire de coup critique. Mais s'il attaque l'officier, toute réussite est un critique.
+
+  * Entraînement de l'équipe: lors d'un [[:règles:concept:repos|repos long]], l'officier peut décocher une de ses compétences pour donner une coche à tous les autres membres du groupe sur cette même compétence
+    * Débriefing: lors d'un repos court, il peut donner une de ses coches à //un// allié
+
+
+==== Formation martiale ====
+L'officier déclare une formation, et un bonus associé (voir liste ci-après). Chaque allié dans C décide immédiatement s'il participe à la formation ou non. Le cas échéant, il doit cesser toute activité nécessitant son implication (prendre en tenaille, chanter, viser,…). En échange, à chaque tour, il bénéficie  de l'avantage choisi par l'officier, parmi :
+    * +1 à l'attaque par allié dans la formation
+    * utiliser l'armure d'un allié de la formation jusqu'à son prochain tour
+    * déporter une attaque le visant vers un allié de la formation
+    * gagner un avantage contre un ennemi si celui-ci a déjà été attaqué ce tour-ci par un allié de la formation
+
+=== Améliorations ===
+  * Formation fluide : l'officier ne choisi pas de bonus pour la formation, c'est chaque allié qui, au début de son tour, choisi duquel il bénéficiera
+  * Formation décentralisée : la formation de l'officier n'empêche plus les alliés qui la rejoigne de s'adonner à d'autres activités.
+    

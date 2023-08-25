@@ -1,1 +1,3 @@
-<catlist :règles:exemple:personnage: -columns:4 -excludeOnName:sommaire>
+===== Exemples de personnages =====
+
+<catlist :règles:exemple:personnage: -columns:4 -excludeOnName:sommaire -noHead>

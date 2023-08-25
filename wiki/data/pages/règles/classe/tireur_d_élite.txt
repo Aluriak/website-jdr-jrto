@@ -1,0 +1,59 @@
+====== Tireur d'élite ======
+//Il est loin, il ne peut rien nous f…//
+
+Doué avec un arc ou une arbalète, le tireur d'élite brille à l'abri des épées.
+
+
+==== Compétences ====
+Devenir Tireur d'élite ouvre les compétences spécialisées suivantes : [[règles:compétence:arcs de guerre]], et [[règles:compétence:arbalètes de guerre]].
+
+
+===== Arbre d'aptitudes =====
+
+
+==== Chasseur de tête ====
+Le personnage vise très bien la tête : sur un résultat de 1 lors d'une attaque, les dégâts sont infligés comme pour un [[:règles:concept:critique|critique]].
+
+=== Améliorations ===
+  * le cou c'est bien aussi: un résultat de 2 déclenche également l'effet
+  * jusqu'à 2×2 d'armure ignorée
+
+
+
+==== Œil de lynx ====
+Trouver les défauts de l'armure devient un jeu : les dégâts infligés sont décalés de 1 case vers la droite.
+
+=== Améliorations ===
+  * œil de //jeune// lynx: décalés de 3 cases.
+
+
+
+==== Balistique ====
++1 de portée avec toutes les armes à distance (arcs, arbalète).
+
+=== Améliorations ===
+  * balistique suborbitale: +3 de portée
+
+
+
+==== Sniper ====
+Le personnage surveille très efficacement ses environs : il peut effectuer son [[:règles:concept:ao|AO]] à distance, avec son arme à distance, sur un ennemi à portée qui se déplace. (si le personnage a plusieurs AO, il peut attaquer plusieurs ennemis se déplaçant)
+
+=== Améliorations ===
+  * ange de la mort: si le personnage tue avec une AO, il peut immédiatement en refaire une contre une autre cible.
+  * plutôt qu'attaquer, le sniper peut //viser// la cible (voir aptitude correspondante) afin de bénéficier des avantages dés son prochain tour.
+
+
+
+==== Visée ====
+Prendre un tour pour viser une cible, permet d'obtenir un avantage à l'attaque si la prochaine action est d'attaquer la cible visée.
+
+=== Améliorations ===
+  * dégâts×2 si attaque réussite
+  * ignorer 2×2 d'armure de la cible
+
+
+
+
+==== Réacteur ====
+Le personnage peut associer un [[:règles:type:réactif|réactif]] aux projectiles de ses armes.

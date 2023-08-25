@@ -1,0 +1,9 @@
+====== Cases ======
+
+===== Dans C =====
+C décrit une case dans un espace divisé en cases hexagonales, généralement celle où se trouve le personnage dont on parle.
+
+===== C+1 =====
+C+1 décrit l'ensemble des cases adjacentes à C.
+
+De la même manière, C+2 décrit l'ensemble des cases adjacentes à C+1 (en excluant implicitement C).

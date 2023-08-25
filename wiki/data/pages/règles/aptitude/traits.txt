@@ -1,0 +1,7 @@
+====== Aptitudes en lien avec les traits de personnages ======
+
+===== Glissant =====
+[Si le personnage possède le trait [[:règles:guide:création de perso|Petit]]:]
+
+lorsque le personnage est poussé, il choisi la case dans laquelle il est envoyé.
+

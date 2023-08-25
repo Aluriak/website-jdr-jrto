@@ -1,0 +1,6 @@
+====== Magie ======
+
+
+Compétence spécialisée permettant de lire dans les arcanes et agir sur elles pour en extraire de la puissance.
+
+Très utilisée par les [[:règles:classe:magicien|magiciens]].

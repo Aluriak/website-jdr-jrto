@@ -1,0 +1,55 @@
+====== Traits ======
+
+Lors de la [[:règles:guide:création de perso|création d'un personnage]], il est possible de lui attribuer des traits.
+Il s'agit d'une option, et la majeure partie du temps, juste un moyen supplémentaire pour qui veut de différencier son personnage.
+
+
+
+Notez que certains traits sont exclusifs.
+Par exemple, il n'est pas possible de jouer un personnage à la fois **petit** et **grand**. C'est comme ça.
+
+Aussi, si vous jouez une autre espèce que l'humain, notez que certains traits //doivent// être pris. Les nains sont **petit**. C'est ainsi.
+
+
+===== Liste de Traits =====
+
+==== Jeune ====
+Moins de points de compétences, mais plus de capacités d'apprentissage.
+
+  * -2 à 6 compétences, communes ou spécialisées.
+  * neurones miroirs: lorsque que le personnage est témoin du coup critique d'un allié et que celui-ci coche sa compétence, il peut lui aussi cocher la compétence utilisée, à condition que celle-ci soit ouverte.
+
+
+==== Vieux ====
+Plus de points de compétences, mais l'apprentissage ça devient complexe.
+
+  * +2 à 6 compétences, communes ou spécialisées.
+  * tout part à veau l'eau: les coups critiques ne permettent pas de cocher les compétences.
+
+
+
+==== Grand ====
+Plus difficile à cacher, ce corps est néanmoins plus impressionnant et difficile à bouger.
+
+  * +2 en [[:règles:compétence:présence]] et en [[:règles:compétence:force]].
+  * +2 en [[:règles:compétence:commander-intimider]], [[:règles:compétence:étiquette-séduction]], [[:règles:compétence:mentir-convaincre]] OU en [[:règles:compétence:perception]].
+  * -2 en dissimulation.
+
+==== Petit ====
+Plus facile à cacher, plus reconnaissable, mais moins impressionnant.
+
+  * +2 en [[:règles:compétence:présence]] et en [[:règles:compétence:dissimulation]].
+  * -2 en [[:règles:compétence:commander-intimider]], [[:règles:compétence:étiquette-séduction]], [[:règles:compétence:mentir-convaincre]] OU en [[:règles:compétence:perception]].
+
+
+==== Touche-à-tout ====
+Sans aller jusqu'à une non-classe de [[:règles:aptitude:divers|dilettante]], un personnage peut déjà s'être bien éparpillé.
+
+  * -2 à 3 compétences non spécialisées à +4 ou plus.
+  * +2 à 3 compétences non spécialisées à +1 ou moins.
+
+
+==== Hyperspécialisé ====
+
+  * -2 à 3 compétences non spécialisées à +3 ou moins (minimum +0).
+  * +2 à 3 compétences non spécialisées à +4 ou plus.

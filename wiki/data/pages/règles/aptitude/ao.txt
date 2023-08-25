@@ -1,0 +1,18 @@
+====== Aptitudes en rapport avec les Attaques d'Opportunité ======
+
+===== Opportuniste =====
+Effectuer une AO n'empêche pas d'attaquer à son prochain tour.
+
+==== Améliorations ====
+  * 2 AO / tour
+    * 4 AO / tour
+  * +2 aux AO
+  * +2×2 dégâts aux AO
+
+
+===== Inopportun =====
+Le personnage peut réaliser n'importe quelle action comme AO, pas uniquement une attaque au corps-à-corps avec l'arme qu'il tient en main.
+
+==== Améliorations ====
+
+

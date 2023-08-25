@@ -1,0 +1,5 @@
+====== Volonté ======
+
+La volonté est à la [[:règles:compétence:résistance psychique]] ce que la [[:règles:compétence:force]] est à la [[:règles:compétence:résistance physique]].
+
+Elle est particulièrement importante pour les personnages devant tenir tête à des entités plus forte qu'eux.

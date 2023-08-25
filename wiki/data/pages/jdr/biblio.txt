@@ -1,4 +1,4 @@
-===== Bibliographie =====
+======= Bibliographie =======
 Une tentative de listing de textes/vidéos qui parlent de JdR.
 
 ==== Sources ====
@@ -18,6 +18,26 @@ Une tentative de listing de textes/vidéos qui parlent de JdR.
   * [[https://ptgptb.fr/jouez-en-table-ouverte|Une histoire de la table ouverte]], depuis Jacquay et ses //Caverns of Thracia//.
   * [[https://www.cestpasdujdr.fr/les-marches-de-louest/|Les marches de l'ouest]], une expérience de table ouverte à grande échelle
 
+
+==== Être joueur/joueuse ====
+
+  * [[https://ptgptb.fr/11-manieres-d-etre-un-meilleur-joueur-de-jdr|11 manière d'être un meilleur joueur de JdR]]
+  * [[https://ptgptb.fr/apprenez-a-dire-non|Apprenez à dire non]], un contrepied au sacro-saint //oui, mais//
+  * [[https://ptgptb.fr/ebook-23-joueurs-joueuses-et-pj-mode-d-emploi|L'ebook de PTGPTB]] sur la question, aborde ces questions et bien d'autres encore
+  * [[https://www.blog.leroliste.com/creer/creer-personnage-jdr-interessant|Une bonne base pour créer un PJ intéressant]]
+  * [[https://www.blog.leroliste.com/pratiquer/devenir-meilleur-joueur-jdr|un article de leroliste.com]] donne de bon conseils entre deux publicités 
+
+
+==== Féminisme, inclusivité ====
+La question de la représentativité, de l'intégration des femmes dans le jeu de rôle, et plus généralement de l'inclusivité, est un sujet central pour bien des auteurices.
+
+  * [[https://ptgptb.fr/les-roles-feminins-dans-les-textes-de-jdr|Un inventaire des rôle féminins]]
+  * [[https://ptgptb.fr/l-historicisme-n-excuse-pas-les-prejuges|L'historicisme n'excuse pas les préjugés]]
+  * [[https://ptgptb.fr/cinq-representations-courantes-et-nuisibles-du-handicap|Représentations du handicap]]
+  * [[https://ptgptb.fr/offrir-plus-de-diversite|Offrir plus de diversité]]
+  * [[https://ptgptb.fr/bien-jouer-avec-son-prochain|Bien jouer avec son prochain]], une réflexion sur le //gamergame//
+
+
 ==== Théorie du Jeu de Rôle ====
 Il existe plusieurs écoles de pensées qui cherchent à rendre compte de ce qu'est, en essence, le JdR et sa pratique.
 
@@ -30,14 +50,8 @@ Il existe plusieurs écoles de pensées qui cherchent à rendre compte de ce qu'
   * [[https://ptgptb.fr/l-art-d-arbitrer-1|L'art d'arbitrer]]
   * [[https://ptgptb.fr/jouabilite-realisme|Équilibre en jouabilité et réalisme]] 
   * [[https://ptgptb.fr/manifeste-pour-le-10e-art|Manifeste pour le 10ème art]]
+  * [[https://ptgptb.fr/le-systeme-est-important|Le système est important]], une réflexion nécessaire à la question du gameplay dans le jeu (de rôle)
 
-==== Féminisme ====
-La question de la représentativité, de l'intégration des femmes dans le jeu de rôle, et plus généralement de l'inclusivité, est un sujet central pour bien des auteurices.
-
-  * [[https://ptgptb.fr/les-roles-feminins-dans-les-textes-de-jdr|Un inventaire des rôle féminins]]
-  * [[https://ptgptb.fr/l-historicisme-n-excuse-pas-les-prejuges|L'historicisme n'excuse pas les préjugés]]
-  * [[https://ptgptb.fr/cinq-representations-courantes-et-nuisibles-du-handicap|Représentations du handicap]]
-  * [[https://ptgptb.fr/offrir-plus-de-diversite|Offrir plus de diversité]]
 
 ==== Exploration des limites du média ====
 L'idée même de jeu de rôle impose des limites, qui sont régulièrement repoussées, triturées, questionnées.

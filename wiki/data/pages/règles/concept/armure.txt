@@ -1,0 +1,45 @@
+====== L'armure, ce scaphandre non-hermétique ======
+
+===== Principes =====
+Porter une armure, ainsi que présenté dans [[:règles:guide:patterns|le guide sur les points de vie]],
+permet de réduire considérablement les risques de prendre des dégâts.
+
+Un personnage porte ainsi un certain nombre de pièces d'armure, d'épaisseurs différentes, légères (1 colonne), moyennes (2 colonnes) ou lourdes (3 colonnes).
+Il possède un nombre maximum de pièces qu'il peut porter, le maximum étant le double de son score de [[:règles:compétence:port d'armure]] s'il ne porte que des pièces d'armure légères, car celles-ci ne pèsent que la moitié d'un point d'armure.
+
+Les armures moyennes, elles, coûtent 1 point, et les armures lourdes 3.
+
+Ainsi, un personnage avec 3 en [[:règles:compétence:port d'armure]] pourra porter 6 pièces d'armures légères, réparties sur 6 lignes différentes, ou 3 pièces d'armures moyenne (sur 3 lignes), ou 1 pièce d'armure lourde. Bien sûr, il est possible de mixer tout cela : il est ainsi possible avec ce même score de porter 1 pièce d'armure moyenne et 4 légères, ou 2 moyennes et 2 légères.
+
+Chaque pièce est portée sur [[:règles:guide:pattern|une ligne de vie du personnage]].
+
+En choisissant [[:règles:aptitude:armure|les aptitudes idoines]] ou la classe de [[:règles:classe:gardien]], un personnage peut diminuer le coût de certaines armures, ou porter plusieurs pièces sur la même ligne, ou encore augmenter l'épaisseur des pièces d'armures.
+
+===== Règles =====
+
+  * une pièce d'armure protège des cases consécutives sur la même ligne
+  * ces cases doivent être placées le plus à gauche possible
+  * le malus aux compétences est indicatif : il s'applique selon les situations, à la discrétion du MJ
+
+| pièce d'armure ^ Légère ^ Moyenne ^ Lourde |
+|  Coût en maîtrise|      0.5 |       1 |      3 |
+|  Nombre de colonnes protégées|      1 |       2 |      3 |
+|  Malus aux compétences|      0 |       -1 |      -2 |
+
+
+===== Contreparties =====
+
+  * les armures sont **lourdes**, et gênent le déplacement, voir vous feront couler immédiatement.
+  * les armures sont **gênantes**, pour les soins notamment. N'espérez pas pouvoir soigner un allié engoncé dans son armure sans d'abord prendre 5 minutes à tout lui enlever.
+  * les armures sont **bruyantes**, et leur cliquetis reconnaissables sont difficiles à dissimuler.
+  * les armures sont **encombrantes**, si bien qu'on ne porte en général pas grand chose de plus qu'elles.
+  * les armures sont **fragiles**, étonnamment : si on ne s'occupe pas suffisamment d'elle, une armure peut vite rouiller, se déliter, devenir un amas de métal inutile.
+
+
+===== Résister aux dégâts, vraiment ? =====
+
+Les armures ne sont pas parfaites, et ne seront pas utile contre de nombreux dégâts.
+
+D'abord, une zone protégée par une armure n'est protégée qu'en cas de dégâts extérieurs. Ainsi, de nombreuses [[:règles:type:affliction|afflictions]] contournent les armures en infligeant des dégâts //irréductibles//, c'est-à-dire que l'armure ne peut aider à réduire.
+
+L'exemple évident étant une attaque infligeant une affliction brûlante : l'attaque de base est peut-être majoritairement absorbée, mais les cases brûlées vont endommager les cases alentours, armure ou pas.

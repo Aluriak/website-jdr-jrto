@@ -1,4 +1,4 @@
-===== Magicien =====
+====== Magicien ======
 //Un magicien est d'abord un esprit affûté pour la recherche de vérités, la compréhension du réel ; le fait qu'il puisse lancer des boules de feu en est une conséquence divertissante//
 
 
@@ -12,14 +12,14 @@ Pour un magicien, la compétence [[:règles:compétence:résistance psychique]] 
 ==== Mana ====
 
 Le total de mana est un rectangle de [[:règles:concept:notation×k|N×K]], avec N le meilleur
-score parmis les compétences spécialisées de Magicien, et K la [[:règles:compétence:résistance psychique]].
+score parmi les compétences spécialisées de Magicien, et K la [[:règles:compétence:résistance psychique]].
 
 ==== Fonctionnement de la magie ====
 
 Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
 
 
-==== Arbre d'aptitudes ====
+===== Arbre d'aptitudes =====
 
   * Éléments (basal)
     * feu
@@ -109,6 +109,12 @@ Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
   * Création: ???
     * associer un Élément à une Arme pour 1×1 mana, maintenu avec 1×1.
     * créer une Arme faite de magie. 1×1 mana + pattern de dégâts de l'arme en mana réservés tant que l'arme existe.
+    * [si Élément eau:]
+      * remplir les poumons d'une entité avec de l'eau (3×1 mana/tour)
+      * lubrifier une arme: ajoute un bloc sur une valeur d'attaque de la cible. Si activé, l'arme quitte les mains de son porteur (1×2 mana)
+      * respiration sous l'eau
+    * [si Élément roche:]
+      * devenir de roche
 
   * Arcaniste: +2 à la compétence spécialisée utilisée pour le calcul de la quantité de mana.
     * +5 au lieu de +2

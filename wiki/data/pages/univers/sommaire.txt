@@ -1,1 +1,1 @@
-<catlist univers: -columns:4>
+<catlist univers: -columns:2>

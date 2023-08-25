@@ -1,113 +1,230 @@
-1692036408	86.253.105.15	C	bienvenue	lucas	créée		404
-1692041119	86.253.105.15	C	règles:sommaire	rlucas	undocumented remote modification		31
-1692041144	86.253.105.15	E	règles:sommaire	rlucas	undocumented remote modification		-1
-1692041162	86.253.105.15	E	règles:sommaire	rlucas	undocumented remote modification		0
-1692041204	86.253.105.15	C	univers:sommaire	rlucas	undocumented remote modification		30
-1692041448	86.253.105.15	C	univers:intels:gobelins	rlucas	undocumented remote modification		119
-1692041487	86.253.105.15	C	règles:classes:sommaire	rlucas	undocumented remote modification		38
-1692041711	86.253.105.15	C	règles:compétences	rlucas	undocumented remote modification		387
-1692042516	86.253.105.15	E	règles:compétences	rlucas	undocumented remote modification		554
-1692042721	86.253.105.15	C	compétence:manuel:organisation	rlucas	undocumented remote modification		274
-1692042722	86.253.105.15	C	règles:compétence:éthologie	rlucas	undocumented remote modification		83
-1692042722	86.253.105.15	C	règles:compétence:social:mentir-convaincre	rlucas	undocumented remote modification		295
-1692043790	86.253.105.15	C	règles:compétence:intellectuelle:éthnologie	rlucas	copied from règles:compétence:éthologie		83
-1692043805	86.253.105.15	D	règles:compétence:éthologie	lucas	supprimée		-83
-1692043851	86.253.105.15	D	compétence:manuel:organisation	rlucas	page deleted		-274
-1692043851	86.253.105.15	C	règles:compétence:manuelle:organisation	rlucas	undocumented remote modification		274
-1692045163	86.253.105.15	D	règles:compétence:intellectuelle:éthnologie	rlucas	copied from règles:compétence:éthologie		-83
-1692061426	86.253.105.15	C	jdr:faq:table_ouverte	rlucas	undocumented remote modification		5741
-1692061504	86.253.105.15	C	jdf:faq:table_close	rlucas	undocumented remote modification		1033
-1692061549	86.253.105.15	C	jdr:faq:table_close	rlucas	moved from jdf:faq:table_close		1033
-1692061549	86.253.105.15	D	jdf:faq:table_close	rlucas	moved to jdr:faq:table_close		-1033
-1692061608	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		0
-1692061623	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		0
-1692061672	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		-36
-1692061830	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		80
-1692062184	86.253.105.15	E	bienvenue	rlucas	undocumented remote modification		292
-1692062241	86.253.105.15	C	lco:sommaire	rlucas	undocumented remote modification		26
-1692063615	86.253.105.15	E	jdr:faq:table_ouverte	rlucas	undocumented remote modification		-122
-1692064286	86.253.105.15	E	jdr:faq:table_ouverte	rlucas	undocumented remote modification		-588
-1692064287	86.253.105.15	E	jdr:faq:table_close	rlucas	undocumented remote modification		1062
-1692066387	86.253.105.15	D	règles:classes:sommaire	lucas	supprimée		-38
-1692066402	86.253.105.15	C	règles:classes	lucas	créée		37
-1692066481	86.253.105.15	C	règles:classe:artificier	lucas	créée		85
-1692066796	86.253.105.15	E	règles:compétences	lucas			371
-1692066850	86.253.105.15	E	bienvenue	rlucas	undocumented remote modification		-70
-1692066850	86.253.105.15	C	auberge	rlucas	undocumented remote modification		500
-1692066850	86.253.105.15	C	règles:guide:création_de_perso	rlucas	undocumented remote modification		3113
-1692066873	86.253.105.15	E	bienvenue	lucas			-2
-1692067244	86.253.105.15	C	jdr:faq:jdr	rlucas	undocumented remote modification		6041
-1692068422	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[C’est où ?] 		6
-1692068510	86.253.105.15	E	auberge	lucas			-14
-1692068543	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[Comment je me créé mon personnage ?] 		0
-1692068569	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[C’est où ?] 		-8
-1692068587	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[On utilise quoi comme dé ?] 		-6
-1692068604	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[Comment je me créé mon personnage ?] 		8
-1692068645	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[Il faut que j'amène quoi comme matériel ?] 		-7
-1692093083	86.253.105.15	C	jdr:biblio	lucas	créée		3447
-1692093159	86.253.105.15	E	jdr:biblio	lucas	[Sources] 		211
-1692093267	86.253.105.15	E	jdr:biblio	lucas	[Aides de jeu] 		82
-1692093348	86.253.105.15	C	jdr:faq:sommaire	lucas	créée		28
-1692093447	86.253.105.15	D	wiki:welcome	lucas	supprimée		-1705
-1692093463	86.253.105.15	D	wiki:dokuwiki	lucas	supprimée		-2729
-1692093502	86.253.105.15	E	wiki:syntax	lucas	[Formatting Syntax] 		-6
-1692093528	86.253.105.15	D	playground:playground	lucas	supprimée		-25
-1692093539	86.253.105.15	C	wiki:playground	lucas	créée		25
-1692094063	86.253.105.15	C	wiki:syntaxe	rlucas	moved from wiki:syntax		21387
-1692094063	86.253.105.15	D	wiki:syntax	rlucas	moved to wiki:syntaxe		-21387
-1692094434	86.253.105.15	C	secret:sommaire	lucas	créée		28
-1692094609	86.253.105.15	C	secret:univers:intells:gobelins	lucas	créée		62
-1692094702	86.253.105.15	C	secret:univers:intells:trikeens	lucas	créée		24
-1692094711	86.253.105.15	D	secret:univers:intells:trikeens	lucas	supprimée		-24
-1692094732	86.253.105.15	C	secret:univers:intells:thrikreens	lucas	créée		27
-1692109561	86.253.105.15	E	règles:compétences	rlucas	undocumented remote modification		656
-1692109648	86.253.105.15	C	sommaire	lucas	créée		624
-1692109651	86.253.105.15	D	bienvenue	lucas	supprimée		-624
-1692109727	86.253.105.15	E	sommaire	lucas			96
-1692110255	86.253.105.15	C	c:sommaire	rlucas	undocumented remote modification		61
-1692110284	86.253.105.15	D	c:sommaire	lucas	supprimée		-61
-1692110410	86.253.105.15	C	règles:classe:sommaire	lucas	créée		60
-1692110451	86.253.105.15	E	règles:classe:sommaire	lucas			44
-1692110462	86.253.105.15	D	règles:classes	lucas	supprimée		-37
-1692110622	86.253.105.15	C	règles:classe:magicien	lucas	créée		206
-1692112754	86.253.105.15	E	règles:sommaire	lucas			24
-1692112783	86.253.105.15	D	règles:compétence:manuelle:organisation	lucas	supprimée		-274
-1692112798	86.253.105.15	C	règles:compétence:organisation	lucas	créée		275
-1692112821	86.253.105.15	D	règles:compétence:social:mentir-convaincre	lucas	supprimée		-295
-1692112836	86.253.105.15	C	règles:compétence:mentir-convaincre	lucas	créée		295
-1692112897	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Classe] 		0
-1692121307	86.253.105.15	E	règles:compétences	rlucas	undocumented remote modification		234
-1692121307	86.253.105.15	E	règles:guide:création_de_perso	rlucas	undocumented remote modification		5569
-1692124051	86.253.105.15	C	règles:guide:faire_une_attaque	rlucas	undocumented remote modification		1035
-1692124330	86.253.105.15	C	règles:concept:pex	rlucas	undocumented remote modification		37
-1692124372	86.253.105.15	E	règles:concept:pex	lucas			5
-1692125171	86.253.105.15	D	règles:concept:pex	lucas	supprimée		-42
-1692125930	86.253.105.15	C	règles:concept:pex	rlucas	undocumented remote modification		16
-1692126063	86.253.105.15	E	règles:concept:pex	rlucas	undocumented remote modification		5
-1692126087	86.253.105.15	D	règles:concept:pex	lucas	supprimée		-21
-1692126645	86.253.105.15	C	règles:concept:pex	rlucas	undocumented remote modification		833
-1692126645	86.253.105.15	C	règles:concept:pv_armure_et_blessure	rlucas	undocumented remote modification		576
-1692126646	86.253.105.15	C	règles:exemple:personnage:sommaire	rlucas	undocumented remote modification		74
-1692126646	86.253.105.15	C	règles:guide:faire_un_test	rlucas	undocumented remote modification		2974
-1692126647	86.253.105.15	C	règles:guide:lancer_un_sort	rlucas	undocumented remote modification		51
-1692126907	86.253.105.15	E	sommaire	rlucas	undocumented remote modification		-1
-1692128014	86.253.105.15	C	règles:concept:pattern	rlucas	undocumented remote modification		238
-1692128060	86.253.105.15	E	règles:concept:pattern	rlucas	undocumented remote modification		10
-1692136707	86.253.105.15	E	règles:classe:magicien	lucas			533
-1692136746	86.253.105.15	C	règles:guide:pattern	rlucas	undocumented remote modification		8712
-1692137603	86.253.105.15	C	règles:compétence:résistance_physique	lucas	créée		559
-1692141613	86.253.105.15	E	règles:classe:magicien	rlucas	undocumented remote modification		3925
-1692141620	86.253.105.15	C	règles:concept:notation_k	rlucas	undocumented remote modification		227
-1692142184	86.253.105.15	E	sommaire	lucas			0
-1692142216	86.253.105.15	E	sommaire	lucas			32
-1692142256	86.253.105.15	C	règles:guide:sommaire	lucas	créée		60
-1692142275	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Créer un personnage-joueur : un guide] 		-11
-1692142291	86.253.105.15	E	règles:guide:faire_une_attaque	lucas			-8
-1692142297	86.253.105.15	E	règles:guide:faire_un_test	lucas	[Guide : Faire un test] 		-8
-1692142308	86.253.105.15	E	règles:guide:lancer_un_sort	lucas			-8
-1692142319	86.253.105.15	E	règles:guide:pattern	lucas	[Guide : les patterns] 		-8
-1692142367	86.253.105.15	E	règles:guide:sommaire	lucas			113
-1692142412	86.253.105.15	E	règles:guide:faire_une_attaque	lucas	[Attaquer un vil malandrin] 		-7
-1692142426	86.253.105.15	E	règles:guide:faire_une_attaque	lucas	[Attaquer un vil malandrin] 		7
-1692142604	86.253.105.15	E	règles:classe:magicien	rlucas	undocumented remote modification		0
-1692142668	86.253.105.15	E	règles:classe:magicien	rlucas	undocumented remote modification		-28
+1692391077	86.253.105.15	C	règles:classe:maître_d_armes	rlucas	undocumented remote modification		28
+1692391469	86.253.105.15	C	règles:classe:gardien	rlucas	undocumented remote modification		20
+1692391469	86.253.105.15	C	règles:classe:tireur_d_élite	rlucas	undocumented remote modification		28
+1692391470	86.253.105.15	C	règles:classe:antimagus	rlucas	undocumented remote modification		22
+1692391470	86.253.105.15	C	règles:classe:officier	rlucas	undocumented remote modification		21
+1692391470	86.253.105.15	C	règles:classe:métamage	rlucas	undocumented remote modification		22
+1692391471	86.253.105.15	C	règles:classe:berserk	rlucas	undocumented remote modification		96
+1692399099	86.253.105.15	E	règles:classe:artificier	rlucas	undocumented remote modification		1733
+1692399099	86.253.105.15	E	règles:classe:maître_d_armes	rlucas	undocumented remote modification		1634
+1692399100	86.253.105.15	E	règles:classe:gardien	rlucas	undocumented remote modification		2336
+1692399100	86.253.105.15	E	règles:classe:tireur_d_élite	rlucas	undocumented remote modification		209
+1692399100	86.253.105.15	E	règles:classe:antimagus	rlucas	undocumented remote modification		420
+1692399101	86.253.105.15	E	règles:classe:officier	rlucas	undocumented remote modification		507
+1692399101	86.253.105.15	E	règles:classe:berserk	rlucas	undocumented remote modification		419
+1692399101	86.253.105.15	E	règles:classe:magicien	rlucas	undocumented remote modification		327
+1692399102	86.253.105.15	E	règles:classe:métamage	rlucas	undocumented remote modification		514
+1692399115	86.253.105.15	C	règles:classe:commune	rlucas	undocumented remote modification		1555
+1692399116	86.253.105.15	C	règles:classe:évocateur	rlucas	undocumented remote modification		364
+1692399137	86.253.105.15	E	règles:classe:commune	lucas	[Base commune d'aptitudes] 		1
+1692484283	86.253.105.15	E	règles:compétences	lucas	[Compétences générales] 		25
+1692484738	86.253.105.15	E	règles:compétences	lucas	[Compétences générales] 		253
+1692484766	86.253.105.15	C	règles:compétence:fouiller	lucas	créée		40
+1692484854	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Le concept] 		-4
+1692485084	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Compétences communes] 		-12
+1692485133	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Traits] 		-4
+1692485158	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Traits] 		-37
+1692485181	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Traits] 		-10
+1692485247	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Truc(s)] 		16
+1692485255	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Truc(s)] 		-3
+1692485470	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Compétences communes] 		0
+1692485694	86.253.105.15	C	règles:exemple:personnage:lupini	lucas	créée		142
+1692485699	86.253.105.15	C	règles:exemple:personnage:manhi	lucas	créée		145
+1692485719	86.253.105.15	C	règles:exemple:personnage:lymaïmaï	lucas	créée		147
+1692485791	86.253.105.15	C	règles:exemple:personnage:aline	lucas	créée		134
+1692485805	86.253.105.15	C	règles:exemple:personnage:amalgon	lucas	créée		139
+1692485879	86.253.105.15	C	règles:exemple:personnage:kardali	lucas	créée		147
+1692485917	86.253.105.15	C	règles:exemple:personnage:héléna	lucas	créée		139
+1692485996	86.253.105.15	C	règles:exemple:personnage:yagosto	lucas	créée		146
+1692486036	86.253.105.15	C	règles:exemple:personnage:yaggher	lucas	créée		137
+1692486111	86.253.105.15	C	règles:exemple:personnage:waly	lucas	créée		146
+1692486173	86.253.105.15	C	règles:exemple:personnage:philippen	lucas	créée		138
+1692486198	86.253.105.15	E	règles:concept:pv_armure_et_blessure	lucas			1
+1692486208	86.253.105.15	E	règles:concept:pv_armure_et_blessure	lucas	[Points de Vie, Armures et Blessures] 		-14
+1692486220	86.253.105.15	e	règles:concept:pv_armure_et_blessure	lucas	[Points de Vie, Armures et Blessures] 		0
+1692486229	86.253.105.15	e	règles:concept:pv_armure_et_blessure	lucas	[Points de Vie, Armures et Blessures] 		0
+1692486302	86.253.105.15	C	règles:type:réactif	lucas	créée		109
+1692486464	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Compétences communes] 		2
+1692486557	86.253.105.15	C	règles:compétence:présence	lucas	créée		141
+1692486634	86.253.105.15	E	règles:compétence:présence	lucas			68
+1692486764	86.253.105.15	C	règles:compétence:mécanique_orbitale	lucas	créée		243
+1692486781	86.253.105.15	e	règles:compétence:mécanique_orbitale	lucas			-17
+1692486846	86.253.105.15	E	règles:compétences	lucas	[Les compétences] 		137
+1692486931	86.253.105.15	C	règles:compétence:traumatologie	lucas	créée		71
+1692487172	86.253.105.15	E	jdr:faq:table_ouverte	lucas	[C’est où ?] 		-19
+1692487218	86.253.105.15	e	jdr:faq:table_ouverte	lucas	[Comment je me créé mon personnage ?] 		1
+1692487409	86.253.105.15	E	règles:guide:création_de_perso	lucas			79
+1692487440	86.253.105.15	C	règles:classe_avancée:sommaire	lucas	créée		70
+1692487462	86.253.105.15	E	règles:classe_avancée:sommaire	lucas			38
+1692487521	86.253.105.15	C	règles:classe_avancée:métamage	lucas	créée		536
+1692487525	86.253.105.15	D	règles:classe:métamage	lucas	supprimée		-536
+1692487644	86.253.105.15	E	règles:exemple:personnage:sommaire	lucas			45
+1692564075	86.253.105.15	E	jdr:faq:jdr	lucas	[Ohlala je suis où ?] 		105
+1692564092	86.253.105.15	E	jdr:faq:jdr	lucas	[C'est quoi un jeu de rôle ?] 		-20
+1692655015	86.253.105.15	E	règles:sommaire	lucas			0
+1692655027	86.253.105.15	E	règles:guide:sommaire	lucas			0
+1692655041	86.253.105.15	E	règles:classe:sommaire	lucas			0
+1692655086	86.253.105.15	C	règles:concept:sommaire	lucas	créée		70
+1692655092	86.253.105.15	E	règles:concept:sommaire	lucas			-8
+1692655118	86.253.105.15	E	jdr:faq:sommaire	lucas			0
+1692655134	86.253.105.15	E	univers:sommaire	lucas			0
+1692655256	86.253.105.15	D	règles:compétences	lucas	supprimée		-2617
+1692655283	86.253.105.15	C	règles:compétence:sommaire	lucas	créée		2658
+1692655325	86.253.105.15	E	règles:compétence:sommaire	lucas	[Compétences générales] 		34
+1692657953	86.253.105.15	C	règles:type:sommaire	lucas	créée		86
+1692658035	86.253.105.15	E	règles:type:réactif	lucas			33
+1692658056	86.253.105.15	E	règles:type:sommaire	lucas			1
+1692658218	86.253.105.15	C	participer	lucas	créée		375
+1692658295	86.253.105.15	E	règles:concept:sommaire	lucas			32
+1692658384	86.253.105.15	E	participer	lucas			111
+1692658405	86.253.105.15	E	participer	lucas			32
+1692658583	86.253.105.15	E	jdr:faq:sommaire	lucas			164
+1692658592	86.253.105.15	e	jdr:faq:sommaire	lucas			0
+1692658631	86.253.105.15	E	jdr:faq:table_close	lucas	[T'as des exemples de persos qui ont déjà été joués ?] 		1
+1692658770	86.253.105.15	E	jdr:biblio	lucas	[Bibliographie] 		2
+1692658784	86.253.105.15	E	jdr:biblio	lucas	[Bibliographie] 		2
+1692658990	86.253.105.15	E	jdr:faq:jdr	lucas	[J'ai peur de jouer !] 		-51
+1692659491	86.253.105.15	E	jdr:biblio	lucas			810
+1692659579	86.253.105.15	E	jdr:biblio	lucas			17
+1692659883	86.253.105.15	E	jdr:biblio	lucas	[Théorie du Jeu de Rôle] 		155
+1692733023	86.253.105.15	E	règles:classe:artificier	lucas	[Synergies] 		51
+1692733034	86.253.105.15	E	règles:classe:artificier	lucas	[Artificier] 		2
+1692733229	86.253.105.15	C	règles:compétence:détection_de_la_magie	lucas	créée		341
+1692733447	86.253.105.15	C	règles:concept:repos	lucas	créée		567
+1692733462	86.253.105.15	E	règles:concept:repos	lucas			28
+1692733663	86.253.105.15	C	règles:aptitude:armoire_à_glace	lucas	créée		692
+1692733698	86.253.105.15	C	règles:aptitude:sommaire	lucas	créée		95
+1692733784	86.253.105.15	C	règles:aptitude:sac_à_viande	lucas	créée		101
+1692733935	86.253.105.15	E	règles:aptitude:sac_à_viande	lucas			27
+1692734301	86.253.105.15	D	règles:aptitude:armoire_à_glace	lucas	supprimée		-692
+1692734393	86.253.105.15	C	règles:aptitude:pv_et_blessures	lucas	créée		191
+1692734400	86.253.105.15	C	règles:aptitude:armure_et_pv	lucas	créée		2321
+1692734423	86.253.105.15	D	règles:aptitude:armure_et_pv	lucas	supprimée		-2321
+1692734431	86.253.105.15	C	règles:aptitude:armure	lucas	créée		2321
+1692734462	86.253.105.15	C	règles:aptitude:ao	lucas	créée		586
+1692734480	86.253.105.15	D	règles:aptitude:sac_à_viande	lucas	supprimée		-128
+1692734875	86.253.105.15	C	règles:aptitude:magie	lucas	créée		4472
+1692734955	86.253.105.15	E	règles:classe:magicien	lucas			-3946
+1692735068	86.253.105.15	C	règles:aptitude:armes	lucas	créée		1134
+1692735135	86.253.105.15	E	règles:classe:maître_d_armes	lucas	[Arbre d'aptitudes] 		-979
+1692735319	86.253.105.15	C	règles:aptitude:réactifs	lucas	créée		967
+1692735339	86.253.105.15	C	règles:aptitude:pièges	lucas	créée		72
+1692735456	86.253.105.15	E	règles:aptitude:pv_et_blessures	lucas			134
+1692735510	86.253.105.15	E	règles:aptitude:ao	lucas			199
+1692735519	86.253.105.15	E	règles:aptitude:ao	lucas	[Améliorations] 		-8
+1692735557	86.253.105.15	E	règles:aptitude:pv_et_blessures	lucas			197
+1692735611	86.253.105.15	C	règles:aptitude:traits	lucas	créée		234
+1692735635	86.253.105.15	E	règles:aptitude:traits	lucas	[Glissant] 		-5
+1692735695	86.253.105.15	C	règles:aptitude:mobilité	lucas	créée		152
+1692735711	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Compétences communes] 		0
+1692735860	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Classe] 		-67
+1692735981	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Compétences communes] 		43
+1692736011	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Aptitudes] 		-28
+1692736162	86.253.105.15	E	règles:classe:magicien	lucas	[Aptitudes] 		158
+1692736312	86.253.105.15	D	règles:classe:commune	lucas	supprimée		-1556
+1692736589	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Compétences] 		9
+1692736828	86.253.105.15	E	règles:guide:création_de_perso	lucas	[Truc(s)] 		4
+1692737006	86.253.105.15	E	règles:aptitude:sommaire	lucas			169
+1692738624	86.253.105.15	C	règles:aptitude:combat	lucas	créée		229
+1692738633	86.253.105.15	E	règles:classe:berserk	lucas	[Arbre d'aptitudes] 		-200
+1692738676	86.253.105.15	E	participer	lucas			42
+1692738834	86.253.105.15	E	règles:compétence:sommaire	lucas	[Compétences spécialisées] 		48
+1692811958	86.253.105.15	C	règles:concept:trait	lucas	créée		2389
+1692811982	86.253.105.15	E	règles:concept:trait	lucas			29
+1692812171	86.253.105.15	E	règles:guide:création_de_perso	lucas			-2038
+1692812302	86.253.105.15	R	règles:classe:magicien	lucas	ancienne révision (2023/08/18 22:51) restaurée	1692399101	3788
+1692812497	86.253.105.15	D	règles:aptitude:réactifs	lucas	supprimée		-967
+1692812581	86.253.105.15	E	règles:classe:artificier	lucas			151
+1692812605	86.253.105.15	R	règles:classe:maître_d_armes	lucas	ancienne révision (2023/08/18 22:51) restaurée	1692399099	979
+1692812687	86.253.105.15	E	règles:classe:maître_d_armes	lucas			12
+1692812694	86.253.105.15	D	règles:aptitude:armes	lucas	supprimée		-1134
+1692812722	86.253.105.15	E	règles:classe:maître_d_armes	lucas			-8
+1692812824	86.253.105.15	E	règles:classe:magicien	lucas			310
+1692812831	86.253.105.15	E	règles:classe:magicien	lucas	[Arbre d'aptitudes] 		2
+1692812837	86.253.105.15	E	règles:classe:magicien	lucas	[Magicien] 		2
+1692812897	86.253.105.15	R	règles:classe:magicien	lucas	ancienne révision (2023/08/23 17:38) restaurée	1692812302	-314
+1692812902	86.253.105.15	E	règles:classe:magicien	lucas	[Magicien] 		2
+1692812973	86.253.105.15	E	règles:classe:gardien	lucas	[Gardien] 		2
+1692812991	86.253.105.15	E	règles:classe:magicien	lucas	[Arbre d'aptitudes] 		2
+1692813031	86.253.105.15	E	règles:classe:évocateur	lucas			4
+1692813054	86.253.105.15	E	règles:classe:berserk	lucas			31
+1692813218	86.253.105.15	E	règles:classe:gardien	lucas			183
+1692813228	86.253.105.15	E	règles:classe:gardien	lucas			2
+1692813340	86.253.105.15	E	règles:aptitude:armure	lucas			-2125
+1692813374	86.253.105.15	E	règles:aptitude:magie	lucas			-4426
+1692813404	86.253.105.15	E	règles:classe:tireur_d_élite	lucas			4
+1692813415	86.253.105.15	E	règles:classe:officier	lucas			4
+1692813469	86.253.105.15	E	règles:guide:création_de_perso	lucas			34
+1692813495	86.253.105.15	E	règles:aptitude:ao	lucas			-517
+1692813629	86.253.105.15	E	règles:aptitude:traits	lucas			23
+1692813713	86.253.105.15	E	règles:classe:gardien	lucas	[Compétences] 		69
+1692813745	86.253.105.15	E	règles:classe:gardien	lucas	[Arbre d'aptitudes] 		96
+1692813774	86.253.105.15	C	règles:concept:ao	lucas	créée		38
+1692822680	86.253.105.15	E	règles:classe:officier	lucas			281
+1692823154	86.253.105.15	C	règles:concept:c	lucas	créée		339
+1692823533	86.253.105.15	E	règles:classe:gardien	lucas			158
+1692825621	86.253.105.15	E	règles:classe:gardien	lucas			28
+1692825658	86.253.105.15	E	règles:compétence:résistance_physique	lucas			57
+1692825863	86.253.105.15	E	règles:guide:pattern	lucas	[Les armures] 		28
+1692826086	86.253.105.15	C	règles:compétence:port_d_armure	lucas	créée		328
+1692826102	86.253.105.15	E	règles:compétence:port_d_armure	lucas			24
+1692828741	86.253.105.15	C	règles:concept:armure	rlucas	undocumented remote modification		2361
+1692828813	86.253.105.15	E	règles:concept:armure	lucas	[Principes] 		23
+1692828828	86.253.105.15	E	règles:concept:armure	lucas	[Principes] 		-10
+1692828894	86.253.105.15	E	règles:concept:armure	lucas	[Principes] 		57
+1692829245	86.253.105.15	E	règles:concept:armure	rlucas	undocumented remote modification		637
+1692829437	86.253.105.15	C	règles:concept:affliction	lucas	créée		389
+1692829447	86.253.105.15	C	règles:type:affliction	lucas	créée		388
+1692829454	86.253.105.15	D	règles:concept:affliction	lucas	supprimée		-389
+1692829468	86.253.105.15	E	règles:concept:armure	lucas	[Résister aux dégâts, vraiment ?] 		-3
+1692829476	86.253.105.15	E	règles:concept:armure	lucas	[Résister aux dégâts, vraiment ?] 		1
+1692829792	86.253.105.15	E	règles:concept:armure	lucas			269
+1692829819	86.253.105.15	E	règles:concept:armure	lucas	[Régles] 		0
+1692831739	86.253.105.15	E	règles:classe:tireur_d_élite	lucas			1799
+1692831881	86.253.105.15	C	règles:aptitude:armes	lucas	créée		262
+1692831901	86.253.105.15	E	règles:aptitude:sommaire	lucas			42
+1692831912	86.253.105.15	E	règles:aptitude:sommaire	lucas			2
+1692831947	86.253.105.15	E	règles:compétence:sommaire	lucas	[Compétences martiales] 		10
+1692831958	86.253.105.15	E	règles:compétence:sommaire	lucas	[Compétences martiales spécialisées] 		50
+1692832006	86.253.105.15	E	règles:compétence:sommaire	lucas	[Compétences générales] 		-1
+1692832053	86.253.105.15	C	règles:type:arme	lucas	créée		18
+1692832070	86.253.105.15	C	règles:type:méthode	lucas	créée		22
+1692832090	86.253.105.15	C	règles:type:technique	lucas	créée		23
+1692832111	86.253.105.15	C	règles:type:mod	lucas	créée		17
+1692832189	86.253.105.15	E	règles:aptitude:ao	lucas			193
+1692832401	86.253.105.15	C	règles:aptitude:métamagie	lucas	créée		625
+1692832445	86.253.105.15	C	règles:type:magimod	lucas	créée		136
+1692832451	86.253.105.15	D	règles:classe_avancée:métamage	lucas	supprimée		-536
+1692832462	86.253.105.15	D	règles:classe_avancée:sommaire	lucas	supprimée		-108
+1692832487	86.253.105.15	E	règles:aptitude:métamagie	lucas	[Aptitudes de Métamagie] 		25
+1692832553	86.253.105.15	C	règles:compétence:magie	lucas	créée		200
+1692832601	86.253.105.15	E	règles:aptitude:sommaire	lucas			164
+1692832654	86.253.105.15	E	règles:aptitude:sommaire	lucas			70
+1692832673	86.253.105.15	E	règles:aptitude:sommaire	lucas			21
+1692832718	86.253.105.15	E	règles:classe:berserk	lucas			193
+1692832726	86.253.105.15	E	règles:aptitude:combat	lucas			-193
+1692832755	86.253.105.15	C	règles:type:synergie	lucas	créée		22
+1692833787	86.253.105.15	E	règles:classe:officier	lucas	[Arbre d'aptitudes] 		1563
+1692833845	86.253.105.15	E	règles:classe:officier	lucas	[Arbre d'aptitudes] 		-18
+1692833891	86.253.105.15	E	règles:classe:officier	lucas			12
+1692834011	86.253.105.15	E	règles:classe:officier	lucas			70
+1692834034	86.253.105.15	E	règles:classe:officier	lucas	[Compétences] 		-86
+1692834780	86.253.105.15	E	règles:classe:officier	lucas			1088
+1692834927	86.253.105.15	C	règles:compétence:secrets	lucas	créée		355
+1692834967	86.253.105.15	E	règles:compétence:sommaire	lucas	[Les compétences] 		2
+1692835015	86.253.105.15	E	règles:compétence:sommaire	lucas			0
+1692835034	86.253.105.15	E	règles:compétence:sommaire	lucas			4
+1692835279	86.253.105.15	C	règles:classe:topomancien	lucas	créée		212
+1692835573	86.253.105.15	C	règles:compétence:résistance_psychique	lucas	créée		372
+1692835634	86.253.105.15	E	règles:guide:création_de_perso	lucas			13
+1692835841	86.253.105.15	C	règles:aptitude:divers	lucas	créée		271
+1692835959	86.253.105.15	C	règles:compétence:volonté	lucas	créée		190
+1692836010	86.253.105.15	E	règles:compétence:volonté	lucas			114
+1692836115	86.253.105.15	E	règles:classe:sommaire	lucas			1
+1692836229	86.253.105.15	E	règles:classe:topomancien	lucas			617
+1692836286	86.253.105.15	C	règles:magie:voûte	lucas	créée		89
+1692836329	86.253.105.15	E	règles:concept:trait	lucas			14
+1692836362	86.253.105.15	E	règles:concept:trait	lucas			2
+1692836469	86.253.105.15	E	règles:classe:magicien	lucas			-1
+1692836532	86.253.105.15	C	règles:type:élément	lucas	créée		23
+1692897790	86.253.105.15	E	règles:classe:berserk	lucas			222

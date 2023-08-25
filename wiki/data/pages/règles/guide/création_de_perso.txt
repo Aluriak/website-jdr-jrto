@@ -1,107 +1,68 @@
-===== Créer un personnage-joueur =====
+====== Créer un personnage-joueur ======
 
 === matériel ===
 Feuille blanche, crayon de bois.
 Si possible, un crayon non effaçable (pour écrire ce qui n'est pas susceptible de changer), de la patience et des idées.
 
-==== Le concept ====
-Partir avec une idée de concept de personnage est souvent une bonne idée. Que ce soit «david crockett avec une hache à deux main», «une naine berserk fan de fromage», «un chevalier noir avec le cœur sur la main», «un ancien marchand de tapisserie qui vient casser des tronches et mâcher du chewing-gum», «une ex-mère de famille désœuvrée qui a décidé de servir dans l'armée avant de partir faire du survivalisme», «le poivrot qui triche bien au jeu d'argent mais qui aime aussi s'engueuler avec le patron du tripot» ou «une diplomate espionne et assassin qui a tout plaqué pour devenir horticultrice»,
+
+===== Le concept =====
+Partir avec une idée de concept de personnage est souvent une bonne idée. Que ce soit «david crockett avec une hache à deux main», «une naine berserk fan de fromage», «un chevalier noir avec le cœur sur la main», «un ancien marchand de tapisserie qui vient botter des culs et mâcher du chewing-gum», «une ex-mère de famille désœuvrée qui a décidé de servir dans l'armée avant de partir faire du survivalisme», «le poivrot qui triche bien au jeu d'argent mais qui aime aussi s'engueuler avec le patron du tripot» ou «une diplomate espionne et assassin qui a tout plaqué pour devenir horticultrice»,
 il faut que ça puisse servir de boussole le long du processus de création, pour aiguiller des choix qui sinon seraient difficiles — car arbitraires — à faire.
 
-Il existe beaucoup de ressources pour réfléchir à tout ça.
+Il existe [[:jdr:biblio|beaucoup de ressources]] pour réfléchir à tout ça.
 Hésite pas à [[https://ptgptb.fr/une-bonne-description-de-personnage|lire]] [[http://rolistesnantais.blogspot.com/2014/03/creer-le-background-de-son-personnage.html|des]] [[https://ptgptb.fr/creation-de-perso|trucs]] pour t'aider, et aussi : parle-en au MJ, et même aux [[:auberge|autres joueurs]], ils auront peut être des idées !
 
-Des exemples de personnages génériques, pouvant servir d'inspiration ou de guides, sont regroupés dans [[:règles:exemple:personnage:]]
+Des exemples de personnages génériques, pouvant servir d'inspiration ou de guides, sont regroupés dans [[:règles:exemple:personnage:|les exemples]]
 
-==== Compétences communes ====
-Les compétences communes sont les compétences non spécialisées [[règles:compétence:|de la liste]].
+
+===== Classe =====
+La [[règles:classe:|classe]] d'un personnage va définir énormément de ses capacités en jeu, et surtout de leur évolution.
+
+Elle aidera à définir ce qui est important pour votre personnage, et donnera accès à de nombreuses [[:règles:concept:aptitude|aptitudes]] en plus des [[:règles:aptitude:|aptitudes communes]] à l'ensemble des personnages.
+
+Il n'est pas obligatoire de choisir une classe, on peut la choisir plus tard. Cela coûtera un peu plus de PEX qu'en choisir une immédiatement, mais permet à votre personnage de devenir un véritable [[:règles:classe:dilettante|dilettante]].
+
+
+
+===== Compétences =====
+Les [[:règles:compétence:|compétences]] représentent les capacités générales du personnage ; c'est elle qui seront soumises à des [[:règles:guide:faire_un_test|tests]].
 
 Le personnage se verra assigner un bonus sur chacune de ces compétences. À vous de décider lesquelles méritent un ''+6'', et lesquelles resteront à ''+1''.
 
-Utilisez l'un des profil suivant pour savoir combien de compétences générales auront droit à quel bonus.
+Utilisez l'un des profil suivant pour savoir combien de compétences auront droit à quel bonus.
 
-|| Spécialiste   ||      Équilibré || Master of None |
-^ Nombre ^ Bonus |^ Nombre ^ Bonus |^ Nombre ^ Bonus |
-|      1 |    +6 ||      2 |    +5 ||      2 |    +4 |
-|      2 |    +5 ||      3 |    +4 ||      8 |    +3 |
-|      3 |    +4 ||      5 |    +3 ||     12 |    +2 |
-|      4 |    +3 ||      6 |    +2 ||le reste|    +1 |
-|      5 |    +2 ||le reste|    +1 |
+|  Spécialiste  ||    Équilibré  ||  Master of None  ||
+^ Nombre ^ Bonus ^ Nombre ^ Bonus ^ Nombre ^  Bonus   |
+|      1 |    +6 |      2 |    +5 |      2 |       +4 |
+|      2 |    +5 |      3 |    +4 |      8 |       +3 |
+|      3 |    +4 |      5 |    +3 |     12 |       +2 |
+|      4 |    +3 |      6 |    +2 |
+|      5 |    +2 |
 |      2 |    +0 |
-|le reste|    +1 |
+|le reste|    +1 |le reste|    +1 |le reste|    +1 |
 
 Notez qu'une compétence à +0 ne peut pas être augmentée, même grâce à des bonus survenant plus tard dans la création, ou par magie.
 Une compétence qui est à +0, c'est une compétence pour laquelle le personnage a une incapacité totale et incurable.
 
 Le choix de la compétence à +0 est aussi sujet à validation du MJ.
-Sinon c'est trop facile, je met mon +0 en //fabriquation de chaise en bois de chêne// et en //connaissance des poissons-écaille des taïgas à l'est de Ploderwal//, comme ça je peux toujours fabriquer mes chaises avec du noyer pour m'assoir le temps d'étudier la vie des oiseaux-plumeaux de haute montagne.
+Sinon c'est trop facile, je met mon +0 en //fabrication de chaise en bois de chêne// et en //connaissance des poissons-écaille des taïgas à l'est de Ploderwal//, comme ça je peux toujours fabriquer mes chaises avec du noyer pour m'asseoir le temps d'étudier la vie des oiseaux-plumeaux de haute montagne.
 
 
-==== Classe ====
-La [[règles:classe:|classe]] d'un personnage est décisive : elle définiera à quelle aptitudes et compétences spécialisées il va pouvoir prétendre.
 
-Il n'est pas obligatoire de choisir une classe, on peut ainsi devenir [[:règles:classe:Dilettante|Dilettante]].
-
-Plus tard dans sa carrière d'aventurier en vie, avec quelques PEX en plus, le personnage pourra aussi choisir de nouvelles classes, lui ouvrant ainsi de nouvelles possibilité tactiques.
-
-
-==== Aptitudes ====
+===== Aptitudes =====
 On est là dans le cœur du personnage. Il s'agit de choisir quelles aptitudes le personnage peut utiliser pendant les expéditions.
 
 Un nouveau personnage commence avec 4 [[:règles:concept:PEX|PEX]], et peut donc obtenir jusqu'à 4 aptitudes,
-parmis les [[:règles:classe:|aptitudes générales]] ou les aptitudes de sa classe.
+parmi les [[:règles:aptitude:|aptitudes communes]], ou les aptitudes de sa [[:règles:classe:|classe]].
 
 
-==== Traits ====
-Le personnage peut être défini par quelques traits optionnels permettant de rendre compte d'une certaine diversité, et d'ajouter un peu de gameplay si c'est possible.
 
-Ainsi, jouer un personnage très jeune ou très vieux est possible. Disons qu'entre 20 et 30 ans ça va, mais avant et après, les aventuriers c'est quand même de sacrés numéros.
-
-Notez que certains traits sont exclusifs.
-Par exemple, il n'est pas possible de jouer un personnage à la fois **petit** et **grand**. C'est comme ça.
-
-Aussi, si vous jouez une autre espèce que l'humain, notez que certains traits //doivent// être pris. Les nains sont **petit**. C'est ainsi.
+===== Pour finir =====
 
 
-=== Jeune ===
-Moins de points de compétences, mais plus de capacités d'apprentissage.
+==== Traits (optionnel) ====
+Le personnage peut être défini par [[:règles:concept:trait|quelques traits optionnels]] permettant de rendre compte d'une certaine diversité, et d'ajouter un peu de gameplay à certains moments.
 
-  * -2 à 6 compétences, communes ou spécialisées.
-  * neurones miroirs: lorsque que le personnage est témoin du coup critique d'un allié, il progresse de 1 point dans la compétence utilisée, à condition que celle-ci soit ouverte, et même si l'allié en question n'augmente pas lui-même sa compétence.
-
-
-=== Vieux ===
-Plus de points de compétences, mais l'apprentissage ça devient complexe.
-
-  * +2 à 6 compétences, communes ou spécialisées.
-  * tout part à veau l'eau: les coups critiques ne permettent pas d'augmenter la valeur de compétence.
-
-
-=== Grand ===
-Plus difficile à cacher, ce corps est néanmoins plus impressionnant et difficile à bouger.
-
-  * +2 en [[:règles:compétence:présence]] et en [[:règles:compétence:force]].
-  * +2 en [[:règles:compétence:commander-intimider]], [[:règles:compétence:étiquette-séduction]], [[:règles:compétence:mentir-convaincre]] OU en [[:règles:compétence:perception]].
-  * -2 en dissimulation.
-
-=== Petit ===
-Plus facile à cacher, plus reconnaissable, mais moins impressionnant.
-
-  * +2 en [[:règles:compétence:présence]] et en [[:règles:compétence:dissimulation]].
-  * -2 en [[:règles:compétence:commander-intimider]], [[:règles:compétence:étiquette-séduction]], [[:règles:compétence:mentir-convaincre]] OU en [[:règles:compétence:perception]].
-
-
-=== Touche-à-tout ===
-Sans aller jusqu'à une classe de [[:règles:classe:Dilettante|dilettante]], un personnage peut déjà s'être bien éparpillé.
-
-  * -2 à 3 compétences non spécialisées à +4 ou plus.
-  * +2 à 3 compétences non spécialisées à +1 ou moins.
-
-
-=== Hyperspécialisé ===
-
-  * -2 à 3 compétences non spécialisées à +3 ou moins (minimum +0).
-  * +2 à 3 compétences non spécialisées à +4 ou plus.
 
 
 
@@ -110,7 +71,7 @@ Chaque personnage a un //truc//, c'est-à-dire un machin qui lui permet de sorti
 
 Trucs possibles :
 
-  * 1 point d'EXP en plus
+  * 1 [[:règles:concept:PEX]] en plus
   * 1 objets rare
   * 1 objet magique
   * 1 objet-clef
@@ -135,7 +96,7 @@ Genre le revers //tout part à veau l'eau// par exemple, n'est pas compatible av
 
 === Un troisième truc ? ===
 Il paraît qu'il existe un moyen d'avoir un troisième truc. Peut-être en éblouissant le MJ avec un background de personnage crédible, original,
-sans poncifs éculés, justifiant la classe, les compétences, les traits et revers du personnage ainsi que sa volonté de se confronter au danger et à l'inconnu sur le Continent Oublié ?
+sans poncifs éculés, justifiant les aptitudes, les compétences, les traits et revers du personnage ainsi que sa volonté de se confronter au danger et à l'inconnu sur le Continent Oublié ?
 
 
 

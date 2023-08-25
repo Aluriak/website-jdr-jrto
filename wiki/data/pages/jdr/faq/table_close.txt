@@ -26,12 +26,12 @@ Voilà, tout est plus clair.
 
 J'ai quelques exemples dans les formats scénario et one-shot.
 
-  * un *cycliste*, i.e. un marchand qui cycle autour de la Mer Sanctuaire, à travers les 30 cités ou villages qui l'entourent.
+  * un //cycliste//, i.e. un marchand qui cycle autour de la Mer Sanctuaire, à travers les 30 cités ou villages qui l'entourent.
   * une noble versée dans la politique, qui connaît la magie de convocation.
   * une paria qui s'est découvert un don pour la magie élémentaire.
   * une roturière qui sait manipuler les émotions des autres.
   * une intouchable qui a appris l'alchimie.
-  * un homme qui s'est échappé d'un laboratoire magique. Il est couvert de tattouages qui renferment des démons.
+  * un homme qui s'est échappé d'un laboratoire magique. Il est couvert de tatouages qui renferment des démons.
   * un homme-lige déchu qui a juré la mort du magicien qui l'a forcé à tuer ses maîtres
   * un diplomate d'une cité grandiose qui cherche la gloire
   * une Arpenteuse, anciennement noble, qui cherche ses parents dans une anomalie climatique

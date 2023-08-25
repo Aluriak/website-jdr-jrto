@@ -1,0 +1,7 @@
+====== Port d'armures ======
+
+La compétence reine pour protéger son personnage. 
+
+Un personnage ayant N dans cette compétence peut porter jusqu'à [[:règles:concept:armure|N×2 pièces d'armures]] //légère//.
+
+Avec les [[:règles:aptitude:armure|aptitudes adaptées]], des pièces d'armures supplémentaires ou plus épaisses (moyenne ou lourde).

@@ -1,0 +1,21 @@
+====== Aptitudes de Métamagie ======
+
+La métamagie est ouverte à tout personnage dont la compétence spécialisée de [[:règles:compétence:magie]] a été ouverte.
+
+
+
+===== Extraire l'énergie du flux =====
+Le personnage peut gagner 1 [[:règles:type:magimod|Magimod]] en :
+
+  * lançant un sort 1 tour + tard
+  * ajoutant 2×2 cases au pattern de mana
+  * grillant 1 case de mana
+
+
+===== Réinjection de l'énergie dans le flux =====
+utiliser 1 [[:règles:type:magimod|Magimod]] avec un sort pour :
+
+  * augmenter dégâts/étendre effet
+  * retirer 2×2 cases du pattern mana
+  * appliquer un effet métamagique décrit par le sort lui-même
+

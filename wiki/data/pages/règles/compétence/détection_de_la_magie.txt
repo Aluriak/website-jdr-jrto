@@ -1,0 +1,5 @@
+====== Détection et identification de la magie ======
+
+Détecter la magie, c'est pouvoir sentir si la salle dans laquelle on est est faite de briques créées magiquement.
+
+C'est aussi pouvoir savoir si cet objet est magique. Et, avec beaucoup de temps (un [[:règles:concept:repos|repos long]]), quelles sont, peut-être, ses propriétés.

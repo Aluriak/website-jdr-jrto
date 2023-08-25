@@ -1,3 +1,4 @@
 ===== Classes de personnages =====
 
-<catlist règles:classe: -columns:4 -excludeOnName:sommaire -noHead>
+
+<catlist règles:classe: -columns:2 -excludeOnName:sommaire -noHead>

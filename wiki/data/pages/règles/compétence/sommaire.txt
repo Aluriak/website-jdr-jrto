@@ -1,10 +1,10 @@
-===== Les compétences =====
+====== Les compétences ======
+
+La liste ci-après n'est pas exhaustive. Demandez au MJ si vous pensez que votre personnage devrait en avoir une qui n'apparaît pas ici.
+===== Compétences générales =====
 
 
-==== Compétences générales ====
-
-
-Compétences globales :
+=== Compétences globales ===
   * [[:règles:compétence:coordination]]
   * [[:règles:compétence:force]]
   * [[:règles:compétence:logique]]
@@ -14,42 +14,42 @@ Compétences globales :
   * [[:règles:compétence:résistance psychique]]
   * [[:règles:compétence:volonté]]
 
-Compétences manuelles :
+=== Compétences manuelles ===
   * [[:règles:compétence:bricolage]]
-  * [[:règles:compétence:crochetage]]
+  * [[:règles:compétence:crochetage]] 
   * [[:règles:compétence:dissimulation]]
+  * [[:règles:compétence:équitation]]
+  * [[:règles:compétence:fouiller]]
+  * [[:règles:compétence:instruments de musique]]
   * [[:règles:compétence:lancer]]
   * [[:règles:compétence:organisation]]
-  * [[:règles:compétence:pièges_et_mécanismes]]
-  * [[:règles:compétence:survie]]
+  * [[:règles:compétence:pièges et mécanismes]]
+  * [[:règles:compétence:survie]] 
+  * [[:règles:compétence:verrerie]] 
 
-Compétences intellectuelles :
-  * [[:règles:compétence:botanique]]
+=== Compétences intellectuelles ===
+  * [[:règles:compétence:botanique]]   
   * [[:règles:compétence:culture]]
   * [[:règles:compétence:estimation]]
+  * [[:règles:compétence:ethnologie]]
   * [[:règles:compétence:histoire]]
+  * [[:règles:compétence:jeux]]
   * [[:règles:compétence:mémoire]]
+  * [[:règles:compétence:médecine]]
   * [[:règles:compétence:navigation]]
   * [[:règles:compétence:pistage]]
-  * [[:règles:compétence:éthnologie]]
+  * [[:règles:compétence:secrets]]
+  * [[:règles:compétence:traumatologie]]
 
-Compétences sociales :
+=== Compétences sociales ===
   * [[:règles:compétence:commander-intimider]]
   * [[:règles:compétence:étiquette-séduction]]
   * [[:règles:compétence:mentir-convaincre]]
 
 
-==== Compétences spécialisées ====
-  * [[:règles:compétence:artifices]]
-  * [[:règles:compétence:théorie magique]]
-  * [[:règles:compétence:détection de la magie]]
-  * [[:règles:compétence:magie]]
-  * [[:règles:compétence:mécanique orbitale]]
-  * [[:règles:compétence:savatte]]
 
-
-==== Compétences martiales ====
-  * [[:règles:compétence:arbalètes]]
+=== Compétences martiales ===
+  * [[:règles:compétence:arbalètes de chasse]]
   * [[:règles:compétence:arcs de chasse]]
   * [[:règles:compétence:lames courtes]]
   * [[:règles:compétence:haches de chasse]]
@@ -58,8 +58,21 @@ Compétences sociales :
   * [[:règles:compétence:port d'armures]]
 
 
+
+===== Compétences spécialisées =====
+  * [[:règles:compétence:artifices]]
+  * [[:règles:compétence:théorie antimagus]]
+  * [[:règles:compétence:théorie magique]]
+  * [[:règles:compétence:détection de la magie]]
+  * [[:règles:compétence:magie]]
+  * [[:règles:compétence:mécanique orbitale]]
+  * [[:règles:compétence:savatte]]
+
+
+
 ==== Compétences martiales spécialisées ====
 
+  * [[:règles:compétence:arbalètes de guerre]]
   * [[:règles:compétence:arcs de guerre]]
   * [[:règles:compétence:lames cachées]]
   * [[:règles:compétence:lames longues]]

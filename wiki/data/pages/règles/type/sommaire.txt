@@ -1,0 +1,3 @@
+===== Types =====
+
+<catlist :règles:type: -noHead -columns:2 -excludeOnName:sommaire >

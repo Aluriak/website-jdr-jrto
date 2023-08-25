@@ -1,0 +1,14 @@
+===== Antimagus =====
+
+
+Pomper le mana au contact, augmentant son Mana Accumulé.
+Le faire ressortir sous forme plus ou moins contrôlée.
+Manipulation de l'orichalque.
+
+
+==== Compétences ====
+Devenir Antimagus ouvre les compétences spécialisées suivantes : [[règles:compétence:détection de la magie]], [[règles:compétence:maniement des armes de guerre]] et [[règles:compétence:théorie antimagus]].
+
+
+==== Arbre d'aptitudes ====
+

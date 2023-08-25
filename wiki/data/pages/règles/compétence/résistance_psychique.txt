@@ -1,0 +1,5 @@
+====== Résistance psychique ======
+
+À ne pas confondre avec la [[:règles:compétence:résistance physique]], la résistance //psychique// détermine à quel point un personnage résistera à la vision d'horreurs, aux attaques mentales et autres tortures non physiques.
+
+Elle détermine aussi la capacité d'un [[:règles:classe:magicien]] à tirer du Mana hors du flux.

@@ -1,12 +1,10 @@
 ===== C'est quoi un jeu de rôle ? =====
-//On est où ici ? Pourquoi le monsieur il veut pas meujeuter du space-horror ?//
+//On est où ici ? Pourquoi le monsieur il veut me parler ?//
 
 
 ==== Ohlala je suis où ? ====
 Salut ! T’atterris sur cette page probablement parce que je t’en ai donné le lien.
-Je suis Lucas, je meujeute des parties de jeu de rôle depuis plusieurs années, et j'ai bien l'intention de continuer encore un peu.
-
-
+Je suis Lucas, je meujeute des parties de jeu de rôle depuis plusieurs années, et j'ai lancé une [[:jdr:faq:table_ouverte|table ouverte]] ayant l'objectif de réunir un max de monde autour de l'exploration du [[:lco:|Continent Oublié]].
 ==== C'est quoi un Jeu de Rôle ? ====
 Très vaste question, aux [[https://www.refletsdacide.com/quest-ce-quun-jeu-de-role|très]] [[https://ptgptb.fr/je-n-ai-pas-de-mots-et-je-dois-creer|nombreuses]] [[https://ptgptb.fr/lns-de-la-theorie-a-l-application|réponses]] !
 
@@ -53,5 +51,5 @@ et de limiter les traits d’humour qui sont pas appréciés par toutes les pers
 ==== J'ai peur de jouer ! ====
 C'est toujours le cas quand on a jamais essayé ; on se fait un monde du JdR, et il suffit généralement d'une séance pour se rendre compte qu'il n'y a rien à y craindre.
 
-En attendant cette petite séance de théâtre d'improvisation, tu peux [[https://ptgptb.fr/11-manieres-d-etre-un-meilleur-joueur-de-jdr|lire des trucs]], sans les prendre trop au sérieux non plus, t'es pas là pour être experte dés maintenant.
+En attendant cette petite séance de théâtre d'improvisation, tu peux [[:jdr:biblio|lire des trucs]], sans les prendre trop au sérieux non plus, t'es pas là pour être experte dés maintenant.
 

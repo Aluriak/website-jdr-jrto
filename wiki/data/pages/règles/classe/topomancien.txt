@@ -1,0 +1,17 @@
+====== Topomancien ======
+//Je vous laisse gérer, moi je suis nul avec les cartes//
+
+Le topomancien est un magicien spécialisé dans l'étude des espaces et de l'organisation des [[:lco:concept:plan|plans]].
+
+==== Compétences ====
+
+Devenir Topomancien ouvre les compétences spécialisées suivantes : [[règles:compétence:théorie magique]], [[règles:compétence:détection de la magie]], [[règles:compétence:magie]] et [[règles:compétence:théorie topologique]].
+
+==== Mana ====
+
+Le total de mana est un rectangle de [[:règles:concept:notation×k|N×K]], avec N le meilleur
+score parmis les compétences spécialisées de [[:règles:classe:magicien]], et K la [[:règles:compétence:résistance psychique]].
+
+==== Fonctionnement de la magie ====
+
+Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]

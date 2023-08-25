@@ -1,0 +1,42 @@
+====== Gardien ======
+//L'armoire à glace protège le linge de lit avec une efficacité démesurée//
+
+
+==== Compétences ====
+Devenir Gardien n'ouvre pas de compétence spécialisée.
+
+Un gardien aura sans doute besoin de [[:règles:compétence:port d'armure]], de [[:règles:compétence:résistance physique]] et de [[:règles:compétence:perception]].
+
+
+===== Arbre d'aptitudes =====
+Un gardien trouvera également son bonheur dans les aptitudes liées [[:règles:aptitude:armure|aux armures]] ou [[:règles:aptitude:pv et blessures|aux PV]].
+
+  * Port des armures : Vous pouvez porter des [[:règles:concept:armure|pièces d'armure moyenne]]
+    * des pièces d'armure lourde
+
+
+  * Boîte de conserve : multipliez par 3 et non par 2 le nombre de pièce d'armure par point de compétence de [[:règles:compétence:port d'armure]]
+
+
+  * Vétéran (basal)
+    * ajustement: les cases armurées par une pièce d'armure peuvent être, en un [[:règles:concept:repos|repos court]], réparties librement dans leur ligne plutôt qu'être collées vers la gauche.
+    * empilement: une ligne peut accueillir deux pièces d'armure, toujours dans la limite de la compétence de [[règles:compétence:port d'armure]].
+
+  * Armoire à glace: à la place de son [[:règles:concept:ao|AO]], ajouter son bouclier à l'armure d'un allié dans C pour 1 attaque qu'il subit ce tour.
+    * Ajouter +2 à la [[:règles:compétence:résistance physique]] en ce qui concerne le calcul des PV.
+    * tenir la position: le gardien peut diminuer de 1 tout mouvement qui lui est imposé et contre lequel il peut opposer sa force physique (pas la téléportation, donc).
+      * peut ramener à zéro plutôt que diminuer de 1, et forcer quelqu'un a venir avec lui s'il se déplace.
+    * empêcher le ciblage à distance d'1 entité de C par toute entité extérieure à C dont le gardien a conscience.
+      * de 3 entités
+
+  * Protecteur: à la place de son [[:règles:concept:ao|AO]], ajouter son bouclier à l'armure d'un allié dans C pour 1 attaque qu'il subit ce tour.
+    * pour toutes les attaques du tour
+    * jusqu'à 3 alliés concernés (toujours 1 seule attaque sauf aptitude précédente)
+    * donne son armure sur les lignes pairs, subit les dégâts établis sur ces lignes.
+      * toutes les lignes
+    * conserver son [[:règles:concept:ao|AO]] ; l'utilisation devient donc gratuite.
+
+
+  * Retour de bâton: si une attaque subie est càc et entièrement absorbée par l'armure, l'arme est attrapée par le gardien, qui gagne une [[:règles:concept:ao|AO]] gratuite immédiatement contre l'attaquant.
+    * Si l'AO réussit ou qu'à son prochain tour l'attaquant ne réussit pas un test de force, son arme entre en possession du gardien.
+    * Si l'AO réussit ou qu'à son prochain tour l'attaquant ne réussit pas un test de force, il est poussé dans une case adjacente au choix du gardien.
