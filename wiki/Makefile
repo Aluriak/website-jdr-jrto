@@ -17,4 +17,4 @@ upload-theme:
 
 
 open-classes:
-	vimoku "règles:classe:artificier" "règles:classe:maître d'armes" "règles:classe:gardien" "règles:classe:tireur d'élite" "règles:classe:antimagus" "règles:classe:officier" "règles:classe:berserk" "règles:classe:magicien" "règles:classe:métamage"
+	vimoku "règles:classe:artificier" "règles:classe:maître d'armes" "règles:classe:gardien" "règles:classe:tireur d'élite" "règles:classe:antimagus" "règles:classe:officier" "règles:classe:berserk" "règles:classe:magicien" "règles:aptitude:exploration" "règles:classe:fauconnier"
