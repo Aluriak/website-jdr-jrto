@@ -99,7 +99,7 @@ Elle jette un coup d'œil dans votre direction, et vous fait signe de vous appro
 (set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
 (link-append: "— Et au sud ?")[
 — Une forêt d'Arbres-Mondes. C'est assez beau, et c'est là que Taber chasse. Il m'a enmenée une fois. On a vu beaucoup de gibier.
-(set: $_i to it + 1)(if: $_i > 4)[(goto:?lacarte)]]
+(set: $_i to it + 1)(if: $_i > 4)[(show:?lacarte)]]
 
 |lacarte)[[[— Il existe une carte des environs ?->Questions Carte]]]
 
