@@ -17,7 +17,7 @@
     <ul>
         <li class="action index"><a href="/auberge" title="Auberge" rel="nofollow" accesskey="a">L'Auberge du Bout du Monde</a></li>
         <li class="action index"><a href="https://discord.com/invite/WkrKQGxZvQ" title="Discord" rel="nofollow" accesskey="d">Le discord</a></li>
-        <li class="action index"><a href="https://framadate.org/Z45ij1wFy3Js7yfj" title="Framadate" rel="nofollow" accesskey="f">Framadate</a></li>
+        <li class="action index"><a href="https://framadate.org/IbBUXIJf6Z4yo2mA" title="Framadate" rel="nofollow" accesskey="f">Framadate</a></li>
         <li class="action index"><a href="/participer" title="Participer" rel="nofollow" accesskey="f">Participer <i>autrement</i></a></li>
     </ul>
 </div>
