@@ -1,0 +1,35 @@
+====== Aptitudes liées aux animaux et familiers ======
+
+
+
+===== Sensibilité animale =====
+La compétence d'empathie est utilisable sur les animaux.
+[Si 3+ en magie:] capacité naturelle a parler avec les animaux.
+
+
+===== Ami des animaux =====
+Certains animaux (à définir par le joueur et le MJ) ont une réaction différente avec le personnage,
+qu'ils vont percevoir comme un congénère, ou du moins comme une entité amicale.
+
+
+===== Pape des vaches =====
+À moins qu'il ne se montre violent ou dangereux, le personnage déclenche systématiquement un comportement de curiosité de la part des vaches et autres animaux de basse-cours,
+qui vont le regarder, s'en approcher, et chercher le contact et à communiquer.
+
+
+===== Animal de compagnie =====
+Le personnage choisi un animal supplémentaire qui peut l'accompagner dans son exploration.
+
+Cet animal connaît bien le personnage, qu'il considère comme son maître,
+et le suit.
+
+Voir la classe de dresseur pour les animaux disponibles et leurs traits principaux,
+ainsi que les capacités basales de l'animal que le personnage peut appeler.
+
+
+
+===== Animaliste =====
+???
+
+===== Bousilleur de ruminants =====
+Lorsqu'il s'agit d'attaquer un animal sauvage, le 1 est considéré comme un critique.

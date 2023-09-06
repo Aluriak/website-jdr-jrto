@@ -1,1 +1,31 @@
 ====== Aptitudes en lien avec la Magie ======
+Cette page contient des aptitudes accessibles à l'ensemble des personnages dont la compétence de [[:règles:compétence:magie]] est ouverte. La [[:règles:aptitude:métamagie]] possède sa propre page.
+
+===== Arcaniste =====
+
++2 à la compétence spécialisée utilisée pour le calcul de la quantité de mana.
+
+=== Améliorations ===
+    * +5 au lieu de +2
+    * +5 en [[:règles:compétence:résistance psychique]] pour le calcul de la quantité de mana.
+    * possibilité d'organiser tous les carrés de mana comme le personnage le souhaite. Seule contrainte : conserver le bon nombre de cases.
+
+
+===== Armure arcanique =====
+Indiquer une zone de 2×2 dans le mana. Ces cases ne peuvent plus être noircies, mais une case doit toujours être noircie quelque soit le sort lancé, si celui-ci a un coût en mana.
+
+Il n'est donc pas possible d'utiliser l'armure arcanique pour absorber totalement des sorts.
+
+=== Améliorations ===
+      * 3×3 au lieu de 2×2. Si le personnage possède [[:règles:aptitude:métamagie#expression libre|l'expression libre]], l'armure arcanique peut également être répartie librement.
+
+
+
+===== Magie de sang =====
+Lorsqu'il lance un sort, le personnage peut s'infliger des [[:règles:concept:dégâts bruts|dégâts bruts]] à la place du mana, en suivant le même pattern. Les dégâts sont infligés après le lancer de sort. 
+
+=== Améliorations ===
+  * le personnage peut librement choisir quels carrés de mana sont annulés, et quels carrés de points de vie sont touchés, et répartir librement entre les deux. Mais le pattern doit toujours être respecté.
+  * le personnage peut noircir les PV d'une entité consentante ou [[:règles:type:affliction#incapacité|incapacitée]] qu'il touche plutôt que ses PV à lui
+  * pompe funèbre : lorsqu'une entité meurt dans la même case que lui, le personnage gagne immédiatement 3×3 mana qui disparaîtront s'ils ne sont pas utilisés d'ici la fin de son prochain tour.
+

@@ -1,0 +1,63 @@
+====== Dresseur ======
+
+
+==== Compétences ====
+
+Devenir dresseur ouvre les compétences spécialisées suivantes : [[règles:compétence:dressage]].
+
+Pour un dresseur, la compétence [[règles:compétence:animaux]] est importante.
+
+Les [:règles:aptitude:animaux|aptitudes liées aux animaux]] pourraient également l'intéresser.
+
+
+==== Compagnon animal ====
+
+Un dresseur peut choisir un animal avec lequel il travaillera.
+Il ne s'agit pas de n'importe quel animal, mais d'un animal généralement recueilli jeune
+et avec lequel le dresseur s'entraîne depuis longtemps.
+Le dresseur et l'animal se comprennent donc bien, se connaissent et s'apprécient.
+
+^ Animal  ^ vitesse  ^ acrobatie ^fouiller ^  force  ^ observation ^ présence ^  stabilité   ^ Type de dresseur ^ capacités basales |
+^ Faucon  |    haute |     haute | moyenne |  faible |       haute |   faible |  faible      | Fauconnier       | monter la garde   |
+^ Aigle   |  moyenne |   moyenne |  faible | moyenne |       haute |  moyenne |  faible      | Aiglier          | attaquer          |
+^ Ours    |    basse |    faible |  faible |   haute |      faible |    haute |  forte       | Montreur d'ours  | attaquer          |
+^ Chien   |    haute |    faible |   haute | moyenne |     moyenne |  moyenne |  moyenne     | Maître-chien     | monter la garde   |
+
+La valeur de chaque compétence est la suivante :
+
+^ haute ^ moyenne ^ faible |
+|     7 |       5 |      3 |
+
+
+==== Principe d'action ====
+
+Le dresseur peut donner des ordres à son compagnon, qui les exécutera.
+Donner un ordre compte comme une action pour le dresseur, et le jet
+qu'il fera comptera à la fois pour se faire comprendre.
+
+
+
+
+===== Arbre d'aptitudes =====
+
+==== Capacité supplémentaire ====
+Cette aptitude peut être choisie plusieurs fois, à chaque fois associée à un type d'animal.
+Le personnage choisi une capacité qu'il va pouvoir commander à son animal.
+
+^          capacité ^   compétence  ^  usages  |
+|       va chercher |               |          |
+|   monter la garde |               |          |
+|          attendre |               |          |
+|          protéger |               |          |
+|          attaquer |               |          |
+|         intimider |               |          |
+|         se cacher |               |          |
+|          fouiller |               |          |
+|                   |               |          |
+
+==== Bête de charge ====
+L'animal peut être utilisée comme bête de charge, et donne un bonus de [[:règles:concept:voyage|port de réserve à son maître]]. Ce bonus est calculé comme la multiplication des valeurs associées à ses compétences de //force// et //stabilité// :
+
+| valeur compétence | faible | moyenne | haute |
+| opérande          |    0.5 |       2 |     4 |
+

@@ -1,0 +1,26 @@
+====== Recouvrement des sorts ======
+
+Le recouvrement des sorts est un principe important de [[:règles:compétence:magie|magie]] : lorsqu'un sort fait appel à plusieurs [[:règles:concept:pattern|patterns/motifs]] de [[:règles:guide:lancer un sort|coût de mana]],
+chaque pattern doit avoir une case, et une seule, en commun avec au moins un autre pattern.
+
+Certaines [[:règles:aptitude:métamagie|aptitudes de Métamagie]] permettent de changer ces contraintes.
+==== Exemple ====
+[[:règles:exemple:personnage:winrad|Winrad]] est magicien, et lance un mur de plante, pour faire pousser des ronces entre lui et un animal sauvage l'ayant désigné comme petit-déjeuner.
+
+Les patterns de //mur// et //plante//, indiqués [[:règles:guide:lancer_un_sort#Motifs|ici]], doivent donc être noircis avec une case en commun (soit 7 cases au total) sur le rectangle de mana de Winrad, un carré de 5×5 cases :
+
+^ Le mana de Winrad, encore inutilisé |||||
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+
+^ Le mana de Winrad, après le sort de mur de plante |||||
+|X| |X| | |
+| |X| | | |
+| |XX| | | |
+| |X| | | |
+| |X|X| | |
+
+Pour l'exemple et la clarté, un ''XX'' est utilisé pour représenter la case en commun entre les deux patterns.

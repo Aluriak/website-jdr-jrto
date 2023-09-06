@@ -1,0 +1,102 @@
+====== Le voyage ======
+Lorsque les personnages parcours le continent oublié, ils sont dans une phase de voyage. Cette phase, à dissocier d'une phase de combat ou d'exploration d'une zone particulière.
+
+
+===== Étapes =====
+Un voyage est divisé en étapes. Chaque étape dure une journée, et durant celle-ci les PJ peuvent choisir d'effectuer des [[#tests de voyage|tests]], et devront [[#réserves|se nourrir]] et gérer leurs réserves.
+
+Typiquement, au cours d'une étape, les PJ réalisent un test d'orientation afin d'avancer dans la direction souhaitée, puis se [[:règles:concept:repos#repos long|reposent]].
+
+
+===== Tests de voyage =====
+Un test de voyage est un test de compétence parmi [[:règles:compétence:perception]], [[:règles:compétence:orientation]], [[:règles:compétence:dissimulation]] et [[:règles:compétence:survie]] réalisé spécifiquement dans le cadre du voyage. Dans ce cas, on parlera d'un test de voyage/perception, voyage/orientation, voyage/dissimulation ou voyage/survie.
+
+Certaines [[:règles:aptitude:voyage|aptitudes]] permettront aux PJ de se simplifier la vie en ayant des bonus plus ou moins forts sur ces tests de voyage.
+
+==== Compétences de voyage ====
+
+=== Voyage/orientation ===
+Probablement la plus importante : elle permet au PJ qui l'utilise de progresser dans la direction souhaitée par le groupe.
+
+^ résultat du test | réussite critique | réussite | échec | échec critique |
+^  conséquences    |  //vitesse// | ok | déplacement aléatoire | déplacement aléatoire + désavantage à tous les autres tests |
+
+
+=== Voyage/perception ===
+La perception permet à un personnage de rester attentif tout le long du chemin, à la fois à d'éventuels bruits, à des changements subtils de météo, ou à des éléments discrets du décor.
+
+^ résultat du test | réussite critique | réussite | échec | échec critique |
+^  conséquences    |  pas de surprise  |  connaissance des lieux  |  rien  | la prochaine rencontre est augmentée d'une complication |
+
+
+=== Voyage/survie ===
+La survie est utilisée pour se nourrir et se protéger des différentes difficultés rencontrées, des sangsues aux plantes urticantes.
+
+^ résultat du test | réussite critique | réussite | échec | échec critique |
+^  conséquences    |   |  |   |  |
+
+
+=== Voyage/dissimulation ===
+La dissimulation permet d'éviter d'être vus. Ne pas se dissimuler ne veut pas dire être vu de tous, mais dans certains environnements, la prudence est sans doute de mise.
+
+^ résultat du test | réussite critique | réussite | échec | échec critique |
+^  conséquences    |  invisibles | peu visibles | visibles | visibles de très loin |
+
+
+==== L'influence du terrain ====
+Selon l'endroit traversé, certaines actions pourraient se trouver plus difficile à mener.
+
+^ propriété de terrain ^ compétence de voyage subissant un désavantage | 
+| plat | dissimulation |
+| difficile | vitesse |
+| désorientant | orientation |
+| désert | survie |
+| relief | observation |
+
+
+
+===== Fatigue =====
+La //fatigue// est représentée à l'aide de 5 cases alignées horizontalement sur la fiche de personnage.
+Lorsqu'un personnage effectue un [[:règles:concept:voyage#tests de voyage|test de voyage]], il subit un point de fatigue.
+
+Lorsqu'un personnage possède 5 points de fatigue, il ne peut simplement plus réaliser de tests de voyage.
+
+==== Effets de la fatigue ====
+Les effets de la fatigue sont multiples, et dépendent de la [[:règles:compétence:résistance physique]] du personnage.
+
+  * tant que le personnage possède N points de fatigue ou plus, avec N égal à la moitié de la résistance physique arrondie à l'inférieur, il subit un malus de 1 à toutes ses compétences.
+  * tant que le personnage possède autant de points de fatigue ou plus que sa résistance physique, il subit un [[:règles:concept:avantage#désavantage|désavantage]] à toutes ses compétences.
+  * tant que le personnage possède plus de point de fatigue que sa résistance physique, il subit un malus de 2 supplémentaire à toutes ses compétences (soit 3 au total).
+
+==== Combattre la fatigue ====
+Le plus simple est simplement de dormir la nuit : **chaque nuit calme enlève un point de fatigue à chaque PJ**.
+
+Après une nuit mouvementée, un PJ ne regagne de point de fatigue que s'il réussit un test de [[:règles:compétence:résistance psychique]].
+
+
+===== Réserves =====
+Les réserves que les PJ emmènent lors de leur voyage est encodé simplement par une valeur entière, qui diminuera à plusieurs reprises.
+À chaque [[#étapes|étape]], les PJ doivent se nourrir et consomment chacun 1 point de réserve.
+
+Certaines [[:règles:aptitude:voyage|aptitudes]] permettront aux PJ de transporter plus de réserve, ou d'éviter de trop les diminuer en amassant de la nourriture sur la route.
+
+
+==== Calcul des réserves ====
+
+Les réserves sont tout simplement la somme de ce que chaque PJ peut transporter, ie [[:règles:compétence:force]] × [[:règles:compétence:organisation]]. Un [[:règles:classe:dresseur]] ajoutera, le cas échéant, la capacité de transport des bêtes de somme qui l'accompagnent.
+
+
+
+==== Utilisation des réserves ====
+
+Chaque PJ utilise 1 point de réserve par étape pour se nourrir.
+
+De plus, avec 1 point de réserve, il est possible de :
+
+  * soigner 1×1 blessure lors d'un [[:règles:concept:repos|repos long]]
+  * recharger de 3 [[:règles:type:réactif|réactifs]] la réserve de réactif d'un [[:règles:classe:artificier]]
+
+D'autres objets ou connaissances pourraient permettre d'utiliser les réserves autrement, mais cela ne sera possible qu'en explorant le continent oublié.
+
+
+

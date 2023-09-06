@@ -1,0 +1,7 @@
+====== Dégâts bruts ======
+
+Les dégâts sont des [[:règles:concept:pattern|patterns]] que l'entité qui les subit doit noircir dans [[:règles:concept:pv_armure_et_blessure|son rectangle de points de vie]].
+
+Les dégâts bruts sont spéciaux : ce sont des dégâts qui ignorent [[:règles:concept:armure|les armures]]. 
+
+Voilà. Subir des dégâts bruts, c'est nul.

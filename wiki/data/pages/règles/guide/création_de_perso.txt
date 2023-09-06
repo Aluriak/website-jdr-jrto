@@ -4,6 +4,10 @@
 Feuille blanche, crayon de bois.
 Si possible, un crayon non effaçable (pour écrire ce qui n'est pas susceptible de changer), de la patience et des idées.
 
+Si vous voulez une feuille numérique, inspirez vous librement de [[https://lucas.bourneuf.net/files/lco-fdp.ods|cette feuille]].
+
+Si vous vous posez des questions, peut-être qu'elle trouvera sa réponse dans [[:jdr:faq:|une FAQ]] ou auprès [[:auberge|d'autres joueurs ou joueuses]].
+
 
 ===== Le concept =====
 Partir avec une idée de concept de personnage est souvent une bonne idée. Que ce soit «david crockett avec une hache à deux main», «une naine berserk fan de fromage», «un chevalier noir avec le cœur sur la main», «un ancien marchand de tapisserie qui vient botter des culs et mâcher du chewing-gum», «une ex-mère de famille désœuvrée qui a décidé de servir dans l'armée avant de partir faire du survivalisme», «le poivrot qui triche bien au jeu d'argent mais qui aime aussi s'engueuler avec le patron du tripot» ou «une diplomate espionne et assassin qui a tout plaqué pour devenir horticultrice»,
@@ -18,9 +22,9 @@ Des exemples de personnages génériques, pouvant servir d'inspiration ou de gui
 ===== Classe =====
 La [[règles:classe:|classe]] d'un personnage va définir énormément de ses capacités en jeu, et surtout de leur évolution.
 
-Elle aidera à définir ce qui est important pour votre personnage, et donnera accès à de nombreuses [[:règles:concept:aptitude|aptitudes]] en plus des [[:règles:aptitude:|aptitudes communes]] à l'ensemble des personnages.
+Elle aidera à définir ce qui est important pour votre personnage, et donnera accès à de nombreuses aptitudes de classes en plus des [[:règles:aptitude:|aptitudes communes]] à l'ensemble des personnages.
 
-Il n'est pas obligatoire de choisir une classe, on peut la choisir plus tard. Cela coûtera un peu plus de PEX qu'en choisir une immédiatement, mais permet à votre personnage de devenir un véritable [[:règles:classe:dilettante|dilettante]].
+Il n'est pas obligatoire de choisir une classe, on peut la choisir plus tard. Cela coûtera un peu plus de PEX qu'en choisir une immédiatement, mais permet à votre personnage de devenir un véritable [[:règles:aptitude:divers|dilettante]].
 
 
 

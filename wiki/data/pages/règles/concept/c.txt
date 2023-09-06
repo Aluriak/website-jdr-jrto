@@ -3,7 +3,14 @@
 ===== Dans C =====
 C décrit une case dans un espace divisé en cases hexagonales, généralement celle où se trouve le personnage dont on parle.
 
+Notons qu'une case peut accueillir plusieurs entités en même temps. Le cas échéant, toutes ces entités sont considérées au corps à corps les unes avec les autres.
+
 ===== C+1 =====
 C+1 décrit l'ensemble des cases adjacentes à C.
 
 De la même manière, C+2 décrit l'ensemble des cases adjacentes à C+1 (en excluant implicitement C).
+
+
+
+===== Portée de 3 =====
+Avoir une portée de 3, c'est pouvoir toucher une cible à 3 cases de distance, soit deux cases séparant la case du lanceur et la case de la cible.

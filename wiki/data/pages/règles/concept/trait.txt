@@ -1,7 +1,7 @@
 ====== Traits ======
 
 Lors de la [[:règles:guide:création de perso|création d'un personnage]], il est possible de lui attribuer des traits.
-Il s'agit d'une option, et la majeure partie du temps, juste un moyen supplémentaire pour qui veut de différencier son personnage.
+Il s'agit d'une option, et la majeure partie du temps, juste un moyen supplémentaire pour qui veut de singulariser son personnage.
 
 
 

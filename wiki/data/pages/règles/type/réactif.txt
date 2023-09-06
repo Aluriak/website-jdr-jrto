@@ -2,3 +2,26 @@
 Un des [[:règles:type:|types]].
 
 Les Réactifs sont notamment utilisés par [[:règles:classe:artificier|l'artificier]].
+
+
+
+
+==== Concussion ====
+
+
+
+==== Feu ====
+Le feu est un réactif qui touche superficiellement, mais peut infliger [[:règles:type:affliction#brûlure|l'affliction de brûlure]].
+
+
+
+==== Flash ====
+
+
+==== Fumigène ====
+
+
+==== Lacrymogène ====
+Le feu est un réactif qui touche superficiellement, mais peut infliger [[:règles:type:affliction#brûlure|l'affliction de brûlure]].
+
+==== Sonore ====

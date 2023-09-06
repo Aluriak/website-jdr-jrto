@@ -1,0 +1,41 @@
+====== Aptitudes de voyages ======
+
+Lors des phases d'[[:règles:concept:voyage|voyages]] à travers le continent oublié, les personnages sont amenés à utiliser de nombreuses ressources. Les aptitudes suivantes les aideront à traverser le continent oublié.
+
+
+===== Voyageur infatigable ====
+Le personnage peut encaisser autant de points de fatigue supplémentaire que son score de [[:règles:compétence:résistance physique]], et [[:règles:concept:voyage#effets de la fatigue|les malus]] sont appliqués avec 1 points de décalage.
+
+===== Explorateur chevronné =====
+Le personnage bénéficie d'un avantage lorsqu'il effectue un [[:règles:concept:voyage#tests de voyage|test de voyage]] dans un type d'environnement spécifique — choisi à l'acquisition de cette aptitude — :
+
+  * jungle
+  * forêt
+  * forêt des arbres-mondes
+  * désert
+  * montagne
+  * plaine
+
+=== Améliorations ===
+  * 2 environnements supplémentaires de la liste sont concernés
+    * encore 3 environnements supplémentaires
+
+
+===== Chasseur du crépuscule =====
+[si survie 4+:] S'il le souhaite, un personnage peut, à la fin d'une [[:règles:concept:voyage#étapes|étape]], réaliser un [[:règles:compétence:survie|test de voyage/survie]] supplémentaire. Si il réussit, toute la troupe est nourrie et ne consomme donc pas de réserve de nourriture pour cette étape.
+
+=== Améliorations ===
+  * chasseur émérite : avantage sur le test de survie
+
+
+===== Marcheur-cueilleur =====
+[Si survie 2+:]
+Si le personnage réussi un [[:règles:concept:voyage#tests|test de voyage/survie]] pendant l'étape, il se nourri seul et ne consomme donc pas de réserve de nourriture. 
+
+===== Sérendipité =====
+Si le personnage échoue à un test de voyage, il bénéficie d'un des avantages — choisi à l'acquisition de cette aptitude — suivants:
+
+  * il ne subit pas de point de fatigue
+  * il peut [[:règles:concept:relance|relancer]] son test
+
+NB: cette aptitude, comme toute aptitude ne le spécifiant pas, ne peut pas être prise plusieurs fois.

@@ -1,7 +1,7 @@
 ====== Topomancien ======
 //Je vous laisse gérer, moi je suis nul avec les cartes//
 
-Le topomancien est un magicien spécialisé dans l'étude des espaces et de l'organisation des [[:lco:concept:plan|plans]].
+Le topomancien est un magicien spécialisé dans l'étude des espaces, de leurs [[:lco:concept:nœud géomagique|intersections]] et de l'organisation des [[:lco:concept:plan|plans]].
 
 ==== Compétences ====
 
@@ -10,8 +10,52 @@ Devenir Topomancien ouvre les compétences spécialisées suivantes : [[règles:
 ==== Mana ====
 
 Le total de mana est un rectangle de [[:règles:concept:notation×k|N×K]], avec N le meilleur
-score parmis les compétences spécialisées de [[:règles:classe:magicien]], et K la [[:règles:compétence:résistance psychique]].
+score parmi les compétences spécialisées de [[:règles:classe:magicien]], et K la [[:règles:compétence:résistance psychique]].
 
 ==== Fonctionnement de la magie ====
 
 Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
+
+
+===== Aptitudes =====
+
+==== Ouverture de portails ====
+Lorsqu'il est situé sur un [[:lco:concept:nœud géomagique]], le personnage peut ouvrir un portail pendant quelques secondes, qui matérialise un passage entre les plans en intersection. Le portail dure quelques secondes, et concerne une case complète.
+
+Le coût en mana est semblable à n'importe quel [[:règles:guide:lancer un sort|lancer de sort]], dont les patterns à utiliser sont les patterns décrits par les plans en intersection.
+
+
+=== Améliorations ===
+  * ouverture à distance de 5 cases
+  * le portail dure 1h
+
+
+==== Téléportation ====
+Échange deux entités consentantes de place, chacun étant à 3 cases ou moins du lanceur, pour 2×3 mana.
+
+=== Améliorations ===
+  * 2×1 mana
+  * le consentement peut être outrepassé avec un test de volonté réussi
+    * avantage sur le test de volonté
+  * 3 entités changent de place
+    * jusqu'à 5 entités
+
+
+==== Topologie modifiée ====
+Le personnage modifie la position d'une case à 3 cases ou moins de lui dans l'espace à un autre endroit, également situé à 3 cases ou moins. Les entités qui s'y trouvaient sont également déplacées, et l'espace désormais vide ne communique plus avec rien, comme si un trou occupait l'univers.
+Coût en mana de (N+1)×2, avec N le nombre d'entités déplacées, et l'effet dure jusqu'à la fin du prochain tour du lanceur.
+
+=== Améliorations ===
+  * Le coût est rabaissé à (N+1)×1
+  * portée augmentée à vision du lanceur
+  * dure 5 minutes
+
+
+==== Topologie inversée ====
+Échange deux cases — à 3 cases de distance au plus du lanceur — pour un coût de (N+1)×(K+1) mana, avec N le nombre d'entité sur la première case, et K le nombre d'entité sur la deuxième case. L'effet jusqu'à la fin du prochain tour du lanceur.
+
+=== Améliorations ===
+  * Le coût est rabaissé à (N+1)×1, ou (K+1)×1 si K>N.
+  * 3 cases sont concernées, et peuvent donc être librement échangées
+  * portée augmentée à vision du lanceur
+  * dure 5 minutes

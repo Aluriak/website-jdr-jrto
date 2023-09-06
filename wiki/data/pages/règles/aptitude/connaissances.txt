@@ -1,0 +1,5 @@
+====== Aptitudes en lien avec les connaissances et l'érudition ======
+
+
+==== Langues anciennes ====
+Le personnage a étudié les langues anciennes pendant suffisamment longtemps pour être capable de les reconnaître et en comprendre les concepts clef. Il gagne une relance automatique sur ses jets de [[:règles:compétence:langues anciennes|langues anciennes]].

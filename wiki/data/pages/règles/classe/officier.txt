@@ -15,6 +15,7 @@ Devenir Officier n'ouvre pas de compétences spécialisées.
     * [[:règles:classe:magicien]]: ???
     * [[:règles:classe:artificier]]: ???
     * [[:règles:classe:convocateur]]: ???
+    * utiliser son commandement pour diriger un animal d'un [[:règles:classe:dresseur]]
     * protéger avec le [[:règles:classe:gardien]]: l'officier ajoute également son armure à l'entité protégée par le gardien [[:règles:concept:C|dans C]]
 
   * Vertical: l'officier peut déléguer son [[:règles:concept:ao|AO]] à un allié dans C (l'officier ne la réalise pas, c'est l'allié qui la fait, sans que celui-ci ne dépense son AO)

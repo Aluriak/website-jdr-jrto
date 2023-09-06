@@ -12,3 +12,8 @@ Ajouter 1 cases de PV à droite du rectangle sur une ligne au choix
 ==== Améliorations ====
     * 2 cases en plus de la première
       * 3 cases en plus des 3 premières
+
+
+===== Ignifugé =====
+Au début de votre tour, si vous deviez prendre des dégâts de [[:règles:type:affliction#brulure|brûlure]], ignorez en un (cela passe donc à zéro si vous ne deviez en prendre qu'un).
+

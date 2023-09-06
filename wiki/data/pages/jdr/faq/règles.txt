@@ -1,0 +1,71 @@
+====== Questions à propos des règles de jeu ======
+
+Il y a beaucoup de règles, et certaines questions méritent d'être explicitement répondues.
+
+
+===== C'est quoi cette histoire de PEX ? =====
+Les [[:règles:concept:PEX|PEX]] sont des points qu'un personnage obtient à sa création, et lorsqu'il revient d'une expédition. Chaque PEX permet d'ajouter [[:règles:aptitude:|des aptitudes]] au personnage, ou de gonfler ses [[:règles:compétence:|compétences]].
+
+Il s'agit d'un encodage de //l'expérience// du personnage, qui sera au fur et à mesure des expéditions de plus en plus expérimenté.
+
+Il convient de noter sur la feuille de personnage le nombre de PEX qu'il a obtenu, et, le cas échéant, le nombre de PEX encore non dépensés.
+
+
+===== Je commence par quoi ? =====
+Par [[:règles:guide:création de perso|faire un personnage]], puis, lire [[:règles:guide:pattern|le guide sur les patterns]] qui est une notion très utilisée.
+
+Si déjà tout ça est lu, c'est très, très bien.
+
+
+===== C'est quoi la différence entre compétence et aptitude ? =====
+Une [[:règles:aptitude:|aptitude]], c'est un bonus pour le personnage, généralement un texte qui indique un bonus auquel le personnage a droit lorsqu'il acquiert l'aptitude.
+
+Par exemple, l'aptitude [[:règles:aptitude:pv_et_blessures#sacaviande|Sac à viande]] permet au personnage d'avoir plus de points de vie.
+Une aptitude s'acquiert en payant un [[:règles:concept:PEX|PEX]], et d'autres PEX peuvent permettre de lui acheter des améliorations.
+
+Une compétence, à l'inverse, est une catégorie d'actions diverses ou de capacités que le personnage a, et qu'il utilise lorsqu'il effectue un [[:règles:guide:faire un test|test]]. Chaque compétence est associée à un score (1, par défaut), pouvant descendre à 0 et monter jusqu'à 9. Plus le score est haut, plus le personnage a de chances de réussites dans les tests avec cette compétence.
+
+Certaines compétences et aptitudes ne peuvent pas être acquise par un personnage. Notamment, les aptitudes de classe appartenant à une classe que le personnage ne possède pas, ainsi que les compétences spécialisées qui ne sont pas ouvertes explicitement par sa ou ses classes.
+Aussi, certaines aptitudes ne peuvent pas être acquises, parce qu'elles ont un prérequis.
+
+
+
+===== Où est la liste de toutes les compétences ? Je dois prendre lesquelles ? =====
+La [[:règles:compétence:|liste de compétence]] n'est pas exhaustive. Tu prend celles que tu veux, mais certaines sont régulièrement utilisées ou utilisées comme base de calcul pour certaines caractéristiques de personnages.
+
+Tu as +1 pour toutes celles que tu ne marque explicitement pas comme ayant une autre valeur, à l'exception des compétences spécialisées, qui elles ne sont accessibles (//ouverte//) que si ta classe le permet et sinon sont inutilisables.
+
+Pour faire ta liste de compétences, je te conseille de faire une colonne avec les bonus en nombre indiqué dans l'ordre décroissant. Par exemple, avec un profil [[:règles:guide:création de perso#Compétences|équilibré]] :
+
+    +5
+    +5
+    +4
+    +4
+    +4
+    +3
+    +3
+    +3
+    +3
+    +3
+    […]
+
+Et ensuite, de mettre en face de chaque bonus une compétence. Celles qui te semblent importantes, tu les mets plutôt vers le haut de ta liste (en face des +5, +4), et celles qui te semblent plus secondaire plutôt en bas. Celles qui ne sont pas renseignées sont à +1, et n'ont pas //besoin// d'être sur la liste de ta feuille de perso
+
+===== C'est quoi les meilleures compétences pour un personnage ? =====
+
+[[:règles:compétence:résistance physique]], [[:règles:compétence:port d'armure]], maniement d'une arme (par exemple [[:règles:compétence:lames courtes]]), [[:règles:compétence:organisation]], [[:règles:compétence:athlétisme]], [[:règles:compétence:orientation]], [[:règles:compétence:survie]], [[:règles:compétence:observation]], [[:règles:compétence:dissimulation]], et bien sûr les compétences spécialisées ouvertes par la ou les classes du personnage.
+
+==== Mais… Yen a trop ! Je peux pas toutes les mettre à +5 ! ====
+Hé non, faut faire des choix !
+
+
+===== Je marque quoi sur ma feuille de perso ? =====
+
+  * Nom du personnage, classes, PEX total et PEX dépensé
+  * Tableau des points de vie, du mana le cas échéant
+  * Les compétences et leur score, pour celles qui ne sont pas à +1.
+  * Les noms des aptitudes acquéries, ainsi que la description de leur effet, amendées des améliorations possédées par le personnage
+  * Le matériel qu'il transporte et possède
+  * Sa capacité de réserve
+  * Ses points de fatigue
+

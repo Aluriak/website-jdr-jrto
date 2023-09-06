@@ -1,30 +1,27 @@
 ====== Artificier ======
-//1 siècle pour la construire, une mèche pour la détruire//
+//Un siècle pour la construire, une mèche pour la détruire//
 
 
-L'artificier dispose de 3 Artifices. Il les combine avec des Réactifs pour obtenir des armes utilitaires, dangereuses, voires léthales.
+L'artificier manipule 3 Artifices, incluant fusées bombes et pièges. Il les combine avec des [[:règles:type:réactif|Réactifs]] pour obtenir des armes utilitaires, dangereuses, voires léthales.
 
 
 ===== Compétences =====
 
-Devenir Artificier ouvre les compétences spécialisées suivantes : [[règles:compétence:artifices]].
+Devenir Artificier ouvre les compétences spécialisées d'[[règles:compétence:artifices]] et de [[:règles:compétence:balistique]].
 
-Les compétences de [[:règles:compétence:lancer]] et [[:règles:compétence:pièges et mécanismes]] sont souvent important pour les artificiers souhaitant lancer des bombes ou poser des pièges. 
+Les compétences de [[:règles:compétence:lancer]] et [[:règles:compétence:pièges et mécanismes]] sont importantes pour les artificiers souhaitant lancer des bombes ou poser des pièges. 
 
 
 ===== Notions importantes =====
+
 ==== Artifices ====
 
-  * les fusées
-  * les bombes
-  * les pièges
+|       ^  piège  ^  bombe  ^  fusée  |
+|  compétence |  [[:règles:compétence:pièges et mécanismes|PEM]] |  [[:règles:compétence:lancer]] |  [[:règles:compétence:artifices]] |
+|  portée |  au contact |  1 |  3 |
+|  cibles |  entité |  case |  case |
+|  dispersion |  aucune |  sur échec critique |  sur échec |
 
-==== Réactifs ====
-
-  * flash
-  * concussion
-  * feu
-  * sonique
 
 ==== Synergies ====
 [[:règles:classe:Magicien]] (magie chargée comme réactif)
@@ -42,21 +39,35 @@ Les nombre de réactif transporté par un artificier est du score d'[[:règles:c
 
 
 ==== Réactifs ====
-    * feu/poix
-    * concussion
-    * flash
-    * sonore
-    * fumigène
-    * lacrymogène
+Choisir l'un des [[:règles:type:réactif|réactif]] ci-dessous.
+
+=== Améliorations ===
+  * feu/poix
+  * concussion
+  * flash
+  * sonore
+  * fumigène
+  * lacrymogène
 
 
 ==== Pyrotechnicien ====
-    * Écoulement: pour N réserve de réactifs supplémentaires, un réactif de la fusée est appliqué sur chaque case traversée mais pas à l'arrivée.
-      * pour 1 seul réactif supplémentaire
+=== Améliorations ===
+
+
+
+==== Écoulement ====
+Pour N réserve de réactifs supplémentaires, un réactif de fusée ou de bombe est appliqué sur chacune des N cases traversée, y compris l'arrivée.
+
+=== Améliorations ===
+  * pour 1 seule réserve de réactif supplémentaire
+
 
 ==== Rocket scientist ====
-    * maître infuseur: +2 portées des fusées
-    * ±1 sur le d6 de variation de trajectoire des fusées
+Choisir une amélioration ci-après.
+
+=== Améliorations ===
+  * maître infuseur: +2 portées des fusées
+  * ±1 sur le d6 de variation de trajectoire des fusées
 
 
 ==== Explosifs ====
@@ -64,13 +75,21 @@ Les nombre de réactif transporté par un artificier est du score d'[[:règles:c
 
 
 ==== Professionnel ====
+Choisir l'une des amélioration ci-dessous.
+
+
+=== Améliorations ===
     * le nombre de réactifs transportables est calculé avec la multiplication au lieu de l'addition
     * cumul d'effets: 2 Réactifs combinés dans un Artifice
       * 3 réactifs
 
 
 ==== Grenadier ====
-    * portée des bombes +1
+Portée des bombes +1
+
+
+==== Tempête ====
+Le personnage peut utiliser deux artifices en une seule action, en en payant les prix.
 
 
 

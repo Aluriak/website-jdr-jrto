@@ -2,7 +2,7 @@
 
 Deux types de repos ont un effet direct en jeu : le repos court, 5 à 10 minutes, pris après un évènement stressant ou fatiguant (un combat, par exemple), et le repos long, typiquement d'une demi-douzaine d'heures, et tenu la nuit.
 
-C'est pendant ces repos que certaines aptitudes seront utilisables, ou rechargées.
+C'est pendant ces repos que certaines aptitudes seront utilisables, ou rechargées, et que les PJ pourront [[:règles:concept:voyage#fatigue|perdre un point de fatigue]].
 
 Par exemple, l'ajustement de l'armure du [[:règles:classe:gardien|Gardien]] peut être réalisée lors des repos courts (et donc, pendant les repos longs également).
 

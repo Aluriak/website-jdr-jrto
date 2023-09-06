@@ -5,5 +5,9 @@
 ===== Dilettante =====
 [Si aucune classe:] Ouvrir une aptitude racine de n'importe quelle classe. 
 
-=== Améliorations ===
-  * Dilettante(N): pour N PEX, ouvre N aptitudes racines de n'importe quelles classes	 
+Cette aptitude peut être acquise plusieurs fois.
+
+
+
+===== Sherpa =====
+[Si aucune classe:] Le personnage peut porter 20 unités de réserve de plus [[:règles:concept:voyage|durant les voyages]].

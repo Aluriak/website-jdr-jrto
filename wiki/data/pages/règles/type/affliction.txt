@@ -2,3 +2,13 @@
 Une affliction est un effet durable infligé à une entité.
 
 Il est par exemple infligé par un sort de magicien élémentaire, qui, non content d'infliger des dégâts avec une boule de feu, va également s'assurer de brûler les cases qui ont subit des dégâts, faisant en sorte qu'à chaque tour, une case adjacente à une case brûlée doive être noircie.
+
+
+
+===== Brûlure =====
+Une case de PV brûlée oblige le personnage touché à noircir une case adjacente à celle-ci, au début de chacun de ses tours de jeu.
+
+
+
+===== Incapacité =====
+Une entité incapacité ne peut pas agir. Elle est probablement à terre, ou peine à rester debout, et n'a pas conscience de son environnement.

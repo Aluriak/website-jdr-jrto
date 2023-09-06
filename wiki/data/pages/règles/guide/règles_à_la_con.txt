@@ -1,0 +1,6 @@
+====== Règles à la con ======
+Vous trouverez ici une liste de règles à la con, facilement oubliables, mais importantes.
+
+
+  * [[:règles:concept:relance|les relances diffèrent grandement des avantages]]
+  * [[:règles:concept:recouvrement|le recouvrement de mana]]

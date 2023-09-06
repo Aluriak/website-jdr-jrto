@@ -1,0 +1,5 @@
+====== Les petites magies du Continent Oublié ======
+
+Les petites magies sont des savoirs magiques accessibles à tout personnage ayant un peu de score en [[:règles:compétence:magie]].
+
+Leur utilité n'est pas toujours évidente, et pour les apprendre, il faudra [[:secret:magies:|les découvrir]] lors des expéditions.

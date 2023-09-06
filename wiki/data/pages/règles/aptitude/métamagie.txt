@@ -4,18 +4,27 @@ La métamagie est ouverte à tout personnage dont la compétence spécialisée d
 
 
 
-===== Extraire l'énergie du flux =====
-Le personnage peut gagner 1 [[:règles:type:magimod|Magimod]] en :
+===== Principes de métamagie =====
+Le personnage peut gagner 1 [[:règles:type:magimod|Magimod]] pour un sort qu'il lance en lançant un sort 1 tour + tard.
+Il peut utiliser 1 [[:règles:type:magimod|Magimod]] avec un sort pour retirer 2×2 cases du pattern mana.
 
-  * lançant un sort 1 tour + tard
-  * ajoutant 2×2 cases au pattern de mana
-  * grillant 1 case de mana
+=== Améliorations ===
+  * extraction du flux : le personnage peut gagner 1 Magimod supplémentaire en, au choix lors du lancer de sort :
+    * ajoutant 2×2 cases au pattern de mana
+    * grillant 1 case de mana
+    * si il est effectué, en s'infligeant un désavantage au [[:règles:compétence:magie|test de magie]]
+
+  * réinjection dans le flux : le personnage peut dépenser 1 Magimod supplémentaire pour, au choix lors du lancer de sort :
+    * augmenter dégâts/étendre effet
+    * appliquer un effet métamagique décrit par le sort lui-même
+
+  * essence métamagique : le personnage peut conserver les Magimods qu'il acquiert pendant quelques minutes, et donc les utiliser sur d'autres sorts.
 
 
-===== Réinjection de l'énergie dans le flux =====
-utiliser 1 [[:règles:type:magimod|Magimod]] avec un sort pour :
 
-  * augmenter dégâts/étendre effet
-  * retirer 2×2 cases du pattern mana
-  * appliquer un effet métamagique décrit par le sort lui-même
+===== Expression libre =====
+Lorsque le personnage lance un sort soumis au [[:règles:concept:recouvrement]], il n'est plus nécessaire que tous les patterns soient indirectement liés les uns aux autres. Ainsi, un pattern doit toujours être superposé à un autre pattern, mais il est possible de séparer les patterns en deux groupes distincts.
 
+=== Améliorations ===
+  * jusqu'à 2 cases par pattern //peuvent// être superposées, plutôt qu'une seule.
+    * 3 cases

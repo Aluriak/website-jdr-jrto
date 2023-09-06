@@ -1,0 +1,15 @@
+====== (Dés)Avantages ======
+
+Plusieurs effets donnent à une entité des avantages ou désavantages [[:règles:guide:faire un test|lors d'un test]].
+
+Un avantage permet à l'entité de lancer 2 dés, et de conserver celui qui l'arrange.
+
+Un désavantage contraint l'entité à lancer 2 dés et de conserver celui qui ne l'arrange pas.
+
+Un avantage annule un désavantage, et inversement.
+
+Les avantages et désavantages ne s'additionnent pas : avoir deux avantages ou plus ne permet que de lancer 2 dés.
+
+
+
+Les avantages s'acquierts grâce à certains pouvoirs, ou [[:règles:guide:faire un test#Cocher des compétences|en décochant]] la compétence pour laquelle on s'apprête à faire un test.

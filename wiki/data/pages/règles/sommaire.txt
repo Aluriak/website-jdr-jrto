@@ -1,1 +1,8 @@
-<catlist règles: -columns:2 -excludeOnName:sommaire>
+====== Règles de jeu ======
+
+==== Catégories générales ====
+<catlist règles: -columns:2 -excludeOnName:sommaire -noHead -maxDepth:1>
+
+
+==== Liste complète des pages ====
+<catlist règles: -columns:2 -excludeOnName:sommaire -noHead>

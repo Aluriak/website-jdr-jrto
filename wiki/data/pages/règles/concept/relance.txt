@@ -1,0 +1,12 @@
+====== Relance ======
+La relance est la possibilité pour un joueur de relancer son jet de dé.
+
+À moins que l'inverse ne soit explicitement indiqué, le nouveau résultat remplace et annule le précédent jet de dé. Le précédent jet ne peut pas être utilisé, même s'il était mieux, et ce même si la relance était optionnelle.
+
+Ainsi, si la mention //le personnage peut relancer et doit le cas échéant utiliser le nouveau résultat// apparaît, il s'agit d'une précision inutile, puisque par défaut, relancer un dé force le joueur à utiliser le même résultat.
+
+
+=== Relance vs avantage ===
+L'[[:règles:concept:avantage|avantage]] permet de choisir parmi deux dés lancés en même temps, augmentant significativement les chances de réussites.
+
+La relance, souvent optionnelle, permet quant à elle de retenter sa chance lorsque le résultat n'est pas à la hauteur des enjeux.

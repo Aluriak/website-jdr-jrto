@@ -20,8 +20,14 @@ Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
 
 
 ===== Arbre d'aptitudes =====
+Outre les aptitudes de classe détaillées ici, un personnage magicien sera sans doute intéressé par les aptitudes générales [[:règles:aptitude:magie|de magie]] ou [[:règles:aptitude:métamagie|de métamagie]].
 
-  * Éléments (basal)
+
+==== Maîtrise des éléments ====
+Le personnage peut utiliser avec une [[:règles:type:méthode]] un [[:règles:type:élément]] — choisi à l'acquisition de cette aptitude — dans la liste ci-dessous.
+
+Cette aptitude peut être prise plusieurs fois.
+
     * feu
       * plasma
     * roche
@@ -30,47 +36,74 @@ Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
     * glace
       * glace XIX
 
-  * Méthodes  (basal)
+
+==== Méthodes magiques ====
+Le personnage peut utiliser avec un [[:règles:type:élément]] une [[:règles:type:méthode|Méthodes]] — choisi à l'acquisition de cette aptitude — dans la liste ci-dessous.
+
+Cette aptitude peut être prise plusieurs fois.
+
     * mur
     * surface
     * boule
       * dés de dégâts relançables une fois
       * rebond: touche au second contact
-      * collant: touche quand décidé par le lanceur
-    * train(2)
-      * maintenable: répète pour 1×2
-      * train(N): N×1
+      * collant: s'accroche à ce qu'elle touche, mais n'explose que quand décidé par le lanceur
     * rayon
     * frappe
       * pattern //frappe//
       * coût -1×1
       * s'applique aux cases adjacentes aux cases touchées
 
-  * Récupération: 1 mana retrouvé après chaque repos court si 1 mana utilisé juste avant.
+
+==== Récupération ====
+1 mana retrouvé après chaque repos court si 1 mana utilisé juste avant.
+
+=== Améliorations ===
     * jusqu'à 5 mana
 
-  * Externalisation: le sort peut être lancé depuis 1 case adjacente
+==== Externalisation ====
+Le sort peut être lancé depuis 1 case adjacente
+
+=== Améliorations ===
     * le sort peut être lancé au dessus de la cible (portée 5)
-    * portée 10
-    * portée vision
+      * portée 10
+        * portée vision
+    * depuis une case à portée 5
 
-  * Synergies (basal)
-    * utiliser les éléments comme des réactifs
 
-  * Déchaînement: lancer N fois pour N fois le coût
+==== Synergie ====
+Le personnage peut utiliser les [[:règles:type:élément|éléments]] comme des [[:règles:type:réactif|réactifs]], permettant à un allié sachant utiliser les réactifs de les utiliser comme des réactifs normaux.
+
+
+
+==== Déchaînement ====
+Lancer N fois pour N fois le coût
+
+=== Améliorations ===
     * coût -1x1 pour chaque sort
 
-  * Contrôle: Peut exclure une entité des cibles d'une attaque ciblant une case pour 1x1 mana
+
+==== Contrôle ====
+Peut exclure une entité des cibles d'une attaque ciblant une case pour 1x1 mana
+=== Améliorations ===
     * pas de surcoût de mana
 
-  * Séquence: combiner 2 méthodes qui s'appliquent l'une après l'autre. La suivante prend le point d'arrivée de la précédente comme point de départ.
+
+==== Séquence ====
+Combiner 2 méthodes qui s'appliquent l'une après l'autre. La suivante prend le point d'arrivée de la précédente comme point de départ.
+
+=== Améliorations ===
     * -1x1 sur 2ème méthode
     * la 2ème méthode peut utiliser un autre élément pour 1x1 mana
         * pour 0 mana
     * 3 méthodes
         * -1x1 sur 3ème méthode
 
-  * Combinaison: de combiner 2 éléments en 1 seul pour 1x1 mana.
+
+==== Combinaison ====
+Le personnage peut combiner 2 éléments en 1 seul pour 1x1 mana.
+
+=== Améliorations ===
     * les combinaisons sont disponibles si leurs éléments le sont.
         * feu + glace = glace XVIII
         * feu + roche = lave
@@ -81,7 +114,10 @@ Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
     * sans surcoût
 
 
-  * Magie de la Vie: soin de 1x1 avec 1x1 mana, au contact
+==== Magie de la Vie ====
+Soin de 1x1 avec 1x1 mana, au contact.
+
+=== Améliorations ===
     * épimagi(N): 1×1 mana = N×1 soin
     * orgamagi(K): 1×1 mana = 1×K soin
     * si épimagi(1+) et orgamagi(1+):
@@ -94,7 +130,11 @@ Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
         * Portée de 3 case
     * élément: Vie utilisable comme un élément
 
-  * Magie de la Mort: 1×1 dégâts nécrotiques avec 1×1 mana, au contact
+
+==== Magie de la Mort ====
+1×1 dégâts nécrotiques avec 1×1 mana, au contact.
+
+=== Améliorations ===
     * flétrissure(N): 1×1 mana = N×1 dégâts
     * nécrose(K): 1×1 mana = 1×K dégâts
     * si flétrissure(1+) et nécrose(1+):
@@ -106,7 +146,10 @@ Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
       * Portée de 3 case
     * élément: Mort utilisable comme un élément
 
-  * Création: ???
+
+==== Création ====
+???
+=== Améliorations ===
     * associer un Élément à une Arme pour 1×1 mana, maintenu avec 1×1.
     * créer une Arme faite de magie. 1×1 mana + pattern de dégâts de l'arme en mana réservés tant que l'arme existe.
     * [si Élément eau:]
@@ -116,9 +159,18 @@ Voir le [[:règles:guide:lancer un sort|guide sur le lancer de sort]]
     * [si Élément roche:]
       * devenir de roche
 
-  * Arcaniste: +2 à la compétence spécialisée utilisée pour le calcul de la quantité de mana.
-    * +5 au lieu de +2
-    * +5 en [[:règles:compétence:résistance psychique]] pour le calcul de la quantité de mana.
-    * possibilité d'organiser tous les carrés de mana comme le magicien le souhaite. Seule contrainte : conserver le bon nombre de cases.
-    * Armure arcanique: indiquer une armure de 2×2 dans le mana. Ces cases ne peuvent plus être noircies. NB: la contrainte selon laquelle tout sort doit noircir au moins une case existe toujours, donc un sort ne peut jamais être complètement absorbé par l'armure arcanique.
-      * 3×3 au lieu de 2×2
+
+==== Magie de l'illusion ====
+Créer un petit effet inoffensif et abstrait qui affecte un sens d'une entité visible (1×1 mana), tel qu'une source de lumière, un son, une odeur, une sensation de toucher (maintenu avec 1×1 mana). 
+
+=== Améliorations ===
+    * affecte toutes les entités d'une case
+      * toutes les entités des environs
+    * affecte plusieurs sens
+    * pour N×K mana, une illusion ressentie sur N×K mètres autour d'elle peut se matérialiser dans le monde réel (maintenue avec 1×1 mana)
+      * N×K dizaines de mètres
+      * pour 3×3 mana supplémentaire, l'illusion prend vie ; ainsi, une illusion d'animal se comportera comme un réel animal, en fonction de se qui l'entoure.
+      * la maintenance avec 1×1 mana rallonge le sort de 1h, au lieu d'un tour de jeu
+    * Plus vrai que nature : donne un [[:règles:concept:avantage|désavantage]] à tout test de perception visant à détecter des imperfections dans l'illusion qui démontreraient qu'il s'agit bien d'une illusion.
+    * Dissimuler la magie : donne un [[:règles:concept:avantage|désavantage]] à tout test de [[règles:compétence:détection de la magie]] visant à déterminer si l'illusion est une illusion.
+

@@ -1,5 +1,5 @@
 ===== Faire un test =====
-//Et là, alors que j'étais en train de m'endormir tranquille, le MJ me secoue et me demande de faire un test de connaissance en confinement isobar. Je suis un peu surpris, tu vois, alors je lui ait dit de sortir de ma chambre ; ça fait trois jours que la partie est fini quand même, il pourrait rentrer chez lui non ? Ou c'est moi qui en demande trop ?//
+//Et là, alors que j'étais en train de m'endormir tranquille, le MJ me secoue et me demande de faire un test de connaissance en confinement isobare. Je suis un peu surpris, tu vois, alors je lui ait dit de sortir de ma chambre ; ça fait trois jours que la partie est finie quand même, il pourrait rentrer chez lui non ? Ou c'est moi qui en demande trop ?//
 
 
 ==== Principe ====
@@ -8,7 +8,7 @@ Un //test//, c'est un évènement récurrent des parties de JdR. Il est vivement
 Ça consiste d'abord à identifier la compétence à considérer. Souvent, c'est facile, le MJ dit «fait moi un test de compilation en TeX», donc on sait que la compétence, c'est //compilation en TeX//.
 
 Ensuite, il faut trouver cette compétence dans sa feuille de personnage, dans la section //Compétences//.
-Là, à côté y a un score, genre ''7'', ''3'', ou ''0''. Nous on va prendre ''7'' dans notre exemple. Si on l'a pas, on a ''0''.
+Là, à côté y a un score, genre ''7'', ''3'', ou ''0''. Nous on va prendre ''7'' dans notre exemple. Si on l'a pas, on a ''1''.
 
 Maintenant, c'est là que ça se joue. On lance un d10, et on compare le résultat du dé au score de la compétence testée.
 
@@ -24,8 +24,8 @@ Voilà, il reste juste à communiquer l'info au MJ, et le test est fait !
 
 
 
-==== Avantages et désaventages ====
-Parfois, la situation, le contexte, une coche (voir en dessous), permettent à un personnage de réaliser un test avec //avantage//.
+==== Avantages et désavantages ====
+Parfois, la situation, le contexte, une coche (voir en dessous), permettent à un personnage de réaliser un test avec //[[:règles:concept:avantage|avantage]]//.
 C'est super, et c'est simple : on lance 2d10 au lieu d'un seul, et le joueur choisi le résultat qui l'arrange.
 
 De la même manière, un //désavantage// va faire lancer les dés, mais forcer le joueur à choisir le pire résultat.
@@ -37,13 +37,14 @@ Notons d'ailleurs que le pire résultat n'est pas nécessairement le plus grand 
 ==== Cocher des compétences ====
 Lorsque que tu fais un coup critique sur un test, tu peux mettre une coche sur cette compétence.
 
-Cette coche a deux usages possibles :
+Tu peux décocher la compétence à trois moments :
 
-  * si tu utilise une compétence cochée, tu peux la décocher et obtenir un //avantage// sur le test.
-  * à la fin d'une expédition, tu peux utiliser un [[règles:concept:PEX|PEX]] pour augmenter de +1 toutes les compétences cochées (et les décocher ensuite, évidemment).
+  * si tu te prépare à utiliser une compétence cochée, pour obtenir un //avantage// sur le test.
+  * si tu as //déjà// utilisé une compétence cochée, et que le résultat du dé ne te plaît pas, tu peux //relancer// le dés et conserver le nouveau résultat.
+  * à la fin d'une expédition, pour augmenter de +1 la compétence.
 
 Ainsi, lorsqu'une compétence est cochée, on est tentés de l'utiliser pour s'assurer un avantage pendant un passage difficile. Mais en même temps, si on ne la garde pas,
 on pourra peut-être pas améliorer durablement sa compétence.
 
-NB: une compétence ne peux avoir qu'une seule coche à la fois. Elle est cochée, ou pas.
+NB: une compétence ne peux avoir qu'une seule coche à la fois. Elle est cochée, ou pas. Gagner une coche sur une compétence déjà cochée, c'est donc perdre une coche.
 

@@ -1,0 +1,3 @@
+====== Lancer ======
+
+Détermine à quel point le personnage est capable de lancer des trucs, loin, fort, ou précisément.

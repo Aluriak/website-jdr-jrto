@@ -1,2 +1,34 @@
 ===== Lancer un sort =====
 //Attention !//
+
+
+Un sort, typiquement lancé par un [[:règles:classe:magicien|magicien]], possède un coût en [[:règles:compétence:magie|mana]], et des effets.
+
+
+==== Le coût en mana ====
+Le coût en mana d'un sort est exprimé en [[:règles:concept:pattern|pattern]] ou en [[:règles:concept:notation k|notation n×k]], et décrit un motif de cases qui devront être noircie dans [[:règles:compétence:magie|le rectangle de mana]] du magicien.
+
+Un magicien utilisant un [[:règles:type:élément]] combiné à une [[:règles:type:méthode]] aura donc deux motifs de mana a noircir sur sa feuille : celui de l'élément, et celui de la méthode, avec la règle du **[[:règles:concept:recouvrement]]** : //une case, et une seule, doit être commune à deux patterns d'un sort, et de telle manière que chaque pattern du sort soit en contact direct ou indirect avec les autres.//
+
+Ainsi, un sort nécessitant de noircir 3 pattern (une boule de feu et de roche, par exemple), devra avoir deux cases communes partagées par les 3 patterns. Il est possible de n'en avoir qu'une seule en s'assurant que les trois patterns se touchent sur exactement la même case, même si cela a peu d'intérêt, puisque le recouvrement permet d'économiser des points de mana.
+
+(Les motifs exacts des éléments et des méthodes sont décrits sur l'écran du MJ, et dans la section suivante)
+
+
+==== Motifs ====
+
+|  [[:règles:type:élément|Éléments]]  |||||||||||||||||||
+^  feu  ||^  air  |||^  roche  |^ eau |||^ poison ||^ plante |||
+|X| ||  | | |X| X|X|  | | | | X| |X| X| |X|
+| |X|| X| |X| | X|X| X|X|X|X|  | | |  |X| |
+|X|X||  |X| | |  | |  | | | | X| |X|  |X| |
+
+|  [[:règles:type:méthode|Méthodes]]  |||||||||||||||
+^  mur  |^  boule  |^  rayon  |||^ surface |||^ frappe |||
+|X| |  | |  | | |X|  | | | |  |X| |
+|X| | X|X|  | |X| | X|X|X|X| X| |X|
+|X|X| X|X|  |X| | |  | | | |  |X| |
+| | |  | | X| | | |  | | | |  | | ¦
+
+
+
